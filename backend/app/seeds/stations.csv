@@ -1,0 +1,1956 @@
+external_id,brand,name,address,city,state,lat,lon,hgv_tagged,truck_network
+osm:w243869764,BP,BP,,,AL,33.645872,-85.50631,yes,no
+osm:w1005697636,Chevron,Chevron,,,AL,33.643539,-85.501014,yes,no
+osm:w230483735,Flying J,Flying J,,,AL,33.56238,-86.831512,yes,yes
+osm:w230483737,Flying J,Flying J,224 Daniel Payne Drive,Birmingham,AL,33.562094,-86.830674,no,yes
+osm:w230484017,Flying J,Flying J,2190 Ross Clark Circle,,AL,31.191325,-85.400634,no,yes
+osm:n10134120317,Love's,Love's,747 747 Lee Road,,AL,32.536914,-85.082787,no,yes
+osm:n11691918939,Love's,Love's,,,AL,32.53664,-85.082063,no,yes
+osm:n11711684937,Love's,Love's,,,AL,30.531982,-88.237453,no,yes
+osm:n11711684938,Love's,Love's,,,AL,30.531917,-88.238601,no,yes
+osm:n12187064869,Love's,Love's,,,AL,30.742143,-88.110386,no,yes
+osm:n12262904376,Love's,Love's,,,AL,33.933838,-86.190764,yes,yes
+osm:n13770704750,Love's,Love's,6647 AL 46,Heflin,AL,33.646984,-85.506018,no,yes
+osm:n13770704758,Love's,Love's,6647 AL 46,Heflin,AL,33.647918,-85.50575,yes,yes
+osm:n5474122686,Love's,Love's,2048 AL Highway 20,Muscle Shoals,AL,34.696832,-87.636094,yes,yes
+osm:w1147422695,Love's,Love's,,,AL,31.427666,-85.618911,no,yes
+osm:w1147422697,Love's,Love's,U.S. Highway 231,Ozark,AL,31.427515,-85.61982,no,yes
+osm:w1258811613,Love's,Love's,,Jasper,AL,33.791227,-87.242068,no,yes
+osm:w1258811614,Love's,Love's,,Jasper,AL,33.791489,-87.242835,no,yes
+osm:w1259755651,Love's,Love's,,,AL,32.1959,-86.415317,no,yes
+osm:w1259755653,Love's,Love's,,,AL,32.196388,-86.414535,yes,yes
+osm:w1323594922,Love's,Love's,1126 County Road 35,Hamilton,AL,34.093373,-88.005214,no,yes
+osm:w1323594923,Love's,Love's,1126 County Road 35,Hamilton,AL,34.092434,-88.004961,no,yes
+osm:w218492781,Love's,Love's,,,AL,33.27914,-87.09897,no,yes
+osm:w218492796,Love's,Love's,,,AL,33.278764,-87.099515,yes,yes
+osm:w220388749,Love's,Love's,,,AL,34.367669,-86.893721,no,yes
+osm:w220388750,Love's,Love's,64 East Pike Road,,AL,34.366841,-86.893529,yes,yes
+osm:w220391029,Love's,Love's,,,AL,33.933308,-86.191527,no,yes
+osm:w221638574,ONE9,ONE9,Buttermilk Road,Cottondale,AL,33.178929,-87.446247,yes,yes
+osm:n12302815184,Petro,Petro,1724 West Grand Avenue,Gadsden,AL,33.995083,-86.082736,yes,yes
+osm:n12323045415,Petro,Petro,428 Main Street,Shorter,AL,32.405843,-85.955894,yes,yes
+osm:n12323068362,Petro,Petro,426 AL 69 South,Hanceville,AL,34.051062,-86.87214,yes,yes
+osm:n12842967406,Pilot,Pilot,159 Michael Spann Drive,Winfield,AL,33.992133,-87.77823,no,yes
+osm:w124674615,Pilot,Pilot,,,AL,33.17334,-87.47828,no,yes
+osm:w124674624,Pilot,Pilot,,,AL,33.172906,-87.478479,yes,yes
+osm:w1314211600,Pilot,Pilot,,,AL,34.116668,-86.863376,no,yes
+osm:w1314211601,Pilot,Pilot,,,AL,34.117112,-86.864364,no,yes
+osm:w236742059,Pilot,Pilot,,,AL,34.53804,-86.91047,no,yes
+osm:w236742061,Pilot,Pilot,3240 Point Mallard Parkway Southeast,,AL,34.537668,-86.9112,no,yes
+osm:w1117870113,QuikTrip,QuikTrip,4001 Buttermilk Road,Tuscaloosa,AL,33.171053,-87.44582,yes,no
+osm:r21200249,Speedway,Speedway,,,AL,30.656017,-87.75974,yes,no
+osm:n12854671610,Sunoco,Sunoco,901 Bankhead Highway West,Birmingham,AL,33.529385,-86.851142,yes,no
+osm:n12305191074,TA,TA,3501 Buttermilk Road,Tuscaloosa,AL,33.176942,-87.446268,yes,yes
+osm:n12307861848,TA,TA,75246 AL 77,Lincoln,AL,33.58635,-86.124304,yes,yes
+osm:n13908279067,TA,TA,980 West South Boulevard,Montgomery,AL,32.327696,-86.331816,yes,yes
+osm:n12070595365,AmBest,AmBest,,,AR,35.261129,-90.225784,yes,yes
+osm:w1367609040,DK,DK,,,AR,33.512091,-93.949194,yes,no
+osm:n13389622670,Exxon,Exxon,,,AR,35.136302,-90.489441,yes,no
+osm:w219424151,Flying J,Flying J,,,AR,35.153881,-90.144355,no,yes
+osm:w230489757,Flying J,Flying J,,,AR,35.283712,-93.090105,no,yes
+osm:w230490200,Flying J,Flying J,,,AR,33.513535,-93.948516,yes,yes
+osm:w230490202,Flying J,Flying J,,,AR,33.512905,-93.948269,no,yes
+osm:n11136615064,Love's,Love's,,,AR,33.33047,-91.292612,no,yes
+osm:n11137705972,Love's,Love's,,,AR,34.193887,-91.920463,no,yes
+osm:n11137705973,Love's,Love's,,,AR,34.193467,-91.919925,yes,yes
+osm:n11684379542,Love's,Love's,,,AR,35.21882,-91.716987,no,yes
+osm:n11684379543,Love's,Love's,,,AR,35.219212,-91.715906,no,yes
+osm:n11702013971,Love's,Love's,,,AR,33.330974,-91.293002,no,yes
+osm:n12166267719,Love's,Love's,,,AR,34.38733,-92.846589,no,yes
+osm:w1245725280,Love's,Love's,3404 US 63 North,Hazen,AR,34.815368,-91.567362,no,yes
+osm:w1255415806,Love's,Love's,1025 South Crawford Street,Clarksville,AR,35.46019,-93.480578,no,yes
+osm:w1255415807,Love's,Love's,1025 South Crawford Street,Clarksville,AR,35.459476,-93.480303,yes,yes
+osm:w1324847197,Love's,Love's,,,AR,35.884876,-89.917871,no,yes
+osm:w1324847198,Love's,Love's,,,AR,35.884662,-89.91681,no,yes
+osm:w218548170,Love's,Love's,,,AR,34.786133,-92.126046,no,yes
+osm:w224315666,Love's,Love's,,Morrilton,AR,35.173256,-92.743345,yes,yes
+osm:w224315667,Love's,Love's,,Morrilton,AR,35.172951,-92.743668,no,yes
+osm:w224315865,Love's,Love's,,,AR,34.986562,-90.905641,no,yes
+osm:w224315972,Love's,Love's,,,AR,33.828827,-93.395215,yes,yes
+osm:w224315974,Love's,Love's,,,AR,33.828958,-93.394458,no,yes
+osm:w557804578,Love's,Love's,,,AR,35.804936,-90.63512,no,yes
+osm:w893136392,Love's,Love's,,Little Rock,AR,34.656945,-92.412521,no,yes
+osm:w893136393,Love's,Love's,I-30 Frontage Road,Little Rock,AR,34.65692,-92.413553,yes,yes
+osm:w1130257136,ONE9,One9 Fuel Stop,2101 US 49,Brinkley,AR,34.912711,-91.196584,yes,yes
+osm:n10776035880,Pilot,Pilot,,,AR,34.187132,-93.070234,yes,yes
+osm:n11155412689,Pilot,Pilot,,,AR,35.805146,-90.625498,no,yes
+osm:n12099603250,Pilot,Pilot,,,AR,36.175863,-94.193127,no,yes
+osm:n7682055228,Pilot,Pilot,,,AR,36.17648,-94.193145,yes,yes
+osm:w218548058,Pilot,Pilot,3300 AR Highway 391 North,North Little Rock,AR,34.781381,-92.127306,yes,yes
+osm:w218548059,Pilot,Pilot,3300 AR Highway 391 North,North Little Rock,AR,34.781193,-92.128211,no,yes
+osm:w264987548,Pilot,Pilot,7901 Alcoa Road,Benton,AR,34.608366,-92.533716,no,yes
+osm:w264988864,Pilot,Pilot,,,AR,35.280679,-93.093268,no,yes
+osm:w1164685656,QuikTrip,QuikTrip,12115 Otter Creek Road,Little Rock,AR,34.655001,-92.412952,yes,no
+osm:n8115126178,,Travel Centers of America,1806 Highway 371,,AR,33.812074,-93.427362,yes,no
+osm:n13387882501,Valero,Valero,,,AR,35.888906,-89.91926,yes,no
+osm:n13390836899,Valero,Valero,,,AR,34.806634,-91.886034,yes,no
+osm:w1318978174,Valero,Valero,,,AR,35.147005,-90.291593,yes,no
+osm:w287803850,Valero,Valero,,,AR,35.364073,-90.280801,yes,no
+osm:n9103413259,,Worksman's Travel Center,,,AR,36.255691,-94.153132,yes,no
+osm:n12288104359,Exxon,exxon,,,AR,36.287729,-92.482383,yes,no
+osm:n12007395538,Flying J,Flying J,,,AZ,33.602037,-114.522567,no,yes
+osm:n1660172680,Flying J,Flying J,,Phoenix,AZ,33.46091,-112.205449,yes,yes
+osm:n4719302823,Flying J,Flying J,,,AZ,32.731739,-111.549733,yes,yes
+osm:n4719302824,Flying J,Flying J,,,AZ,32.732385,-111.549872,no,yes
+osm:w130280941,Flying J,Flying J,,,AZ,33.460637,-112.204519,no,yes
+osm:w144341226,Flying J,Flying J,,,AZ,35.015486,-110.674666,no,yes
+osm:w144341264,Flying J,Flying J,,,AZ,35.015988,-110.674019,yes,yes
+osm:w230486089,Flying J,Flying J,,,AZ,33.602123,-114.523498,yes,yes
+osm:w230486476,Flying J,Flying J,,,AZ,35.21968,-114.007503,no,yes
+osm:w230486477,Flying J,Flying J Truck Lanes,,,AZ,35.219957,-114.006916,yes,yes
+osm:n12008950151,,Love's,,,AZ,32.266403,-109.847258,yes,yes
+osm:n12263053680,Love's,Love's,,,AZ,32.6866,-114.582779,no,yes
+osm:n12263053681,Love's,Love's,,,AZ,32.685846,-114.582802,yes,yes
+osm:n4854438923,Love's,Love's,7001 West Sundust Road,Chandler,AZ,33.28025,-111.962264,no,yes
+osm:n914190265,Love's,Love's,820 West Pima Street,Gila Bend,AZ,32.944013,-112.733305,no,yes
+osm:n9952938547,Love's,Love's,,,AZ,34.954861,-110.311655,yes,yes
+osm:w1004594292,Love's,Love's,8313 West Roosevelt Street,Tolleson,AZ,33.458536,-112.239201,no,yes
+osm:w1004594293,Love's,Love's,8313 West Roosevelt Street,Tolleson,AZ,33.458312,-112.239852,yes,yes
+osm:w1086560669,Love's,Love's,,,AZ,34.33451,-112.117555,no,yes
+osm:w188242058,Love's,Love's,,,AZ,31.962305,-110.345055,no,yes
+osm:w188242060,Love's,Love's,,,AZ,31.962364,-110.346435,no,yes
+osm:w188242064,Love's,Love's,,,AZ,31.962716,-110.344757,yes,yes
+osm:w223537901,Love's,Love's,,,AZ,33.431113,-112.592198,yes,yes
+osm:w223537903,Love's,Love's,1610 South Miller Road,Buckeye,AZ,33.431183,-112.591399,no,yes
+osm:w264993829,Love's,Love's,14875 AZ 95,Lake Havasu City,AZ,34.724447,-114.31538,no,yes
+osm:w264993831,Love's,Love's RV Lanes,14875 AZ 95,Lake Havasu City,AZ,34.724744,-114.315537,no,yes
+osm:w223539583,Love's,Love's Truck Lanes,6035 East Minerva Lane,Kingman,AZ,35.19961,-113.903988,yes,yes
+osm:n11076238346,Pilot,Pilot,,,AZ,35.238239,-111.821956,no,yes
+osm:n12099611220,Pilot,Pilot,South Butterfield Trail,Gila Bend,AZ,32.930327,-112.673335,yes,yes
+osm:n12248018520,Pilot,Pilot,330 North Mariposa Road,Nogales,AZ,31.338696,-110.966251,yes,yes
+osm:n2381608285,Pilot,Pilot,,,AZ,33.63357,-113.768048,no,yes
+osm:n2381608313,Pilot,Pilot,,,AZ,33.633759,-113.768818,yes,yes
+osm:n2381608334,Pilot,Pilot,,,AZ,33.633943,-113.76802,no,yes
+osm:n4719302865,Pilot,Pilot,,,AZ,32.738136,-111.549354,yes,yes
+osm:n4719302866,Pilot,Pilot,,,AZ,32.738878,-111.549839,no,yes
+osm:n4719302867,Pilot,Pilot,,,AZ,32.738656,-111.549844,no,yes
+osm:n8265004339,Pilot,Pilot,,,AZ,35.700132,-114.477186,yes,yes
+osm:w1021354946,Pilot,Pilot,,,AZ,34.699054,-113.610109,no,yes
+osm:w1173865804,Pilot,Pilot,4031 Fleet Street,Littlefield,AZ,36.897223,-113.910172,no,yes
+osm:w1189183180,Pilot,Pilot,31120 US Highway 60,Wittmann,AZ,33.765715,-112.514015,no,yes
+osm:w1449928553,Pilot,Pilot,,,AZ,32.68598,-114.579255,no,yes
+osm:w1454020193,Pilot,Pilot,,,AZ,32.691088,-113.954157,no,yes
+osm:w1460946972,Pilot,Pilot,,,AZ,32.685955,-114.580093,yes,yes
+osm:w1525040505,Pilot,Pilot,,,AZ,34.327087,-112.118101,no,yes
+osm:w223539704,Pilot,Pilot,14750 AZ 95,Lake Havasu City,AZ,34.728323,-114.315995,no,yes
+osm:w387787672,Pilot,Pilot,101 West Glen Drive,Greenhaven,AZ,36.995081,-111.564117,yes,yes
+osm:w728194668,Pilot,Pilot,,,AZ,32.126017,-110.874469,no,yes
+osm:w951751974,Pilot,Pilot,West Indian School Road,Tonopah,AZ,33.494414,-112.93777,yes,yes
+osm:w951751975,Pilot,Pilot,41112 West Indian School Road,Tonopah,AZ,33.49413,-112.937456,no,yes
+osm:w855741035,Pilot,Pilot Express,9255 South Rita Road,Tucson,AZ,32.084348,-110.803649,no,yes
+osm:w855741041,Pilot,Pilot Express,9255 South Rita Road,Tucson,AZ,32.084192,-110.803068,yes,yes
+osm:w1173865803,Pilot,Pilot RV Lanes,4031 Fleet Street,Littlefield,AZ,36.897567,-113.910173,no,yes
+osm:w264996165,Pilot,Pilot Travel Center,1201 West Main Street,Quartzsite,AZ,33.661906,-114.236803,no,yes
+osm:w264996161,Pilot,Pilot Travel Centers,1201 West Main Street,Quartzsite,AZ,33.661418,-114.236421,no,yes
+osm:w1173865805,Pilot,Pilot Truck Lanes,4031 Fleet Street,Littlefield,AZ,36.897172,-113.910917,yes,yes
+osm:w239915920,QuikTrip,QuikTrip,1155 North 51st Avenue,Phoenix,AZ,33.461393,-112.167502,yes,no
+osm:w314043171,QuikTrip,QuikTrip,1850 South Miller Road,Buckeye,AZ,33.429465,-112.592566,yes,no
+osm:w226825764,TA,TA,,,AZ,33.458157,-112.78236,yes,yes
+osm:w78283660,,Casa de Diesel,10011 Pacheco Pass Highway,Hollister,CA,36.990298,-121.380491,yes,no
+osm:n10088156760,Flying J,Flying J,,,CA,34.854118,-117.080699,yes,yes
+osm:n12101432337,Flying J,Flying J,,,CA,34.854081,-117.081588,no,yes
+osm:n12101453184,,Flying J,,,CA,34.816754,-118.887426,yes,yes
+osm:n1230095129,Flying J,Flying J,,,CA,35.53116,-119.187457,no,yes
+osm:n9826816447,Flying J,Flying J,,,CA,38.117156,-121.393842,no,yes
+osm:w125111198,Flying J,Flying J,,,CA,34.408097,-117.398637,no,yes
+osm:w473000129,Flying J,Flying J,,,CA,34.81722,-118.886732,no,yes
+osm:w978157523,Flying J,Flying J,,,CA,34.015739,-117.525616,yes,yes
+osm:w978157524,Flying J,Flying J,,,CA,34.015077,-117.525036,no,yes
+osm:w1126224696,,Golden Acorn Travel Center,,,CA,32.701277,-116.354211,yes,no
+osm:n11464495305,Love's,Love's,,Salinas,CA,36.659484,-121.619025,no,yes
+osm:n1151869485,Love's,Love's,29025 West Plaza Drive,Gustine,CA,37.111432,-121.016127,no,yes
+osm:n11687497157,Love's,Love's,,,CA,37.754892,-121.141434,no,yes
+osm:n11711792211,Love's,Love's,,,CA,35.126443,-118.408021,no,yes
+osm:n12263050980,Love's,Love's,,,CA,39.16808,-122.14403,no,yes
+osm:n12263051098,Love's,Love's,,,CA,33.037769,-115.629207,no,yes
+osm:n12263051099,Love's,Love's,,,CA,33.03863,-115.629062,yes,yes
+osm:n13327447248,Love's,Love's,,,CA,35.616655,-119.658913,no,yes
+osm:n5659924691,Love's,Love's,1553 Colony Road,Ripon,CA,37.755518,-121.141538,no,yes
+osm:n5997574085,Love's,Love's,,,CA,33.717403,-116.171838,yes,yes
+osm:n7021122818,Love's,Love's,,,CA,39.907187,-122.196385,no,yes
+osm:n7650919360,Love's,Love's,,,CA,39.167486,-122.144381,yes,yes
+osm:n957482066,Love's,Love's,,,CA,35.125547,-118.408203,yes,yes
+osm:n9826816446,Love's,Love's,,,CA,38.117679,-121.392447,no,yes
+osm:w1007487135,Love's,Love's,,,CA,35.011615,-117.644543,no,yes
+osm:w1007487164,Love's,Love's,,,CA,35.011878,-117.643662,yes,yes
+osm:w1214436331,Love's,Love's,93 South Rogers Road,Patterson,CA,37.462421,-121.174847,yes,yes
+osm:w224317917,Love's,Love's,,,CA,36.180377,-119.330152,yes,yes
+osm:w224317919,Love's,Love's,,,CA,36.181286,-119.330173,no,yes
+osm:n13864491611,Love's Alternative Energy,Love's Alternative Energy - CNG,1919 South State College Boulevard,Anaheim,CA,33.80007,-117.891282,no,yes
+osm:w1080419279,Love's Alternative Energy,Love's Alternative Energy - CNG,2999 East La Jolla Street,Placentia,CA,33.862806,-117.865251,yes,yes
+osm:w1214436330,Love's,Love's Gas,55 South Rogers Road,Patterson,CA,37.463195,-121.17562,no,yes
+osm:n9968752417,Love's,Loves,,,CA,36.99602,-120.09683,yes,yes
+osm:n10050175976,Pacific Pride,Pacific Pride,1790 South 10th Street,San Jose,CA,37.314376,-121.860403,yes,no
+osm:n11291592068,Pilot,Pilot,10951 Cedar Avenue,,CA,34.055426,-117.395932,no,yes
+osm:n12100285725,Pilot,Pilot,,,CA,34.543188,-118.035982,no,yes
+osm:n12696303914,Pilot,Pilot,,,CA,32.977578,-115.503758,yes,yes
+osm:n1577570957,Pilot,Pilot,,,CA,33.903041,-116.545842,no,yes
+osm:n1834487562,Pilot,Pilot,,,CA,35.615811,-119.658836,no,yes
+osm:n2679753643,Pilot,Pilot,30035 County Road 8,Dunnigan,CA,38.862,-121.950268,yes,yes
+osm:n401976140,Pilot,Pilot,,,CA,37.018748,-120.132625,no,yes
+osm:n4787182022,Pilot,Pilot,,,CA,39.751213,-122.208474,no,yes
+osm:w1080972243,Pilot,Pilot,,,CA,32.978218,-115.503894,no,yes
+osm:w223416541,Pilot,Pilot,,,CA,34.854653,-117.08773,no,yes
+osm:w261985269,Pilot,Pilot,,,CA,41.398762,-122.377139,no,yes
+osm:w261985270,Pilot,Pilot,,,CA,41.39915,-122.376169,yes,yes
+osm:w262310086,Pilot Travel Center,Pilot,30035 County Road 8,Dunnigan,CA,38.862281,-121.950672,yes,yes
+osm:w262315410,Pilot,Pilot,,,CA,36.665602,-121.629875,yes,yes
+osm:w262315571,Pilot,Pilot,1497 Piper Ranch Road,San Diego,CA,32.568366,-116.953209,no,yes
+osm:w262315574,Pilot,Pilot,1497 Piper Ranch Road,San Diego,CA,32.569206,-116.952552,yes,yes
+osm:w262315782,Pilot,Pilot,,,CA,34.494385,-118.620267,no,yes
+osm:w263298253,Pilot,Pilot,,,CA,34.991619,-117.543098,yes,yes
+osm:w546998196,Pilot,Pilot,395 E Vista Drive,Weed,CA,41.398538,-122.37759,no,yes
+osm:w60065329,Pilot,Pilot,,,CA,38.617035,-121.538357,yes,yes
+osm:w80799385,Pilot,Pilot,5725 CA-58,Boron,CA,34.991888,-117.54188,no,yes
+osm:n2679753644,Pilot,Pilot (Truck Stop),,,CA,38.862525,-121.951003,no,yes
+osm:n12100208432,Pilot,Pilot Travel Center,1668 East Tehachapi Boulevard,Tehachapi,CA,35.126756,-118.415357,yes,yes
+osm:n12100208433,Pilot,Pilot Travel Center,1668 East Tehachapi Boulevard,Tehachapi,CA,35.127475,-118.415419,no,yes
+osm:w262315409,Pilot,Pilot Travel Center,951 Work Street,,CA,36.664942,-121.629854,no,yes
+osm:w1150859807,Rj's Travel Center,Rj's Travel Center,,,CA,36.448143,-119.485329,yes,no
+osm:n10088156758,TA,TA,,,CA,34.853501,-117.089751,yes,yes
+osm:n10266317591,TA,TA,,,CA,33.713313,-116.175849,yes,yes
+osm:n2604505366,TA,TA,,,CA,35.401213,-119.396713,yes,yes
+osm:n11992654129,Valley Fuel Travel Plaza,Valley Fuel Travel Plaza,,,CA,36.350212,-119.425342,yes,no
+osm:n12101468445,Flying J,flying J,,,CA,34.063262,-117.493781,no,yes
+osm:w1041332731,7-Eleven,7-Eleven,22500 East 168th Avenue,Lochbuie,CO,40.000014,-104.721208,yes,no
+osm:w795133036,7-Eleven,7-Eleven,3500 State Highway 52,Frederick,CO,40.086617,-104.990257,yes,no
+osm:n3780893580,Circle K,Circle K,10963 West I 25 Frontage Road,Longmont,CO,40.160126,-104.980487,yes,no
+osm:n2320339617,Conoco,Conoco (Truck),800 South Wilcox Street,Castle Rock,CO,39.362281,-104.865292,yes,no
+osm:n7436792885,Exxon,Exxon (Truck),3768 State Highway 52,Frederick,CO,40.086832,-104.983714,yes,no
+osm:n3243666016,Flying J,Flying J,,,CO,39.762466,-104.79289,no,yes
+osm:n5325322135,,Flying J,,,CO,39.275407,-103.709749,yes,yes
+osm:n9984605765,Flying J,Flying J,2495 Williams Avenue,Limon,CO,39.275519,-103.709,no,yes
+osm:w226616572,Flying J,Flying J,,,CO,39.762724,-104.793785,yes,yes
+osm:n2394225179,Love's,Gunnison Tire & Auto,508 West Tomichi Avenue,Gunnison,CO,38.544666,-106.932476,no,yes
+osm:n10824498619,Love's,Love's,,,CO,37.40292,-102.61636,no,yes
+osm:n11946507645,Love's,Love's,,,CO,38.449304,-105.156182,no,yes
+osm:n12256393837,Love's,Love's,,,CO,37.312617,-108.60882,no,yes
+osm:n14017650083,Love's,Love's,,,CO,39.113895,-108.64603,no,yes
+osm:n14017650084,Love's,Love's,,,CO,39.114167,-108.645332,yes,yes
+osm:n1426720590,Love's,Love's,108 South 12th Street,Gunnison,CO,38.544191,-106.934477,no,yes
+osm:w1255415414,Love's,Love's,,,CO,38.488241,-102.784549,yes,yes
+osm:w1255415415,Love's,Love's,,,CO,38.488644,-102.785038,no,yes
+osm:w1256813208,Love's,Love's,,,CO,37.578382,-106.137248,no,yes
+osm:w1257118181,Love's,Love's,,,CO,38.088585,-102.616227,no,yes
+osm:w1257603069,Love's,Love's,,,CO,37.987779,-103.538551,no,yes
+osm:w1259487323,Love's,Love's,,,CO,37.617004,-104.756825,no,yes
+osm:w1259749989,Love's,Love's,,,CO,37.61667,-104.756196,no,yes
+osm:w1324454487,Love's,Love's,,,CO,39.455165,-108.043763,no,yes
+osm:w224603696,Love's,Love's,1191 South 1st Street,Bennett,CO,39.740724,-104.434336,yes,yes
+osm:w224603698,Love's,Love's,1191 South 1st Street,Bennett,CO,39.741246,-104.434196,no,yes
+osm:w224603773,Love's,Love's,,,CO,38.34232,-104.623454,yes,yes
+osm:w224603774,Love's,Love's,,,CO,38.342575,-104.62285,no,yes
+osm:w224603809,Love's,Love's,605 North Main Street,Lamar,CO,38.095698,-102.620255,no,yes
+osm:w224603810,Love's,Love's,605 North Main Street,Lamar,CO,38.09607,-102.620103,no,yes
+osm:w692646609,Love's,Love's,,,CO,38.850821,-106.138732,no,yes
+osm:w695758521,Love's,Love's,1015 Hospital Road,Brush,CO,40.266145,-103.639997,no,yes
+osm:w720404028,Love's,Love's,5505 Bandley Drive,Fountain,CO,38.723214,-104.729512,no,yes
+osm:n4182375326,Love's,Love's (Cars),201 East Bison Highway,Hudson,CO,40.077354,-104.649138,no,yes
+osm:w695758523,Love's,Love's (Truck),1015 Hospital Road,Brush,CO,40.266664,-103.639224,yes,yes
+osm:n4182375319,Love's,Love's (Trucks),201 East Bison Highway,Hudson,CO,40.077867,-104.648352,yes,yes
+osm:w209818677,Maverik,Maverik (Truck),711 East Fillmore Street,Colorado Springs,CO,38.873126,-104.812566,yes,no
+osm:w374709772,Phillips 66,Phillips 66,,,CO,40.161399,-104.982388,yes,no
+osm:w863212317,Phillips 66,Phillips 66,8804 East 95th Place,Henderson,CO,39.869945,-104.885335,yes,no
+osm:r10717656,Pilot,Pilot,2195 Highway 6 and 50,Grand Junction,CO,39.112583,-108.648072,no,yes
+osm:w768675941,Pilot,Pilot,,,CO,39.056037,-104.853556,no,yes
+osm:w192297210,Sinclair,Sinclair,16740 State Highway 39,Wiggins,CO,40.243263,-104.055517,yes,no
+osm:n13009185681,TA,TA,,,CO,39.109187,-108.641084,yes,yes
+osm:n3639923330,Travel Centers of America,Travel Centers of America,,,CO,39.779167,-105.134134,yes,no
+osm:w223427033,Travel Centers of America,Travel Centers of America,,,CO,39.790636,-104.904971,yes,no
+osm:n10857848281,Love's,Love's,,,CT,41.926608,-72.259686,yes,yes
+osm:n10857848288,Love's,Love's,,,CT,41.925641,-72.259809,no,yes
+osm:w679724865,Mobil,Mobil,,,CT,41.291531,-72.581451,yes,no
+osm:n11146674117,Pilot,Pilot,,,CT,41.236577,-73.022538,yes,yes
+osm:w209686668,Pilot,Pilot,,,CT,41.237199,-73.021986,no,yes
+osm:w220525336,TA,TA,,,CT,41.564573,-72.909358,yes,yes
+osm:n10076198421,Circle K,Circle K,,,FL,30.629885,-81.560525,yes,no
+osm:w223428884,Flying J,Flying J,,,FL,28.326375,-82.321721,yes,yes
+osm:w223428886,Flying J,Flying J,,,FL,28.326051,-82.322466,no,yes
+osm:w226885966,Flying J,Flying J,,,FL,28.010148,-82.303333,no,yes
+osm:w226885968,Flying J,Flying J,,,FL,28.009977,-82.303805,yes,yes
+osm:w230492663,Flying J,Flying J,,,FL,30.493085,-84.429659,yes,yes
+osm:w230492665,Flying J,Flying J,,,FL,30.492866,-84.428851,no,yes
+osm:n11684347254,Love's,Love's,,,FL,30.733965,-86.348269,yes,yes
+osm:n11684406538,Love's,Love's,,,FL,28.155307,-81.800334,no,yes
+osm:n11695252750,Love's,Love's,,,FL,29.602249,-82.086024,yes,yes
+osm:n4396520321,Love's,Love's,17750 State Highway 285 Drive South,Mossy Head,FL,30.734216,-86.349375,no,yes
+osm:n5571348088,Love's,Love's,,,FL,29.602216,-82.086903,no,yes
+osm:n6382651297,Love's,Love's,,,FL,26.834616,-81.132013,no,yes
+osm:w1033376810,Love's,Love's,,,FL,29.267504,-82.198435,no,yes
+osm:w1033376811,Love's,Love's,,,FL,29.268297,-82.197974,yes,yes
+osm:w1058592373,Love's,Love's,,,FL,30.291384,-81.984799,no,yes
+osm:w1058592380,Love's,Love's,,,FL,30.29113,-81.985837,yes,yes
+osm:w1086560745,Love's,Love's,,,FL,28.666733,-80.873423,no,yes
+osm:w1178121548,Love's,Love's,,,FL,28.244072,-81.657361,no,yes
+osm:w1222403122,Love's,Love's,,,FL,28.243511,-81.658024,yes,yes
+osm:w1259760537,Love's,Love's,,,FL,30.463194,-81.674636,no,yes
+osm:w1259760539,Love's,Love's,,,FL,30.462371,-81.6748,yes,yes
+osm:w223432255,Love's,Love's,,,FL,27.41336,-80.397818,no,yes
+osm:w223432257,Love's,Love's,,,FL,27.413993,-80.397742,no,yes
+osm:w224604084,Love's,Love's,,,FL,28.155277,-81.801154,no,yes
+osm:w224604104,Love's,Love's,,,FL,30.376699,-83.298246,yes,yes
+osm:w224604392,Love's,Love's,,,FL,29.339429,-81.134943,no,yes
+osm:w577003309,Love's,Love's,,,FL,26.714334,-81.815021,no,yes
+osm:w920174640,Love's,Love's,South U S Highway 441,,FL,30.002634,-82.597996,no,yes
+osm:n2508814089,Love's,Love's Gas (Autos),,,FL,30.748995,-85.382928,no,yes
+osm:n12262894838,,Love's Gas (Trucks),,,FL,30.749489,-85.38218,yes,yes
+osm:w369781223,Marathon,Marathon,6723 US 129,Jasper,FL,30.446111,-82.934305,yes,no
+osm:w693590698,Marathon,Marathon,FL 6,Jennings,FL,30.518822,-83.056922,yes,no
+osm:n12094850506,ONE9,ONE9,4455 West King Street,Cocoa,FL,28.358862,-80.792437,yes,yes
+osm:w236421275,ONE9,ONE9,,,FL,27.528432,-82.512016,yes,yes
+osm:n11986376399,Pilot,Pilot,,,FL,30.371658,-81.76432,no,yes
+osm:n12261047751,Pilot,Pilot,,,FL,27.873535,-81.593166,no,yes
+osm:n4169772043,Pilot,Pilot,,,FL,29.814263,-82.169066,yes,yes
+osm:w1126109965,Pilot,Pilot,,,FL,27.69919,-80.901803,no,yes
+osm:w224604269,Pilot,Pilot,,,FL,29.268309,-82.191603,yes,yes
+osm:w224604315,Pilot,Pilot,,,FL,29.266579,-82.188966,no,yes
+osm:w224604318,Pilot,Pilot,,,FL,29.26581,-82.188874,yes,yes
+osm:w226885134,Pilot,Pilot,,,FL,30.725441,-85.186193,no,yes
+osm:w226885136,Pilot,Pilot,,,FL,30.725513,-85.186994,yes,yes
+osm:w230492899,Pilot,Pilot,,,FL,30.48528,-84.421404,no,yes
+osm:w230492900,Pilot,Pilot,,,FL,30.48513,-84.42075,yes,yes
+osm:w236427139,Pilot,Pilot,,,FL,29.025146,-82.159059,no,yes
+osm:w398449943,Pilot,Pilot,,,FL,29.267591,-82.191604,no,yes
+osm:w404512431,Pilot,Pilot,,,FL,30.065955,-81.494605,no,yes
+osm:w693784135,Pilot,Pilot,,,FL,30.516501,-83.059074,no,yes
+osm:w693784136,Pilot,Pilot,,,FL,30.515996,-83.058403,yes,yes
+osm:w775433987,Pilot,Pilot,7990 FL 60,Bartow,FL,27.916759,-81.718955,no,yes
+osm:w775433989,Pilot,Pilot,,,FL,27.91741,-81.718931,yes,yes
+osm:w787215717,Pilot,Pilot,744 FL 44,Wildwood,FL,28.873465,-82.090619,no,yes
+osm:w787215718,Pilot,Pilot,744 FL 44,Wildwood,FL,28.874081,-82.090307,yes,yes
+osm:w1137871975,Pilot,Pilot Travel Center,,,FL,26.666475,-80.716817,no,yes
+osm:n5486357424,Pilot,Pilot Truck Stop,4075 Jones Branch Road,Jacksonville,FL,30.371117,-81.763342,yes,yes
+osm:w554351603,Spirit,Spirit,,,FL,28.753705,-82.098667,yes,no
+osm:w226885455,TA,TA,,,FL,30.718189,-85.183892,yes,yes
+osm:w226886062,TA,TA,,,FL,28.010017,-82.300251,yes,yes
+osm:w918335015,,TA Travel Center,South U S Highway 441,,FL,29.994822,-82.596615,yes,yes
+osm:w1207472713,BP,BP,,,GA,33.399009,-82.006293,yes,no
+osm:w827802335,BP,BP,,,GA,34.012812,-85.046871,yes,no
+osm:w997659468,BP,BP,2865 US 76,Chatsworth,GA,34.783339,-84.82344,yes,no
+osm:w997659469,BP,BP,2865 US 76,Chatsworth,GA,34.783366,-84.823111,yes,no
+osm:w688950189,Chevron,Chevron,,,GA,34.927042,-85.15056,yes,no
+osm:n12361085782,Circle K,Circle K,,,GA,32.743525,-83.726383,yes,no
+osm:n12361462526,Circle K,Circle K,,,GA,32.657083,-83.747478,yes,no
+osm:w1001797822,Circle K,Circle K,,,GA,31.20994,-82.382774,yes,no
+osm:w596614244,Citgo,Citgo,,,GA,30.869865,-83.999552,yes,no
+osm:n10062606869,Flying J,Flying J,,,GA,31.140873,-81.578289,yes,yes
+osm:n10062606870,Flying J,Flying J,2990 US Highway 17 South,Brunswick,GA,31.140324,-81.578837,no,yes
+osm:w1010818259,Flying J,Flying J,7001 Bellville Road,Lake Park,GA,30.641733,-83.190363,no,yes
+osm:w219843901,Flying J,Flying J,,,GA,33.207479,-84.063657,no,yes
+osm:w226930516,Flying J,Flying J,7001 Bellville Road,Lake Park,GA,30.641875,-83.190076,no,yes
+osm:w226930517,Flying J,Flying J,7001 Bellville Road,Lake Park,GA,30.64121,-83.190411,yes,yes
+osm:w230493063,Flying J,Flying J,288 Resaca Beach Boulevard,Resaca,GA,34.576788,-84.946596,yes,yes
+osm:w230493064,Flying J,Flying J,288 Resaca Beach Boulevard,Resaca,GA,34.576841,-84.947492,no,yes
+osm:n10062549715,Love's,Love's,,,GA,31.138085,-81.571547,yes,yes
+osm:n10091524181,Love's,Love's,,,GA,32.336644,-81.259497,yes,yes
+osm:n11684386991,Love's,Love's,,,GA,34.22717,-83.499827,yes,yes
+osm:n11691981008,Love's,Love's,,,GA,32.717474,-83.732624,no,yes
+osm:n11691981009,Love's,Love's,,,GA,32.71712,-83.73356,no,yes
+osm:n13149411554,Love's,Love's,,,GA,34.443831,-84.915429,yes,yes
+osm:n13149411586,Love's,Love's,1081 Belwood Road Southeast,Calhoun,GA,34.442981,-84.915532,no,yes
+osm:n13665409842,Love's,Love's,,,GA,32.183851,-81.45573,no,yes
+osm:n5486357522,Love's,Love's,2766 US Highway 17 South,Brunswick,GA,31.137442,-81.571889,no,yes
+osm:n8813073085,Love's,Love's,,,GA,31.580553,-84.107118,yes,yes
+osm:n895095946,Love's,Love's,,,GA,34.227513,-83.498977,no,yes
+osm:n9559399059,Love's,Love's,2 Sonny Perdue Drive,Garden City,GA,32.102368,-81.194879,yes,yes
+osm:n9678370749,Love's,Love's,,,GA,33.207982,-84.058242,yes,yes
+osm:w1037320855,Love's,Love's,,,GA,31.976503,-83.758115,yes,yes
+osm:w1071762769,Love's,Love's,,,GA,33.56239,-83.497061,no,yes
+osm:w225050448,Love's,Love's,,,GA,33.159849,-84.871287,no,yes
+osm:w225050855,Love's,Love's,,,GA,33.51416,-82.504103,no,yes
+osm:w225050857,Love's,Love's,,,GA,33.514225,-82.50319,no,yes
+osm:w225050954,Love's,Love's,,,GA,31.41608,-83.503044,no,yes
+osm:w225051151,Love's,Love's,,,GA,33.691309,-85.190123,yes,yes
+osm:w225051155,Love's,Love's,,,GA,33.691323,-85.189149,no,yes
+osm:w756613771,Love's,Love's,,,GA,34.119312,-84.743176,no,yes
+osm:w756613780,Love's,Love's,,,GA,34.118855,-84.742622,yes,yes
+osm:w392102527,Marathon,Marathon,,,GA,34.241326,-84.77439,yes,no
+osm:n583671977,ONE9,ONE9,,,GA,34.686848,-85.000116,yes,yes
+osm:w1305275145,ONE9,ONE9,,,GA,34.978805,-85.413898,yes,yes
+osm:n12323249549,Petro,Petro,,,GA,30.794521,-81.666792,yes,yes
+osm:w219426001,Petro,Petro,,,GA,33.789276,-84.488286,yes,yes
+osm:n10010181374,Pilot,Pilot,2607 Scrubby Bluff Road,Kingsland,GA,30.759652,-81.655967,no,yes
+osm:n10010181375,Pilot,Pilot,,,GA,30.760253,-81.655665,yes,yes
+osm:n10010181376,Pilot,Pilot,,,GA,30.760378,-81.64894,no,yes
+osm:n10010181377,Pilot,Pilot,,,GA,30.761249,-81.649476,yes,yes
+osm:n2427461553,Pilot,Pilot,,,GA,33.685291,-84.311153,no,yes
+osm:n5224799022,Pilot,Pilot,7001 Augusta Road,Savannah,GA,32.188696,-81.194518,no,yes
+osm:n6533962509,Pilot,Pilot,,,GA,33.718945,-85.029168,no,yes
+osm:n7542459014,Pilot,Pilot,,,GA,31.580773,-84.086382,no,yes
+osm:n895041543,Pilot,Pilot,,,GA,34.119487,-83.762335,no,yes
+osm:n9555474521,Pilot,Pilot,,,GA,31.428337,-83.515947,yes,yes
+osm:r14036453,Pilot,Pilot,,,GA,33.320878,-84.777591,no,yes
+osm:w219842526,Pilot,Pilot,,,GA,33.21088,-84.056763,no,yes
+osm:w226931347,Pilot,Pilot,,,GA,33.560772,-83.478382,no,yes
+osm:w236473286,Pilot,Pilot,,,GA,33.523485,-82.033808,no,yes
+osm:w236473288,Pilot,Pilot,,,GA,33.524146,-82.033384,yes,yes
+osm:w236476511,Pilot,Pilot,,,GA,32.612774,-83.744557,yes,yes
+osm:w236476512,Pilot,Pilot,,,GA,32.61203,-83.744401,no,yes
+osm:w236479358,Pilot,Pilot,,,GA,31.959464,-83.746825,no,yes
+osm:w236479359,Pilot,Pilot,,,GA,31.960268,-83.746564,yes,yes
+osm:w236484271,Pilot,Pilot,,,GA,34.655596,-84.981018,yes,yes
+osm:w236484274,Pilot,Pilot,,,GA,34.655385,-84.98014,no,yes
+osm:w236500665,Pilot,Pilot,,,GA,34.770635,-85.541622,no,yes
+osm:w236501656,Pilot,Pilot,,,GA,33.682604,-85.26285,no,yes
+osm:w236501658,Pilot,Pilot,,,GA,33.682548,-85.263647,yes,yes
+osm:w236502829,Pilot,Pilot,,,GA,30.754173,-83.272852,no,yes
+osm:w307471135,Pilot,Pilot,,,GA,30.754663,-83.272917,yes,yes
+osm:w429774374,Pilot,Pilot,,,GA,34.558793,-84.935985,no,yes
+osm:w429774376,Pilot,Pilot,,,GA,34.559042,-84.935151,yes,yes
+osm:w688510930,Pilot,Pilot,,,GA,34.27279,-84.80775,no,yes
+osm:n12686760056,RaceTrac,RaceTrac,,,GA,33.620445,-84.384476,yes,no
+osm:w1424686828,Speedway,Speedway,2890 Centerville Road,Byron,GA,32.60975,-83.744929,yes,no
+osm:w851684773,Speedway,Speedway,1395 US 411,Cartersville,GA,34.207853,-84.800272,yes,no
+osm:w1010806654,BP,TA,6901 Bellville Road,Lake Park,GA,30.64428,-83.187178,yes,yes
+osm:w226929752,TA,TA,,,GA,34.274476,-84.807073,yes,yes
+osm:w226931520,TA,TA,,,GA,31.924608,-81.332682,yes,yes
+osm:w803383153,BP,BP,,,IA,41.661174,-91.250752,yes,no
+osm:n11128450009,Casey's General Store,Casey's General Store,,,IA,41.496251,-94.319898,yes,no
+osm:w1135573374,Casey's General Store,Casey's General Store,,,IA,42.173369,-91.778039,yes,no
+osm:w639362070,Casey's General Store,Casey's General Store,,,IA,42.451424,-91.888681,yes,no
+osm:w744225584,Casey's General Store,Casey's General Store,,,IA,41.888214,-91.675008,yes,no
+osm:n10742404695,Cenex,Cenex,,,IA,41.705052,-94.925937,yes,no
+osm:w235551493,Flying J,Flying J,,,IA,41.603291,-90.625184,no,yes
+osm:w1002861972,Kum & Go,Kum & Go,,,IA,41.647691,-91.115055,yes,no
+osm:w1224805932,Kum & Go,Kum & Go,,,IA,41.690997,-92.067214,yes,no
+osm:w1225291541,Kum & Go,Kum & Go,,,IA,41.177316,-93.781332,yes,no
+osm:w1085889369,Kwik Star,Kwik Star,,,IA,41.69123,-92.356894,yes,no
+osm:w1525686635,Kwik Star,Kwik Star,Lincoln Way,Clinton,IA,41.814602,-90.241298,yes,no
+osm:w344118531,Kwik Star,Kwik Star,,,IA,41.585725,-90.573385,yes,no
+osm:w964387989,Kwik Star,Kwik Star,,,IA,43.146028,-93.348983,yes,no
+osm:n10796136234,,Love's,,,IA,42.766847,-96.211764,yes,yes
+osm:n11739504717,Love's,Love's,,,IA,41.496616,-95.452839,yes,yes
+osm:n11800620131,Love's,Love's,,,IA,41.39333,-91.087807,yes,yes
+osm:n12260536845,Love's,Love's,,,IA,41.604771,-90.623673,no,yes
+osm:n14045153121,Love's,Love's,,,IA,41.605081,-90.623171,no,yes
+osm:n4222961596,Love's,Love's,,,IA,41.680297,-92.998659,no,yes
+osm:n5842299479,Love's,Love's,,,IA,41.496611,-95.451798,no,yes
+osm:n947850836,Love's,Love's,,,IA,41.680425,-92.997572,yes,yes
+osm:w1073996101,Love's,Love's,3301 Greyhound Drive,Waterloo,IA,42.462181,-92.403849,yes,yes
+osm:w1073996102,Love's,Love's,3301 Greyhound Drive,Waterloo,IA,42.46137,-92.404049,no,yes
+osm:w1256837489,Love's,Love's,,,IA,43.122452,-92.735793,no,yes
+osm:w1256837490,Love's,Love's,,,IA,43.12243,-92.734607,yes,yes
+osm:w225361262,Love's,Love's,2525 Singing Hills Boulevard,Sioux City,IA,42.434805,-96.379374,no,yes
+osm:w700945335,Love's,Love's,,,IA,41.604251,-90.62289,yes,yes
+osm:w225359015,Love's,Love's Truck Stop,,,IA,41.61384,-93.780804,no,yes
+osm:w225359016,Love's,Love's Truck Stop - Truck Diesel,,,IA,41.613625,-93.779696,no,yes
+osm:w1225203023,,Maverik,,,IA,41.68601,-93.24663,yes,no
+osm:n12092853723,ONE9,ONE9,,,IA,41.644232,-91.149965,yes,yes
+osm:n2022526595,Pilot,Pilot,,,IA,41.235622,-95.878781,no,yes
+osm:n2392294122,Pilot,Pilot,,,IA,43.145176,-93.35892,no,yes
+osm:n5555013358,Pilot,Pilot,2815 Singing Hills Boulevard,Sioux City,IA,42.435232,-96.373302,no,yes
+osm:r11097557,Pilot,Pilot,,,IA,41.614522,-90.782392,no,yes
+osm:w1034588818,Pilot,Pilot,,,IA,41.891249,-91.66679,no,yes
+osm:w1034588819,Pilot,Pilot,,,IA,41.891476,-91.667618,yes,yes
+osm:w221387540,Pilot,Pilot,3500 North Plainview Road,Walcott,IA,41.619583,-90.784601,yes,yes
+osm:w221387541,Pilot,Pilot,3500 North Plainview Road,Walcott,IA,41.619603,-90.783727,no,yes
+osm:n3950968352,Road Ranger,Road Ranger,100 Plaza Drive,Elk Run Heights,IA,42.460833,-92.246765,yes,no
+osm:n12659838889,Sapp Bros.,Sapp Bros,,,IA,40.69033,-95.789642,yes,yes
+osm:n2022526786,Sapp Bros.,Sapp Bros.,,,IA,41.235438,-95.879747,no,yes
+osm:w223404534,Sapp Bros.,Sapp Brothers,,,IA,40.689939,-95.790091,no,yes
+osm:w1085893816,TA,TA,,,IA,41.698859,-92.445966,yes,yes
+osm:w743543305,Casey's General Store,gooodstop by Casey's,1203 Guthrie Street,De Soto,IA,41.538617,-94.011856,yes,no
+osm:n2689261965,Pilot,pilot,,,IA,41.698423,-92.358965,yes,yes
+osm:n947850877,Pilot,pilot,,,IA,41.697899,-92.358554,no,yes
+osm:n9225653472,Flying J,Flying J,,,ID,43.662071,-116.654736,no,yes
+osm:w230495145,Flying J,Flying J,,,ID,42.660267,-112.206149,yes,yes
+osm:w230495147,Flying J,Flying J,,,ID,42.660413,-112.206875,no,yes
+osm:w375323034,Flying J,Flying J,,,ID,43.439932,-112.115739,yes,yes
+osm:w375323035,Flying J,Flying J,,,ID,43.43937,-112.115688,no,yes
+osm:n9953834469,Love's,Love's,,,ID,42.924202,-114.940716,no,yes
+osm:n9953834470,Love's,Love's,,,ID,42.925193,-114.940749,yes,yes
+osm:w1119091060,Love's,Love's,,,ID,43.436718,-112.120578,no,yes
+osm:w223313114,Love's,Love's,,,ID,47.710864,-117.003932,yes,yes
+osm:w223313117,Love's,Love's,,,ID,47.71123,-117.002794,no,yes
+osm:n9950367997,,Maverik,,,ID,42.84263,-112.413464,yes,no
+osm:r13741633,Pilot,Pilot,,,ID,43.142305,-115.662937,no,yes
+osm:w236404046,,A. M. Best,,,IL,40.626839,-89.465319,yes,no
+osm:w1525697222,BP,BP,2433 South Oakwood Avenue,Geneseo,IL,41.432503,-90.158638,yes,no
+osm:w1336445803,Circle K,Circle K,4202 West Springfield Avenue,Champaign,IL,40.113733,-88.315803,yes,no
+osm:w223479935,Flying J,Flying J,1701 West Evergreen Avenue,Effingham,IL,39.134178,-88.566549,no,yes
+osm:w223479936,Flying J,Flying J,1701 West Evergreen Avenue,Effingham,IL,39.133434,-88.566245,yes,yes
+osm:w223480507,Flying J,Flying J,,,IL,38.760408,-90.065458,no,yes
+osm:w230774785,Flying J,Flying J,343 Civic Road,,IL,41.368625,-89.09784,no,yes
+osm:w230774787,Flying J,Flying J,,,IL,41.368783,-89.099154,yes,yes
+osm:w827484727,Flying J,Flying J,16049 Willow Brook Road,South Beloit,IL,42.493414,-88.999175,no,yes
+osm:w832747309,Flying J,Flying J,16049 Willow Brook Road,South Beloit,IL,42.494127,-88.99882,yes,yes
+osm:w264236973,Independent,Independent,,,IL,42.208612,-89.107421,yes,no
+osm:n11297337652,Love's,Love's,,,IL,39.689682,-90.229811,no,yes
+osm:n11297337653,Love's,Love's,,,IL,39.689554,-90.230858,yes,yes
+osm:n11707829623,Love's,Love's,,,IL,41.898148,-89.065872,no,yes
+osm:n11711832126,Love's,Love's,,,IL,42.489238,-87.95351,yes,yes
+osm:n11889678420,Love's,Love's,207 North Main Street,Normal,IL,40.541678,-88.997369,no,yes
+osm:n12257901084,Love's,Love's,203 North Haughton Highway,Greenup,IL,39.252998,-88.152125,yes,yes
+osm:n13613531810,Love's,Love's,,,IL,42.456348,-88.99804,no,yes
+osm:n14017694326,Love's,Love's,505 South Persimmon Drive,Le Roy,IL,40.340141,-88.760755,yes,yes
+osm:n14017694327,Love's,Love's,505 South Persimmon Drive,Le Roy,IL,40.340771,-88.761136,no,yes
+osm:n2091337927,Love's,Love's,,,IL,41.369766,-89.008951,yes,yes
+osm:n2338775147,Love's,Love's,,,IL,41.370174,-89.009504,no,yes
+osm:n2382882894,Love's,Love's,202 North Avenue,Ina,IL,38.155157,-88.910879,no,yes
+osm:n7729842306,Love's,Love's,,,IL,41.897996,-89.067241,no,yes
+osm:n9249608667,Love's,Love's,,,IL,37.745277,-88.949179,no,yes
+osm:n9446683206,Love's,Love's,43100 US 41,Wadsworth,IL,42.48854,-87.952917,no,yes
+osm:n9653503780,Love's,Love's,,,IL,40.898841,-90.660577,no,yes
+osm:w1016988911,Love's,Love's,,,IL,38.534053,-89.73217,yes,yes
+osm:w1016988913,Love's,Love's,,,IL,38.534841,-89.732647,no,yes
+osm:w1026251694,Love's,Love's,,,IL,42.149282,-88.51372,no,yes
+osm:w1084498996,Love's,Love's,,,IL,39.793775,-88.265727,yes,yes
+osm:w1084498997,Love's,Love's,809 Moore Avenue,Tuscola,IL,39.792643,-88.265826,no,yes
+osm:w1212472209,Love's,Love's,17919 Newtown Road,Oakwood,IL,40.130745,-87.777854,no,yes
+osm:w1212472210,Love's,Love's,17919 Newtown Road,Oakwood,IL,40.130601,-87.776841,yes,yes
+osm:w1256838182,Love's,Love's,,,IL,41.41069,-90.016274,no,yes
+osm:w1256838183,Love's,Love's,,,IL,41.410572,-90.017471,yes,yes
+osm:w1259728858,Love's,Love's,1533 East 162nd Street,South Holland,IL,41.600172,-87.579777,no,yes
+osm:w1259728861,Love's,Love's,1533 East 162nd Street,South Holland,IL,41.599302,-87.579497,no,yes
+osm:w1259770386,Love's,Love's,1900 Busse Road,Elk Grove Village,IL,41.99862,-87.959992,no,yes
+osm:w1259770389,Love's,Love's,1900 Busse Road,Elk Grove Village,IL,41.9989,-87.961121,no,yes
+osm:w1324607132,Love's,Love's,4628 South Main Street,Rockford,IL,42.215617,-89.108009,yes,yes
+osm:w1324623220,Love's,Love's,203 North Haughton Highway,Greenup,IL,39.252947,-88.15327,no,yes
+osm:w1324624103,Love's,Love's,9191 State Route 140,Hamel,IL,38.890521,-89.834532,yes,yes
+osm:w1324938623,Love's,Love's,1405 Knox Highway 9,Knoxville,IL,40.918394,-90.293771,no,yes
+osm:w1324938624,Love's,Love's,1405 Knox Highway 9,Knoxville,IL,40.918906,-90.292764,yes,yes
+osm:w1526546319,Love's,Love's,,,IL,41.8981,-89.067513,no,yes
+osm:w225051745,Love's,Love's,1900 South State Road 127,Greenville,IL,38.873795,-89.387312,yes,yes
+osm:w225051747,Love's,Love's,1900 South State Road 127,Greenville,IL,38.874091,-89.387992,no,yes
+osm:w225052008,Love's,Love's,3407 South Schuyler Avenue,Kankakee,IL,41.072793,-87.866766,no,yes
+osm:w225052011,Love's,Love's,3407 South Schuyler Avenue,Kankakee,IL,41.072811,-87.867803,no,yes
+osm:w225052242,Love's,Love's,Quality Drive,Roscoe,IL,42.455585,-88.998114,no,yes
+osm:w594352184,Love's,Love's,9191 State Route 140,Hamel,IL,38.889701,-89.834566,no,yes
+osm:w887545188,Love's,Love's,,,IL,41.114036,-88.415109,yes,yes
+osm:w961722167,Love's,Love's,,,IL,41.293718,-89.085939,yes,yes
+osm:w961722168,Love's,Love's,,,IL,41.293885,-89.086637,no,yes
+osm:w1026251693,Love's,Love's (Trucks),,,IL,42.148823,-88.514772,yes,yes
+osm:n11889678419,Love's,Love's Travel Stop,,,IL,40.541595,-88.99859,yes,yes
+osm:w1324607131,Love's,Loves,4628 South Main Street,Rockford,IL,42.215554,-89.106887,no,yes
+osm:n14165304320,Mobil,Mobil,,,IL,42.234573,-88.833588,yes,no
+osm:r14496914,Mobil,Mobil,,,IL,41.951504,-87.883789,yes,no
+osm:w318327030,Mobil,Mobil,,,IL,41.579919,-87.598375,yes,no
+osm:w318327033,Mobil,Mobil,,,IL,41.900223,-88.739976,yes,no
+osm:w319801853,Mobil,Mobil,,,IL,42.252262,-87.900104,yes,no
+osm:w463237445,Mobil,Mobil,,,IL,42.253737,-87.90262,yes,no
+osm:w488130575,Mobil,Mobil,,,IL,42.232679,-88.835544,yes,no
+osm:w83632587,Mobil,Mobil,,,IL,41.949572,-87.881873,yes,no
+osm:w978568647,Mobil,Mobil,,,IL,41.900086,-88.738523,yes,no
+osm:n11453061898,Petro,Petro,,,IL,41.344991,-88.197277,yes,yes
+osm:w219668192,Petro,Petro,1805 West Fayette Avenue,Effingham,IL,39.117935,-88.573207,yes,yes
+osm:w219669692,Petro,Petro,5915 West Monee Manhattan Road,Monee,IL,41.426054,-87.755654,yes,yes
+osm:n11071533349,Pilot,Pilot,,,IL,41.427295,-87.756743,no,yes
+osm:n11071533350,Pilot,Pilot,,,IL,41.427882,-87.756781,yes,yes
+osm:n12244403851,Pilot,Pilot,,,IL,38.652096,-90.131918,no,yes
+osm:n3240580136,Pilot,Pilot,,,IL,40.157436,-89.412659,no,yes
+osm:n4743143943,Pilot,Pilot,10 Interstate Drive,Vandalia,IL,38.970569,-89.136441,yes,yes
+osm:r14467904,Pilot,Pilot,,,IL,40.482618,-89.017366,no,yes
+osm:w1040391975,Pilot,Pilot,,,IL,41.395377,-88.421862,no,yes
+osm:w1244801295,Pilot,Pilot,7501 Harlem Avenue,Bridgeview,IL,41.754713,-87.799576,no,yes
+osm:w1289022151,Pilot,Pilot,2500 North 3rd Street,Effingham,IL,39.149244,-88.531433,no,yes
+osm:w1311869094,Pilot,Pilot,,,IL,39.418929,-87.695089,yes,yes
+osm:w1311869096,Pilot,Pilot,,,IL,39.418925,-87.694162,no,yes
+osm:w1318432316,Pilot,Pilot,10 Interstate Drive,Vandalia,IL,38.971139,-89.136153,no,yes
+osm:w1318432787,Pilot,Pilot,2500 North 3rd Street,Effingham,IL,39.149194,-88.530599,yes,yes
+osm:w1320737091,Pilot,Pilot,12680 South Kedzie Avenue,Blue Island,IL,41.662714,-87.700633,no,yes
+osm:w229452544,Pilot,Pilot,,,IL,38.313117,-88.961358,yes,yes
+osm:w264009002,Pilot,Pilot,,,IL,41.460776,-88.272069,no,yes
+osm:w264009003,Pilot,Pilot,,,IL,41.460755,-88.273001,yes,yes
+osm:w264238454,Pilot,Pilot,900 Plaza Avenue,Woodhull,IL,41.180733,-90.337006,yes,yes
+osm:w264238456,Pilot,Pilot,900 Plaza Avenue,Woodhull,IL,41.18066,-90.338351,no,yes
+osm:w416108173,Pilot,Pilot,,,IL,40.12375,-87.779512,yes,yes
+osm:w416108175,Pilot,Pilot,503 North Oakwood Road,Oakwood,IL,40.123641,-87.778613,no,yes
+osm:w756604969,Pilot,Pilot,170 West North Avenue,Carol Stream,IL,41.903959,-88.122853,no,yes
+osm:w851353103,Pilot,Pilot,40 East Laraway Road,Joliet,IL,41.479864,-88.078859,yes,yes
+osm:w851353105,Pilot,Pilot,40 East Laraway Road,Joliet,IL,41.480535,-88.079268,no,yes
+osm:w887647683,Pilot,Pilot,,,IL,40.75073,-88.002041,yes,yes
+osm:w973189011,Pilot,Pilot,170 West North Avenue,Carol Stream,IL,41.903292,-88.122936,yes,yes
+osm:w978337897,Pilot,Pilot,,,IL,37.740475,-88.965009,no,yes
+osm:w978337898,Pilot,Pilot,,,IL,37.740334,-88.964228,yes,yes
+osm:w978337901,Pilot,Pilot,,,IL,37.740674,-88.964718,no,yes
+osm:w982036883,Pilot,Pilot,1050 Busse Road,Bensenville,IL,41.987978,-87.959937,no,yes
+osm:w144058519,Pilot,Pilot Travel Center,,,IL,41.4576,-88.192501,no,yes
+osm:w217587173,Pilot,Pilot Travel Center,,,IL,40.751177,-88.00136,no,yes
+osm:w229453440,,Pilot Truck Stop,,,IL,38.731645,-89.90801,yes,yes
+osm:w1353225691,QuikTrip,QuikTrip,,,IL,41.873086,-87.864276,yes,no
+osm:n12287573104,Road Ranger,Road Ranger,5210 Quebec Drive,Bourbonnais,IL,41.206005,-87.870317,yes,no
+osm:w1181350088,Road Ranger,Road Ranger,,,IL,39.424191,-87.691844,yes,no
+osm:w165234369,Road Ranger,Road Ranger,3413 South California Avenue,Chicago,IL,41.83106,-87.69442,yes,no
+osm:w196181386,Road Ranger,Road Ranger,,,IL,39.792169,-88.268427,yes,no
+osm:w230775261,Road Ranger,Road Ranger,6070 Gardner Street,South Beloit,IL,42.490945,-88.998455,yes,no
+osm:w263994196,Road Ranger,Road Ranger,4910 Market Street,Champaign,IL,40.177185,-88.240093,yes,no
+osm:w264007968,Road Ranger,Road Ranger,,,IL,40.912933,-89.052977,yes,no
+osm:w771586679,Road Ranger,Road Ranger,1801 South Galena Avenue,Dixon,IL,41.82272,-89.475531,yes,no
+osm:n9457890656,Sapp Bros.,Sapp Bros Travel Center,3130 May Road,Peru,IL,41.366844,-89.152476,no,yes
+osm:w1369518961,Shell,Shell,,,IL,41.12028,-87.833839,yes,no
+osm:w846903319,Shell,Shell,,,IL,41.464041,-88.272338,yes,no
+osm:w921838657,Shell,Shell,,,IL,42.166839,-89.019642,yes,no
+osm:w682577353,Speedway,Speedway,Corporate Parkway,Belvidere,IL,42.239344,-88.832694,yes,no
+osm:n2380499668,TA,TA,,,IL,38.733356,-89.909379,yes,yes
+osm:w223479979,TA,TA,,,IL,39.135859,-88.566307,yes,yes
+osm:w229450892,TA,TA,,,IL,42.483682,-87.950444,yes,yes
+osm:w229451283,TA,TA,,,IL,42.145696,-88.510044,yes,yes
+osm:w1364771266,Thorntons,Thorntons,25461 South Ridgeland Avenue,Monee,IL,41.427886,-87.764858,yes,no
+osm:w767709769,Thorntons,Thorntons,,,IL,41.668598,-88.063652,yes,no
+osm:w223479812,TA,Travel Centers of America,,,IL,40.488137,-89.026912,yes,yes
+osm:w221380258,Truckomat,Truckomat,,,IL,39.121481,-88.57295,yes,no
+osm:w300726033,BP,BP,,,IN,41.589121,-87.217327,yes,no
+osm:w421456680,BP,BP,,,IN,41.58666,-87.216825,yes,no
+osm:n12105236858,Flying J,Flying J,,,IN,38.174915,-87.552543,yes,yes
+osm:n12163118084,Flying J,Flying J,,,IN,39.851512,-85.413382,no,yes
+osm:n12163118085,Flying J,Flying J,,,IN,39.851249,-85.412571,yes,yes
+osm:n4593620430,Flying J,Flying J,,,IN,41.059706,-84.980297,no,yes
+osm:n941981026,Flying J,Flying J,,,IN,39.549095,-86.036483,yes,yes
+osm:n941981030,Flying J,Flying J,,,IN,39.549851,-86.03623,no,yes
+osm:r15004903,Flying J,Flying J,,,IN,39.693161,-86.191396,yes,yes
+osm:w221382313,Flying J,Flying J,,,IN,39.692957,-86.190533,no,yes
+osm:w223487410,Flying J,Flying J,,,IN,38.174769,-87.551879,no,yes
+osm:n11464545123,Love's,Love's,,,IN,40.887811,-85.523488,no,yes
+osm:n12250931448,Love's,Love's,,,IN,41.14094,-84.849585,no,yes
+osm:n12257837310,Love's,Love's,,,IN,41.362178,-86.348654,no,yes
+osm:n6308702367,Love's,Love's,,,IN,39.992472,-85.843925,no,yes
+osm:n9588805132,Love's,Love's,6190 South State Route 109,Knightstown,IN,39.843279,-85.557363,no,yes
+osm:w1082768311,Love's,Love's,,,IN,40.27604,-86.130048,no,yes
+osm:w1215649103,Love's,Love's,,,IN,41.634158,-85.050603,no,yes
+osm:w1215649105,Love's,Love's,,,IN,41.633241,-85.050482,yes,yes
+osm:w1323938368,Love's,Love's,6582 South State Road 66,Leavenworth,IN,38.244751,-86.358064,no,yes
+osm:w1323938371,Love's,Love's,6582 South State Road 66,Leavenworth,IN,38.244612,-86.357068,yes,yes
+osm:w1365688113,Love's,Love's,2400 East 200 North,Lafayette,IN,40.45302,-86.850234,no,yes
+osm:w1365688114,Love's,Love's,2400 East 200 North,Lafayette,IN,40.452154,-86.84995,yes,yes
+osm:w219703182,Love's,Love's,3150 Grant Street,Gary,IN,41.561794,-87.35661,no,yes
+osm:w219703187,Love's,Love's,3150 Grant Street,Gary,IN,41.562513,-87.357094,yes,yes
+osm:w223485831,Love's,Love's,,,IN,38.173494,-87.551153,no,yes
+osm:w223485832,Love's,Love's,,,IN,38.173007,-87.551693,no,yes
+osm:w225342474,Love's,Love's,,,IN,41.143846,-87.260876,no,yes
+osm:w225342534,Love's,Love's,,,IN,38.490571,-85.769942,no,yes
+osm:w225345411,Love's,Love's,,,IN,39.871247,-84.932996,no,yes
+osm:w225347312,Love's,Love's,4155 South Indianapolis Road,Whitestown,IN,39.979126,-86.395323,no,yes
+osm:w225347318,Love's,Love's,4155 South Indianapolis Road,Whitestown,IN,39.979628,-86.396184,no,yes
+osm:w229464672,Love's,Love's,,,IN,39.61604,-86.477995,yes,yes
+osm:w229464669,Love's,Love's Gas Station,Koger St,Mooresville,IN,39.615996,-86.479029,no,yes
+osm:w1231568288,,Mr. Fuel,2945 Burr Street,Gary,IN,41.565346,-87.402031,yes,no
+osm:n11030420484,ONE9,ONE9,,,IN,40.122871,-87.450234,yes,yes
+osm:w267163017,ONE9,ONE9,,,IN,39.433011,-87.33212,yes,yes
+osm:n8816173242,,ONE9 Travel Center,4105 East US Highway 30,Valparaiso,IN,41.448489,-87.01034,yes,yes
+osm:w219702639,Petro,Petro,3001 Petro Stopping Centers,Gary,IN,41.563105,-87.354474,yes,yes
+osm:n11182190950,Pilot,Pilot,,,IN,40.032314,-86.473507,yes,yes
+osm:n11182190951,Pilot,Pilot,,,IN,40.031864,-86.472909,no,yes
+osm:n12098427653,Pilot,Pilot,,,IN,39.850889,-85.41727,yes,yes
+osm:n5854690496,Pilot,Pilot,,,IN,39.850306,-85.417983,no,yes
+osm:n7674506725,Pilot,Pilot,14013 Memphis-Blue Lick Road,Memphis,IN,38.491738,-85.773152,no,yes
+osm:n9596357483,Pilot,Pilot,2640 North 600 West,Greenfield,IN,39.821538,-85.916136,no,yes
+osm:n9923278117,Pilot,Pilot,,,IN,40.766332,-87.12348,no,yes
+osm:r16179242,Pilot,Pilot,6424 West Brick Road,South Bend,IN,41.736031,-86.336495,no,yes
+osm:w1309484266,Pilot,Pilot,8150 Indianapolis Boulevard,Highland,IN,41.567305,-87.472995,no,yes
+osm:w1320734462,Pilot,Pilot,,,IN,41.744165,-85.000056,no,yes
+osm:w1320734463,Pilot,Pilot,,,IN,41.744003,-84.999167,yes,yes
+osm:w221381427,Pilot,Pilot,,,IN,39.697509,-86.185947,no,yes
+osm:w221381429,Pilot,Pilot,,,IN,39.697573,-86.185133,yes,yes
+osm:w229466168,Pilot,Pilot,2501 Burr Street,Gary,IN,41.573091,-87.403106,no,yes
+osm:w229466171,Pilot,Pilot,2501 Burr Street,Gary,IN,41.573129,-87.402035,yes,yes
+osm:w229477116,Pilot,Pilot,,,IN,41.604737,-87.114721,yes,yes
+osm:w229477118,Pilot,Pilot,,,IN,41.604183,-87.11516,no,yes
+osm:w229619322,Pilot,Pilot,,,IN,41.118924,-85.184691,yes,yes
+osm:w230775840,Pilot,Pilot,,,IN,41.288615,-87.295137,no,yes
+osm:w230776416,Pilot,Pilot,,,IN,41.289951,-87.295065,no,yes
+osm:w230776418,Pilot,Pilot,,,IN,41.290349,-87.294233,yes,yes
+osm:w267159749,Pilot,Pilot,,,IN,40.046306,-86.820957,no,yes
+osm:w267162689,Pilot,Pilot,6921 South State Road 66,Leavenworth,IN,38.239393,-86.362395,yes,yes
+osm:w267162691,Pilot,Pilot,6921 South State Road 66,Leavenworth,IN,38.238853,-86.361724,no,yes
+osm:w267162879,Pilot,Pilot,,,IN,39.583911,-85.818321,yes,yes
+osm:w711423486,Pilot,Pilot,389 Rochester Crossing,Rochester,IN,41.048485,-86.218116,no,yes
+osm:w1031528227,en:Road Ranger,Road Ranger,990 SR 42,Brazil,IN,39.44668,-87.125724,yes,no
+osm:w1192699781,Shell,Shell,,,IN,41.68641,-86.737414,yes,no
+osm:w1037865749,Speedway,Speedway,,,IN,41.559956,-87.354831,yes,no
+osm:w1038585632,Speedway,Speedway,2884 North US Highway 421,Michigan City,IN,41.649212,-86.894966,yes,no
+osm:w1041553391,Speedway,Speedway,,,IN,40.113018,-85.572271,yes,no
+osm:n11860872690,TA,TA,,,IN,41.145253,-87.260178,yes,yes
+osm:w229471245,TA,TA,,,IN,41.612633,-87.095823,yes,yes
+osm:n12683656286,Conoco,Conoco,,,KS,37.633526,-97.389813,yes,no
+osm:n12450059201,Flying J,Flying J,,,KS,38.879119,-97.593039,no,yes
+osm:n12636139245,Flying J,Flying J,,,KS,37.752398,-99.980607,yes,yes
+osm:n2906575203,Flying J,Flying J,,,KS,37.752201,-99.97995,no,yes
+osm:n11390050274,Love's,Love's,1811 Northwest Brickyard Road,Topeka,KS,39.081911,-95.725907,no,yes
+osm:n11487080977,Love's,Love's,3 Des Moines West,South Hutchinson,KS,38.014355,-97.941266,no,yes
+osm:n11494876813,Love's,Love's,,,KS,39.834887,-97.637935,no,yes
+osm:n11691875860,Love's,Love's,,,KS,38.370127,-97.615768,no,yes
+osm:n1251729110,Love's,Love's,,,KS,37.032172,-100.927572,no,yes
+osm:n12760078840,Love's,Love's,400 East Wyatt Earp Boulevard,Dodge City,KS,37.753261,-100.01198,no,yes
+osm:n1439016897,Love's,Love's,,,KS,39.397273,-101.048048,no,yes
+osm:n1458456182,Love's,Love's,,,KS,39.838712,-99.892543,no,yes
+osm:n1881267062,Love's,Love's,,,KS,38.572663,-95.265997,no,yes
+osm:n2341493516,Love's,Love's,,,KS,38.572803,-95.26501,no,yes
+osm:n2903190360,Love's,Love's,,,KS,38.361138,-98.753888,no,yes
+osm:n2906575809,Love's,Love's,,,KS,37.744495,-99.98031,yes,yes
+osm:n4497332429,Love's,Love's,2400 East Kansas Avenue,McPherson,KS,38.37038,-97.61506,no,yes
+osm:n5615439852,Love's,Love's,,,KS,37.64609,-98.722241,no,yes
+osm:w1100890473,Love's,Love's,,,KS,37.646449,-95.475632,no,yes
+osm:w1100890474,Love's,Love's,,,KS,37.647071,-95.475865,yes,yes
+osm:w1135802508,Love's,Love's,,,KS,39.835164,-97.637278,no,yes
+osm:w1257113036,Love's,Love's,,,KS,37.753712,-100.028698,no,yes
+osm:w1257615931,Love's,Love's,,,KS,38.933426,-97.258956,no,yes
+osm:w1257615932,Love's,Love's,,,KS,38.933422,-97.25796,no,yes
+osm:w1258806413,Love's,Love's,,,KS,37.960736,-100.833142,no,yes
+osm:w1258806414,Love's,Love's,,,KS,37.961,-100.832655,no,yes
+osm:w1306484699,Love's,Love's,,,KS,37.285837,-100.340417,no,yes
+osm:w1446020455,Love's,Love's,,,KS,37.723333,-97.320975,no,yes
+osm:w1446020456,Love's,Love's,,,KS,37.723743,-97.32021,yes,yes
+osm:w1557765274,Love's,Love's,,,KS,39.755713,-99.318619,no,yes
+osm:w279277299,Love's,Love's,209 Kansas Turnpike,Lawrence,KS,39.020173,-95.134842,no,yes
+osm:w379404858,Love's,Love's,Mile 188 Kansas Turnpike,Tecumseh,KS,39.019533,-95.508283,no,yes
+osm:w379404861,Love's,Love's,Mile 188 Kansas Turnpike,Tecumseh,KS,39.019141,-95.508418,no,yes
+osm:w757203633,Love's,Love's,,,KS,38.095843,-96.579584,no,yes
+osm:w757203634,Love's,Love's,,,KS,38.095659,-96.579055,no,yes
+osm:w757203635,Love's,Love's,,,KS,38.095626,-96.579387,no,yes
+osm:w756673921,Love's,Loves,,,KS,37.366377,-97.322468,no,yes
+osm:w760857033,Newell's Truck Plaza,Newell's Truck Plaza,,,KS,38.044322,-97.320479,yes,no
+osm:n10001538995,Petro,Petro,,,KS,39.361864,-101.053068,yes,yes
+osm:w1033418545,Phillips 66,Phillips 66,,,KS,38.763558,-94.962805,yes,no
+osm:n1022121200,Pilot,Pilot,,,KS,39.364604,-101.032902,no,yes
+osm:w385780213,Pilot,Pilot,,,KS,38.874351,-97.610603,no,yes
+osm:w1018924979,QuikTrip,QuikTrip,,,KS,39.090124,-94.679053,yes,no
+osm:w1393100971,QuikTrip,QuikTrip,,,KS,38.785567,-94.928661,yes,no
+osm:w1495324716,QuikTrip,QuikTrip,,,KS,38.041503,-97.320701,yes,no
+osm:w221900754,Sapp Bros.,Sapp Bros,,,KS,39.001446,-96.863517,no,yes
+osm:w221900755,Sapp Bros.,Sapp Bros,,,KS,39.001016,-96.863582,yes,yes
+osm:w208501720,Shell,Shell,,,KS,38.858674,-94.812647,yes,no
+osm:w189582919,TA,TA,,,KS,39.118795,-100.811474,yes,yes
+osm:n10075493296,Flying J,Flying J,,,KY,38.156225,-85.067714,no,yes
+osm:n10075493298,Flying J,Flying J,,,KY,38.15671,-85.067199,yes,yes
+osm:n11367132284,Flying J,Flying J,,,KY,36.696908,-87.454714,no,yes
+osm:n2405613425,,Flying J Fuel Center,,,KY,38.364832,-82.696623,yes,yes
+osm:w119960983,Flying J,Flying J Walton,,,KY,38.857956,-84.625313,no,yes
+osm:w119961008,Flying J,Flying J Walton,,,KY,38.857286,-84.625708,yes,yes
+osm:n10075493295,Love's,Love's,,,KY,38.15155,-85.07002,no,yes
+osm:n11367150508,Love's,Love's,,,KY,36.709332,-87.455723,no,yes
+osm:n1712443268,Love's,Love's,,,KY,38.341177,-82.942315,no,yes
+osm:w225806477,Love's,Love's,,,KY,37.004216,-88.318551,yes,yes
+osm:w225806479,Love's,Love's,,,KY,37.00345,-88.318724,no,yes
+osm:w225807863,Love's,Love's,,,KY,37.20184,-85.935407,yes,yes
+osm:w225807864,Love's,Love's,,,KY,37.201078,-85.935112,no,yes
+osm:w225808104,Love's,Love's,,,KY,37.842863,-84.324456,no,yes
+osm:w225808105,Love's,Love's,,,KY,37.843337,-84.324866,no,yes
+osm:w225808185,Love's,Love's,1090 Cedar Grove Road,Shepherdsville,KY,37.979151,-85.694135,no,yes
+osm:w225808186,Love's,Love's,,,KY,37.979838,-85.694564,yes,yes
+osm:w954765168,Love's,Love's,,,KY,37.416799,-87.474474,no,yes
+osm:w954765169,Love's,Love's,,,KY,37.41535,-87.474603,yes,yes
+osm:w225807458,Love's,Love’s,,,KY,36.977488,-84.116784,yes,yes
+osm:w225807459,Love's,Love’s,,,KY,36.977597,-84.115831,no,yes
+osm:w793382632,Love’s,Love’s,,,KY,38.380278,-84.572811,yes,no
+osm:n12094829380,ONE9,ONE9,,,KY,37.521981,-85.882244,yes,yes
+osm:n12094830610,ONE9,ONE9,,,KY,36.715981,-86.525848,yes,yes
+osm:n260198095,,Petro Truck Stop,,,KY,37.598707,-85.871703,yes,yes
+osm:n10579902385,Pilot,Pilot,,,KY,38.060702,-85.703088,yes,yes
+osm:n1891130199,Pilot,Pilot,,,KY,38.275738,-84.553625,no,yes
+osm:n1891130460,Pilot,Pilot,,,KY,38.276155,-84.554317,yes,yes
+osm:n2727971891,Pilot,Pilot,,,KY,37.827436,-85.724383,yes,yes
+osm:n2727971893,Pilot,Pilot,,,KY,37.827571,-85.72368,no,yes
+osm:n3897624258,Pilot,Pilot,,,KY,36.69259,-87.451804,no,yes
+osm:w223215971,Pilot,Pilot,95 Free Henry Ford Road,Mortons Gap,KY,37.255284,-87.449288,no,yes
+osm:w223215972,Pilot,Pilot,95 Free Henry Ford Road,Mortons Gap,KY,37.255303,-87.448805,no,yes
+osm:w225807076,Pilot,Pilot,,,KY,36.97546,-84.107685,no,yes
+osm:w265728410,Pilot,Pilot,,,KY,37.097888,-88.691234,yes,yes
+osm:w265728412,Pilot,Pilot,,,KY,37.097195,-88.691184,no,yes
+osm:w267330914,Pilot,Pilot,,,KY,37.071764,-88.123561,no,yes
+osm:w267333875,Pilot,Pilot,,,KY,36.72236,-84.168302,no,yes
+osm:n3301691434,,Pilot Travel Center,,,KY,37.596265,-85.864881,yes,yes
+osm:w1365807655,,Super Quik,951 Carol Malone Boulevard,Grayson,KY,38.347955,-82.942445,yes,no
+osm:w159142666,,Super Quik,,,KY,38.347826,-82.942326,yes,no
+osm:w225809550,Flying J,Flying J,,,LA,32.444443,-93.978876,yes,yes
+osm:w225809552,Flying J,Flying J,,,LA,32.444183,-93.979683,no,yes
+osm:n10967879439,Love's,Love's,,,LA,32.49309,-91.991985,yes,yes
+osm:n11114476149,Love's,Love's,,,LA,31.360909,-92.588885,yes,yes
+osm:n11711803164,Love's,Love's,,,LA,31.360652,-92.588083,no,yes
+osm:n12175750098,Love's,Love's,,,LA,32.493151,-91.99097,no,yes
+osm:n13759161246,Love's,Love's,,,LA,30.467321,-89.688453,yes,yes
+osm:n8451778047,Love's,Love's,,,LA,30.251839,-92.194374,no,yes
+osm:n8452005342,Love's,Love's,,,LA,30.253228,-93.013428,no,yes
+osm:w1355059987,Love's,Love's,5430 North Market Street,Shreveport,LA,32.595688,-93.829603,no,yes
+osm:w1355059988,Love's,Love's,,,LA,32.59641,-93.829123,yes,yes
+osm:w1378110024,Love's,Love's,,,LA,30.467853,-89.687632,no,yes
+osm:w225809912,Love's,Love's,,,LA,32.444598,-93.982632,no,yes
+osm:w225809913,Love's,Love's,,,LA,32.444424,-93.983583,no,yes
+osm:w225869988,Love's,Love's,,,LA,32.387915,-91.197337,yes,yes
+osm:w225869992,Love's,Love's,,,LA,32.387875,-91.198156,no,yes
+osm:w225870549,Love's,Love's,,,LA,30.173003,-93.587719,no,yes
+osm:w225869960,Love's,Love's Diesel Station,,,LA,32.582123,-93.249362,yes,yes
+osm:w225869958,Love's,Love's Gas Station,,,LA,32.582004,-93.248432,no,yes
+osm:n10945137308,Pilot,Pilot,,,LA,32.50793,-92.192457,no,yes
+osm:n4169753065,Pilot,Pilot,,,LA,30.253457,-93.015027,yes,yes
+osm:n4169753069,Pilot,Pilot,1119 Lowe Grout Rd,Iowa,LA,30.253399,-93.014567,no,yes
+osm:w264709078,Pilot,Pilot,,,LA,32.545004,-93.516519,no,yes
+osm:w264709081,Pilot,Pilot Travel Center,490 North Elm Street,,LA,32.544763,-93.515693,no,yes
+osm:w264709752,Pilot,Pilot Truck Stop,,,LA,32.459527,-91.759013,no,yes
+osm:w264709754,Pilot,Pilot Truck Stop,,,LA,32.459048,-91.759391,yes,yes
+osm:w225870337,TA,TA,,,LA,32.387964,-91.200503,yes,yes
+osm:w896341241,TA,TA,,,LA,32.446083,-93.948764,yes,yes
+osm:w712583543,Texaco,Texaco,,,LA,29.911271,-90.208772,yes,no
+osm:w214962137,Global,Global,,,MA,42.162301,-71.899984,yes,no
+osm:w441356229,Global,Global Diesel,,,MA,42.493664,-71.725518,yes,no
+osm:w212117133,Gulf,Gulf,,,MA,42.193978,-72.934079,yes,no
+osm:w212117282,Gulf,Gulf,,,MA,42.195861,-72.932835,yes,no
+osm:w1039346655,Pilot,Pilot,,,MA,42.066791,-72.107554,no,yes
+osm:n11483305644,Roady's Truck Stops,Roady's Truck Stops,,,MA,42.091088,-72.582956,no,yes
+osm:w1108847052,,301 Truckstop & Plaza,12615 Crain Highway,Newburg,MD,38.366422,-76.968418,yes,no
+osm:n1478046611,,Flying J,1 Center Drive,,MD,39.625334,-75.949343,yes,yes
+osm:n2356268732,,Flying J,,,MD,39.63832,-75.807523,yes,yes
+osm:w1120241304,Flying J,Flying J,,,MD,39.63834,-75.805964,no,yes
+osm:w659634610,Love's,Love's,,,MD,39.701148,-77.733707,no,yes
+osm:w659634611,Love's,Love's,,,MD,39.699875,-77.733242,yes,yes
+osm:w659637039,,Love's,,,MD,39.671905,-78.716941,yes,yes
+osm:w659637042,Love's,Love's,,,MD,39.67266,-78.716668,no,yes
+osm:w220735020,Pilot,Pilot,,,MD,39.692603,-79.100464,no,yes
+osm:w220735023,Pilot,Pilot,,,MD,39.691959,-79.100648,yes,yes
+osm:w220739417,Pilot,Pilot,,,MD,39.62997,-77.782766,no,yes
+osm:w225803787,Pilot,Pilot,,,MD,39.634059,-77.806827,yes,yes
+osm:w225803789,Pilot,Pilot,,,MD,39.633655,-77.807547,no,yes
+osm:n2086293852,TA,TA,5501 O'Donnell Street,,MD,39.27868,-76.548855,yes,yes
+osm:w217813138,TA,TA,1400 Elkton Road,Elkton,MD,39.644177,-75.797043,yes,yes
+osm:w220739418,Pilot,pilot,,,MD,39.629092,-77.78388,yes,yes
+osm:n11346151028,Irving,Irving,,,ME,43.0999,-70.747615,yes,no
+osm:n8038471969,Flying J,Flying J,3475 East Washington Road,Saginaw,MI,43.451503,-83.894069,no,yes
+osm:n8255967372,Flying J,Flying J,7800 West Grand River Highway,Grand Ledge,MI,42.787161,-84.67762,no,yes
+osm:n8592563133,Flying J,Flying J,21055 West Road,Woodhaven,MI,42.136783,-83.24008,yes,yes
+osm:n11050087528,Love's,Love's,,,MI,42.375281,-85.659471,no,yes
+osm:n11711729189,Love's,Love's,,,MI,42.989657,-82.930094,yes,yes
+osm:n11787814590,Love's,Love's,,,MI,42.785521,-84.667468,no,yes
+osm:n5842363688,Love's,Love's,3191 Capac Road,Capac,MI,42.989666,-82.92893,no,yes
+osm:n6928859177,Love's,Love's,1609 Nadeau Road,Monroe,MI,41.964779,-83.34502,no,yes
+osm:n7242834326,Love's,Love's,1336 Wadhams Road,Saint Clair,MI,42.863645,-82.558358,no,yes
+osm:n7836942385,Love's,Love's,14137 Plank Road,Milan,MI,42.076446,-83.667521,no,yes
+osm:n8019952856,Love's,Love's,6560 Dixie Highway,Bridgeport,MI,43.348613,-83.861624,no,yes
+osm:n8238942763,Love's,Love's,9790 Adams Street,Holland,MI,42.783079,-86.023113,no,yes
+osm:w224604417,Love's,Love's,18720 Partello Road,Marshall,MI,42.280191,-84.930575,no,yes
+osm:n12680810405,Mobil,Mobil,,,MI,43.054296,-85.908759,yes,no
+osm:n12094860348,ONE9,ONE9,,,MI,42.883277,-85.073772,yes,yes
+osm:n2379543839,Pilot,Pilot,750 Baker Road,Dexter,MI,42.301718,-83.877616,no,yes
+osm:n2379587828,Pilot,Pilot,15901 11 Mile Road,Battle Creek,MI,42.302579,-85.082114,no,yes
+osm:n4350335864,Pilot,Pilot,853 Interchange Drive,Holland,MI,42.740906,-86.069517,no,yes
+osm:n5031680668,Pilot,Pilot,,,MI,42.301784,-83.876825,yes,yes
+osm:n5471247118,Pilot,Pilot,195 Baker Road,Dexter,MI,42.296174,-83.878657,no,yes
+osm:n7047814400,Pilot,Pilot,2424 Wadhams Road,Kimball,MI,42.976648,-82.542564,no,yes
+osm:n8382541028,Pilot,Pilot,1860 East Napier Avenue,Benton Harbor,MI,42.090325,-86.412299,no,yes
+osm:n8423787402,Pilot,Pilot,1200 Nadeau Road,Monroe,MI,41.963888,-83.353805,no,yes
+osm:n8423790401,Pilot,Pilot,1100 North Dixie Highway,Monroe,MI,41.924805,-83.366172,no,yes
+osm:w796722330,Pilot,Pilot,6158 US 223,Ottawa Lake,MI,41.798392,-83.69414,no,yes
+osm:w901712602,Speedway,Speedway,,,MI,42.224155,-85.787488,yes,no
+osm:n2713422670,Flying J,Flying J Travel Center,8051 Bagley Avenue,Northfield,MN,44.470497,-93.29551,yes,yes
+osm:n12646203448,,Kwik Trip,,,MN,45.538206,-93.231081,yes,no
+osm:n3199473040,Kwik Trip,Kwik Trip,100 East 18th Street,Zumbrota,MN,44.282481,-92.667365,yes,no
+osm:n3740759811,Kwik Trip,Kwik Trip,380 Sandstone Drive NW,Eyota,MN,43.997753,-92.247624,yes,no
+osm:n4836158617,Kwik Trip,Kwik Trip,,,MN,44.623728,-93.757416,yes,no
+osm:n7123509015,Kwik Trip,Kwik Trip,4820 Highway 61,Red Wing,MN,44.567413,-92.624727,yes,no
+osm:w259489419,Kwik Trip,Kwik Trip,,,MN,43.676654,-92.95398,yes,no
+osm:w689376859,Kwik Trip,Kwik Trip,,,MN,45.556983,-94.129973,yes,no
+osm:n1555132871,Kwik Trip,Kwik Trip - Diesel,,,MN,43.953694,-92.471311,yes,no
+osm:n7633978704,,Love's,,,MN,43.659781,-93.315315,yes,yes
+osm:n8497500704,Love's,Love's,,,MN,43.953931,-92.063989,yes,yes
+osm:n8946735189,Love's,Love's,,,MN,43.954459,-92.064372,no,yes
+osm:w1202439215,Love's,Love's,,,MN,45.249244,-93.022579,no,yes
+osm:w1257994748,Love's,Love's,,,MN,45.248424,-93.02306,no,yes
+osm:n3222719852,Hampton Pump & Grocery,Minnoco,23450 Emery Avenue,Hampton,MN,44.609205,-92.993857,yes,no
+osm:w219828249,Petro,Petro,,,MN,45.411918,-94.053451,yes,yes
+osm:w231137532,Pilot,Pilot,11650 Courthouse Boulevard,Inver Grove Heights,MN,44.780858,-93.034012,no,yes
+osm:w231137533,Pilot,Pilot,11650 Courthouse Boulevard,Inver Grove Heights,MN,44.780819,-93.033236,yes,yes
+osm:w265727248,Pilot,Pilot,,,MN,45.496046,-94.14907,yes,yes
+osm:w265727249,Pilot,Pilot,,,MN,45.495788,-94.148549,no,yes
+osm:w265726035,Shell,Shell,,,MN,45.860901,-95.423425,yes,no
+osm:w770029158,Speedway,Speedway,,,MN,45.582828,-94.063746,yes,no
+osm:w226826723,TA,TA,,,MN,45.196495,-93.549814,yes,yes
+osm:w1085736556,BP,BP,301 Southwest 1st Street,Oak Grove,MO,39.014482,-94.131581,yes,no
+osm:w652550647,,Casey's,,,MO,37.491692,-94.297639,yes,no
+osm:w1447235649,Exxon,Exxon,,,MO,36.234367,-89.736027,yes,no
+osm:n13273784145,Flying J,Flying J,,,MO,38.840065,-91.227673,no,yes
+osm:w1322076060,Flying J,Flying J,,,MO,39.130638,-94.497296,no,yes
+osm:w229624739,Flying J,Flying J,,,MO,39.130408,-94.49686,no,yes
+osm:n4913626236,,Flying J's,,,MO,37.214509,-93.381311,yes,yes
+osm:n12233625789,Love's,Love's,,,MO,39.722442,-94.78739,no,yes
+osm:n12260528166,Love's,Love's,,,MO,37.276288,-93.112776,no,yes
+osm:n12260528167,Love's,Love's,,,MO,37.276106,-93.111821,yes,yes
+osm:n9951429320,Love's,Love's,,,MO,38.897563,-91.454851,no,yes
+osm:n9951429321,Love's,Love's,,,MO,38.896955,-91.454137,yes,yes
+osm:w1136346009,Love's,Love's,,,MO,39.732201,-94.218451,no,yes
+osm:w1136346039,Love's,Love's,,,MO,39.733099,-94.218663,no,yes
+osm:w1137651161,Love's,Love's,500 North D Highway,Bates City,MO,39.012649,-94.067962,no,yes
+osm:w1257599261,Love's,Love's,,,MO,39.574228,-91.404417,no,yes
+osm:w1257599262,Love's,Love's,,,MO,39.573883,-91.403349,no,yes
+osm:w1257614603,Love's,Love's,,,MO,36.97467,-91.940172,no,yes
+osm:w1257614605,Love's,Love's,,,MO,36.975193,-91.940892,no,yes
+osm:w1259731683,Love's,Love's,,,MO,36.853888,-89.583369,no,yes
+osm:w1259731684,Love's,Love's,,,MO,36.853685,-89.584366,yes,yes
+osm:w1323785574,Love's,Love's,,,MO,39.012786,-94.066163,yes,yes
+osm:w1504216471,Love's,Love's,2461 E Marshall Street,Charleston,MO,36.92013,-89.313847,no,yes
+osm:w1504216472,Love's,Love's,2461 E Marshall Street,Charleston,MO,36.919724,-89.314454,no,yes
+osm:w290395936,,Love's,,,MO,38.006086,-90.225791,yes,yes
+osm:w554597211,Love's,Love's,2501 West Ashley Road,Boonville,MO,38.933918,-92.779173,no,yes
+osm:w554597214,Love's,Love's,2501 West Ashley Road,Boonville,MO,38.933966,-92.780128,yes,yes
+osm:w598192767,Love's,Love's,,,MO,38.794132,-90.449166,no,yes
+osm:w677336596,Love's,Love's,3500 Hy Point Industrial Park Drive,Rolla,MO,37.981456,-91.71978,no,yes
+osm:w677336597,Love's,Love's,3500 Hy Point Industrial Park Drive,Rolla,MO,37.981861,-91.718958,yes,yes
+osm:w959688144,Love's,Love's,,,MO,40.466313,-93.979284,no,yes
+osm:n4445874189,Love's,Loves Truck stop,,,MO,36.758313,-89.540695,yes,yes
+osm:n12287874902,,ONE9,,,MO,37.273506,-93.111075,yes,yes
+osm:n2707974363,ONE9,ONE9,,,MO,36.518378,-89.597527,yes,yes
+osm:n9958285183,Phillips 66,Phillips 66,,,MO,40.077204,-95.196342,yes,no
+osm:n11418273084,Pilot,Pilot,,,MO,36.760206,-89.541636,yes,yes
+osm:w1086839013,Pilot,Pilot,,,MO,39.600493,-94.791084,no,yes
+osm:w1086839014,Pilot,Pilot,,,MO,39.601224,-94.790871,yes,yes
+osm:w554602289,Pilot,Pilot,1701 West Ashley Road,Boonville,MO,38.939198,-92.773636,no,yes
+osm:w554602290,Pilot,Pilot,1701 West Ashley Road,Boonville,MO,38.939657,-92.774345,yes,yes
+osm:w555000321,Pilot,Pilot,6676 Missouri Route 13,Higginsville,MO,39.003207,-93.734717,no,yes
+osm:w265139487,Pilot,Pilot Gas,,,MO,39.368408,-94.374199,no,yes
+osm:w265139488,Pilot,Pilot Truck Stop,,,MO,39.369354,-94.374096,yes,yes
+osm:n4445871090,Pilot,Pilot Truck stop,,,MO,36.759991,-89.540792,no,yes
+osm:n12635846601,QuikTrip,QuikTrip,,,MO,39.216952,-94.477862,yes,no
+osm:w1085736559,QuikTrip,QuikTrip,,,MO,39.013216,-94.127234,yes,no
+osm:w1300384676,QuikTrip,QuikTrip,,,MO,39.129359,-94.504762,yes,no
+osm:w1347882963,QuikTrip,QuikTrip,,,MO,37.980794,-91.721542,yes,no
+osm:w1367283607,,Sapp Bros.,,,MO,38.61629,-94.351688,yes,yes
+osm:n10677217228,TA,TA,,,MO,37.116771,-92.420342,yes,yes
+osm:n12287821996,TA,TA,,,MO,37.275052,-93.115093,yes,yes
+osm:n794711505,TA,TA,,,MO,37.09478,-93.807305,yes,yes
+osm:n4445873489,TA,TA Truck stop,,,MO,36.758587,-89.5347,yes,yes
+osm:w542693917,Circle K,Circle K,4050 US 11,Hattiesburg,MS,31.256436,-89.33815,yes,no
+osm:w750986058,Circle K,Circle K,US 49,Hattiesburg,MS,31.378914,-89.364921,yes,no
+osm:w644558768,Corner Fuel Center,Corner Fuel Center,3984 US 49,Hattiesburg,MS,31.187665,-89.250978,yes,no
+osm:w653417601,Exxon,Exxon,625 MS 589,Purvis,MS,31.153555,-89.414346,yes,no
+osm:w230879553,Flying J,Flying J,,,MS,34.928751,-89.793062,no,yes
+osm:w230879554,Flying J,Flying J,,Olive Branch,MS,34.928933,-89.793757,no,yes
+osm:w462169577,Kewanee 1 Stop,Kewanee 1 Stop,US 11,,MS,32.425472,-88.447793,yes,no
+osm:n10816216823,Love's,Love's,,,MS,30.419083,-89.19048,no,yes
+osm:n10858239573,Love's,Love's,,,MS,32.362754,-90.667372,no,yes
+osm:n11691931797,Love's,Love's,,,MS,32.362306,-90.666852,no,yes
+osm:n4960778722,Love's,Love's,,,MS,31.874576,-89.755835,no,yes
+osm:n9392696127,Love's,Love's,,,MS,32.322101,-89.343471,no,yes
+osm:w1040078566,Love's,Love's,,,MS,30.846692,-89.497807,yes,yes
+osm:w1084278791,Love's,Love's,,,MS,31.783719,-89.057177,no,yes
+osm:w1323593375,Love's,Love's,,Holly Springs,MS,34.744723,-89.453067,no,yes
+osm:w1323593377,Love's,Love's,,Holly Springs,MS,34.744902,-89.454233,no,yes
+osm:w1325280421,Love's,Love's,,,MS,31.782828,-89.057326,no,yes
+osm:w165891523,Love's,Love's,11332 Cedar Lake Road,Biloxi,MS,30.45212,-88.933744,no,yes
+osm:w225871183,Love's,Love's,,,MS,34.351338,-89.915963,no,yes
+osm:w225871186,Love's,Love's,,,MS,34.352127,-89.915698,no,yes
+osm:w225871274,Love's,Love's,,,MS,32.603815,-90.072448,no,yes
+osm:w225871275,Love's,Love's,,,MS,32.604383,-90.072726,no,yes
+osm:w225872641,Love's,Love's,,,MS,31.190446,-90.485819,no,yes
+osm:w225872643,Love's,Love's,,,MS,31.190461,-90.48677,no,yes
+osm:w225872934,Love's,Love's,11332 Cedar Lake Road,Biloxi,MS,30.452729,-88.933421,no,yes
+osm:w225873120,Love's,Love's,,,MS,32.411329,-88.505367,yes,yes
+osm:w225873290,Love's,Love's,McCullough Boulevard,Tupelo,MS,34.315984,-88.791113,no,yes
+osm:w225873292,Love's,Love's,McCullough Boulevard,Tupelo,MS,34.316528,-88.790984,no,yes
+osm:n10871362855,Pilot,Pilot,,,MS,34.619997,-89.952981,no,yes
+osm:n5104264387,Pilot,Pilot,6705 MS 63,Moss Point,MS,30.438422,-88.528436,no,yes
+osm:r14078007,Pilot,Pilot,,,MS,30.421041,-89.137678,no,yes
+osm:w236749236,Pilot,Pilot,,,MS,32.346112,-88.7278,no,yes
+osm:w236750655,Pilot,Pilot,500 Mississippi Highway 15 South,New Albany,MS,34.468101,-89.006723,no,yes
+osm:w236750656,Pilot,Pilot,,,MS,34.467796,-89.006029,yes,yes
+osm:w461609242,,TA,,,MS,32.396502,-88.58233,yes,yes
+osm:w339825071,Texaco,Texaco,,,MS,31.248899,-89.276731,yes,no
+osm:w646586274,Valero,Valero,52 Monroe Road,Hattiesburg,MS,31.362573,-89.298142,yes,no
+osm:w449311908,Pilot,Exxon,,,MT,47.189967,-114.886804,no,yes
+osm:w923620017,Flying J,Flying J,,,MT,45.774341,-111.199651,no,yes
+osm:n11209326297,Love's,Love's,3219 Airport Drive,Great Falls,MT,47.475054,-111.361143,no,yes
+osm:n7798799746,Love's,Love's,,,MT,46.94702,-114.133624,yes,yes
+osm:n7798799747,Love's,Love's,,,MT,46.94789,-114.133435,no,yes
+osm:n7527860521,Love's,Love’s,1261 MT-47,Hardin,MT,45.749572,-107.611338,no,yes
+osm:n11369524623,Pilot,Pilot,,,MT,46.757052,-114.080937,no,yes
+osm:n8317060529,Pilot,Pilot,,,MT,45.812488,-108.415795,no,yes
+osm:n8317080809,Pilot,Pilot,,,MT,45.815652,-108.417381,no,yes
+osm:n9512341273,Pilot,Pilot,,,MT,45.917309,-111.599162,no,yes
+osm:w1306440658,Pilot,Pilot,1210 South Haynes Avenue,Miles City,MT,46.396823,-105.820936,no,yes
+osm:w989750911,Pilot,Pilot,,,MT,48.370096,-114.238404,no,yes
+osm:w1301887949,Exxon,Pilot Flying J,,,MT,46.874574,-113.887788,yes,yes
+osm:w451824958,Pilot,Pilot Flying J,,,MT,46.005179,-112.612534,yes,yes
+osm:n11986391315,Circle K,Circle K,,,NC,35.763807,-78.00053,yes,no
+osm:n2442044390,,Circle K,,,NC,35.270009,-78.61486,yes,no
+osm:n5486357422,Flying J,Flying J,1800 Princeton Kenly Road,Kenly,NC,35.574678,-78.145927,no,yes
+osm:w265727846,Flying J,Flying J,,,NC,36.486626,-80.746193,no,yes
+osm:w265727848,Flying J,Flying J,,,NC,36.486848,-80.746986,yes,yes
+osm:n10918298097,Love's,Love's,,,NC,36.326541,-79.640825,no,yes
+osm:n11670164686,Love's,Love's,,,NC,35.608634,-80.518093,yes,yes
+osm:n11670164687,Love's,Love's,,,NC,35.609142,-80.517324,no,yes
+osm:n11711708210,Love's,Love's,,,NC,35.255671,-80.981118,no,yes
+osm:n11711708211,Love's,Love's,,,NC,35.255195,-80.980214,yes,yes
+osm:w1255392369,Love's,Love's,,,NC,35.812373,-80.833328,no,yes
+osm:w224604562,Love's,Love's,,,NC,35.658234,-81.963101,no,yes
+osm:w875867767,Love's,Love's,2603 Sam Wilson Road,Charlotte,NC,35.255361,-80.980744,no,yes
+osm:w905877390,Love's,Love’s Travel Stop,1217 Trollingwood Hawfields Road,Mebane,NC,36.068083,-79.313256,no,yes
+osm:n12094793966,ONE9,ONE9,,,NC,36.061036,-79.66174,yes,yes
+osm:w1058585146,ONE9,ONE9,,,NC,36.523288,-77.587205,yes,yes
+osm:n5280124497,Petro,Petro Stopping Center,,,NC,35.584503,-78.146848,yes,yes
+osm:n5077700121,Pilot,Pilot,1342 Trollingwood Hawfields Road,Mebane,NC,36.06578,-79.309825,no,yes
+osm:n5612026462,Pilot,Pilot,3807 Statesville Avenue,Charlotte,NC,35.270406,-80.83784,no,yes
+osm:w1001154270,Pilot,Pilot,,,NC,35.298038,-79.726274,no,yes
+osm:w220150715,Pilot,Pilot,1000 Truckstop Road,Kenly,NC,35.583541,-78.147871,yes,yes
+osm:w236144789,Pilot,Pilot Dealer--Sadler Travel Plaza,65 Sadler Road,Dunn,NC,35.318409,-78.575774,yes,yes
+osm:r19390038,QuikTrip,QuikTrip,,,NC,35.278385,-80.809099,yes,no
+osm:w940426691,,Coffee Cup Travel Plaza,620 Mitchell Avenue North,Steele,ND,46.861115,-99.916939,yes,no
+osm:w225056623,Flying J,Flying J,,,ND,46.833549,-96.844111,yes,yes
+osm:w225056624,Flying J,Flying J,3150 39th Street Southwest,Fargo,ND,46.833241,-96.844695,no,yes
+osm:w231125134,Flying J,Flying J,,,ND,46.929265,-104.008974,no,yes
+osm:w231125135,Flying J,Flying J,,,ND,46.929713,-104.008767,no,yes
+osm:w225056490,Love's,Love's,,,ND,46.831245,-96.844574,yes,yes
+osm:w225056492,Love's,Love's,3220 39th Street South,Fargo,ND,46.832077,-96.844879,no,yes
+osm:n11162107479,Love's,Love's Travel Stop,,,ND,46.909621,-98.006358,no,yes
+osm:n11189416005,Pilot,Pilot,4401 32nd Avenue South,Grand Forks,ND,47.887957,-97.093381,yes,yes
+osm:n11408719600,gastrak,gastrak,,,ND,48.969357,-97.255202,yes,no
+osm:n8805633254,Casey's General Store,Casey's General Store,510 South Meridian Avenue,Cozad,NE,40.848423,-99.984919,yes,no
+osm:n13443771149,Flying J,Flying J,3400 South Newberry Road,North Platte,NE,41.101474,-100.726342,no,yes
+osm:n7502086792,Flying J,Flying J,109 Circle Road,Big Springs,NE,41.052189,-102.070521,yes,yes
+osm:n11517971924,Love's,Love's,,,NE,41.451904,-97.084776,no,yes
+osm:n11517971925,Love's,Love's,,,NE,41.451576,-97.085332,yes,yes
+osm:n11707846796,Love's,Love's,,,NE,41.156935,-96.137433,no,yes
+osm:n9318631667,Love's,Love's,,,NE,41.157716,-96.137677,no,yes
+osm:w1255423748,Love's,Love's,,,NE,41.109795,-102.9504,no,yes
+osm:w1255423749,Love's,Love's,,,NE,41.108931,-102.951161,yes,yes
+osm:w1258805549,Love's,Love's,,,NE,42.011769,-97.428233,no,yes
+osm:w1258805550,Love's,Love's,,,NE,42.011632,-97.427258,no,yes
+osm:w225056800,Love's,Love's,,,NE,40.818915,-97.997873,no,yes
+osm:w225057377,Love's,Love's,,,NE,41.102557,-100.724317,no,yes
+osm:w225057381,Love's,Love's,,,NE,41.102925,-100.723378,yes,yes
+osm:w990216182,Love's,Love's,,,NE,40.674603,-96.178217,no,yes
+osm:w896841399,Love's,Love's Alternative Energy,13233 Cornhusker Road,Omaha,NE,41.16091,-96.120258,no,yes
+osm:w191655452,Maverik,Maverik,,,NE,41.116056,-102.949856,yes,no
+osm:n12094850511,ONE9,ONE9 Fuel Stop,,,NE,40.692075,-99.381492,yes,yes
+osm:w767760275,QuikTrip,QuikTrip,,,NE,41.148277,-96.161412,yes,no
+osm:n12572224088,Sapp Bros,Sapp Bros,1142 Grand Avenue,Humboldt,NE,40.173914,-95.940213,no,yes
+osm:n1558995571,Sapp Bros.,Sapp Bros,,York,NE,40.829459,-97.598322,no,yes
+osm:n3806093200,Sapp Bros.,Sapp Bros,,,NE,41.437947,-97.320539,no,yes
+osm:n5055236928,Sapp Bros.,Sapp Bros,,,NE,41.118325,-102.950505,yes,yes
+osm:n5055236960,Sapp Bros.,Sapp Bros,,,NE,41.118293,-102.949862,no,yes
+osm:n6821478868,Sapp Bros.,Sapp Bros,,York,NE,40.829236,-97.598768,yes,yes
+osm:n12660022852,Sapp Bros.,Sapp Bros.,,,NE,40.862327,-96.638129,no,yes
+osm:n12660022853,Sapp Bros.,Sapp Bros.,,,NE,40.862463,-96.637765,yes,yes
+osm:n3806093173,Sapp Bros.,Sapp Bros.,,,NE,41.437561,-97.321091,yes,yes
+osm:n4974275799,Sapp Bros.,Sapp Bros.,,,NE,41.471214,-96.496539,no,yes
+osm:n4974276964,Sapp Bros.,Sapp Bros.,,,NE,41.470858,-96.496175,yes,yes
+osm:n3861605570,Shell,Shell,,,NE,40.917463,-100.167931,yes,no
+osm:w1011388546,Shell Oil,Shell Diesel,,York,NE,40.813896,-97.598823,yes,no
+osm:n3861605575,Sinclair,Sinclair,,,NE,40.916846,-100.166129,yes,no
+osm:w802046946,Sinclair,Sinclair,108 Frontage Road,Big Springs,NE,41.051238,-102.072877,yes,no
+osm:w220502426,Pilot,Pilot,,,NH,43.121701,-71.480737,no,yes
+osm:w1185948486,Exxon,Exxon,61 Lincoln Highway,Kearny,NJ,40.731072,-74.110086,yes,no
+osm:w217783539,Love's,Love's,,,NJ,40.119917,-74.708167,yes,yes
+osm:w217783540,Love's,Love's,,,NJ,40.120185,-74.707334,no,yes
+osm:w996515920,,Penn Jersey Truck Stop,,,NJ,40.672328,-75.138513,yes,no
+osm:n12247171676,Pilot,Pilot,,,NJ,40.65973,-75.072714,yes,yes
+osm:n4397109431,Pilot,Pilot,,,NJ,40.636565,-74.967321,no,yes
+osm:n5792682395,Pilot,Pilot,979 NJ 173,Bloomsbury,NJ,40.659213,-75.072883,no,yes
+osm:r9107525,Pilot,Pilot,230 Route 17 South,Mahwah,NJ,41.092223,-74.155822,no,yes
+osm:w1112517705,Pilot,Pilot,,,NJ,40.719613,-74.125709,no,yes
+osm:w267162756,Pilot,Pilot Dealer #891,1470 US 46,Ledgewood,NJ,40.89213,-74.685759,no,yes
+osm:n12323260378,TA,TA,,,NJ,40.659475,-75.074082,yes,yes
+osm:n12126022978,Flying J,Flying J,,,NM,35.480563,-108.433178,no,yes
+osm:r21083112,Flying J,Flying J,11 Old Highway 70,Lordsburg,NM,32.341281,-108.677056,no,yes
+osm:w226328543,Flying J,Flying J,,,NM,35.159061,-103.703644,no,yes
+osm:w888809753,Flying J,Flying J,,,NM,35.078938,-106.746524,yes,yes
+osm:n11471626969,Love's,Love's,257 Horizon Boulevard,,NM,35.183036,-107.899617,no,yes
+osm:n11687464539,Love's,Love's,,,NM,35.619715,-105.208157,yes,yes
+osm:n1678893882,Love's,Love's,2200 6th Street Northwest,,NM,35.107684,-106.648925,yes,yes
+osm:n8149672733,Love's,Love's,,,NM,35.619892,-105.207598,no,yes
+osm:n8356711882,Love's,Love's,,,NM,35.505736,-108.833738,no,yes
+osm:w1034926392,Love's,Love's,,,NM,32.354153,-108.735709,yes,yes
+osm:w1040550611,Love's,Love's,,,NM,32.43481,-103.121246,no,yes
+osm:w1040550612,Love's,Love's,,,NM,32.434395,-103.120684,yes,yes
+osm:w226328204,Love's,Love's,,,NM,32.353784,-108.736014,no,yes
+osm:w226328495,Love's,Love's,,,NM,34.946474,-104.637647,yes,yes
+osm:w226328498,Love's,Love's,,,NM,34.947056,-104.638001,no,yes
+osm:w226328565,Love's,Love's,,,NM,35.158833,-103.70067,yes,yes
+osm:w226328566,Love's,Love's,,,NM,35.15888,-103.701598,no,yes
+osm:w759264386,Love's,Love's,1903 Camino del Llano,Belen,NM,34.652958,-106.79337,no,yes
+osm:w759264388,Love's,Love's,,,NM,34.65184,-106.793474,yes,yes
+osm:w894444117,Love's,Love's,,,NM,35.064068,-106.78447,no,yes
+osm:w894444119,Love's,Love's,,,NM,35.064157,-106.785146,no,yes
+osm:n12100791913,Love's,Love's Travel Stop,,,NM,31.862111,-106.686798,yes,yes
+osm:n12766688259,Pilot,One9 Gas Station,3022 South 1st Street,Tucumcari,NM,35.149879,-103.724452,no,yes
+osm:n3285253211,Pilot,Pilot,,,NM,32.739972,-103.162909,no,yes
+osm:n9309225781,Pilot,Pilot,,,NM,32.296661,-106.810341,no,yes
+osm:w1124744229,Pilot,Pilot,,,NM,34.960692,-106.660131,no,yes
+osm:w1178747128,Pilot,Pilot,,,NM,32.69778,-103.183758,yes,yes
+osm:w1190974185,Pilot,Pilot,,,NM,32.120607,-103.188973,no,yes
+osm:w1190974186,Pilot,Pilot,,,NM,32.120722,-103.188294,yes,yes
+osm:w231124846,Pilot,Pilot,,,NM,32.342725,-108.681197,no,yes
+osm:w464020385,Pilot,Pilot,3710 West Carlsbad Highway,Hobbs,NM,32.697125,-103.183591,no,yes
+osm:w784612775,Pilot,Pilot,,,NM,34.946894,-104.651954,no,yes
+osm:w784612776,Pilot,Pilot,,,NM,34.946767,-104.650832,yes,yes
+osm:w904936667,Pilot,Pilot Travel Center,305 Abrahames Road,Moriarty,NM,35.011191,-106.043868,no,yes
+osm:w226328483,Shell,Shell,,,NM,34.944412,-104.640032,yes,no
+osm:w220070971,,Alamo Truck Stop,,,NV,39.523477,-119.707957,yes,no
+osm:w1527086724,Chevron,Chevron,,,NV,40.951479,-117.76026,yes,no
+osm:w1099977426,Flying J,Flying J,,,NV,40.960626,-117.747697,yes,yes
+osm:w230880672,Flying J,Flying J,,,NV,40.960025,-117.747721,no,yes
+osm:w264215609,Flying J,Flying J,,,NV,35.609717,-115.391709,yes,yes
+osm:w520499023,Flying J,Flying J,,,NV,39.615083,-119.215928,yes,yes
+osm:w818872556,Flying J,Flying J,1057 South Lower Flat Top Drive,Mesquite,NV,36.783082,-114.139936,no,yes
+osm:w818873126,Flying J,Flying J RV Lanes,1057 South Lower Flat Top Drive,Mesquite,NV,36.783534,-114.140704,no,yes
+osm:n11987257934,,Hell Station,9:30 & Past-Kelter,Burning Man,NV,40.798106,-119.219217,yes,no
+osm:n4354708558,Love's,Love's,,,NV,39.618056,-119.266076,no,yes
+osm:w1019258336,Love's,Love's,,,NV,40.950393,-117.757963,yes,yes
+osm:w1019258337,Love's,Love's,,,NV,40.950985,-117.757653,no,yes
+osm:w1187700573,Love's,Love's,1170 Grand Army of the Republic Highway;Veterans Memorial Highway,Tonopah,NV,38.079723,-117.253077,yes,yes
+osm:w1306230470,Love's,Love's,,,NV,41.98201,-114.672458,no,yes
+osm:w220070308,Love's,Love's,,,NV,41.098866,-114.959736,no,yes
+osm:w220070309,Love's,Love's,,,NV,41.099072,-114.960735,no,yes
+osm:w225364818,Love's,Love's,12501 Apex Great Basin Way,Las Vegas,NV,36.381845,-114.896209,no,yes
+osm:w894694544,Love's,Love's,,,NV,39.241583,-114.869205,yes,yes
+osm:w894694545,Love's,Love's,,,NV,39.242081,-114.869015,no,yes
+osm:w1042438870,Love's,Love's RV Lanes,12501 Apex Great Basin Way,Las Vegas,NV,36.381747,-114.895928,no,yes
+osm:w1187700572,Love's,Love's Travel Stop,1170 Grand Army of the Republic Highway;Veterans Memorial Highway,Tonopah,NV,38.079371,-117.253658,no,yes
+osm:w225364820,Love's,Love's Truck Lanes,12501 Apex Great Basin Way,Las Vegas,NV,36.381106,-114.896476,no,yes
+osm:w692913760,Maverik,Maverik,,,NV,39.188953,-119.751317,yes,no
+osm:w1098781677,Maverik,Maverik Truck and RV,5450 East Tropical Parkway,North Las Vegas,NV,36.270175,-115.054001,yes,no
+osm:n12094860354,ONE9,ONE9,,,NV,39.558965,-119.490287,yes,yes
+osm:w1172769715,ONE9,ONE9,,,NV,40.719713,-116.105794,yes,yes
+osm:w326057224,,One9,,,NV,35.780013,-115.324929,yes,yes
+osm:w225364452,Pilot,Pilot,,,NV,39.61808,-119.26707,yes,yes
+osm:w264216829,Pilot,Pilot,3812 East Craig Road,North Las Vegas,NV,36.240684,-115.097815,no,yes
+osm:w1161850959,Pilot Flying J,Pilot Flying J,,,NV,40.931299,-117.803924,no,yes
+osm:w1161850961,Pilot Flying J,Pilot Flying J,,,NV,40.93132,-117.804829,yes,yes
+osm:w264209941,Pilot,Pilot Travel Center,1200 Wendover Boulevard,West Wendover,NV,40.739452,-114.066462,no,yes
+osm:w264216830,Pilot,Pilot gas,3812 East Craig Road,North Las Vegas,NV,36.241322,-115.09779,yes,yes
+osm:n12302422590,,Sinclair,,,NV,41.100727,-114.956198,yes,no
+osm:n358133748,,Flying J's,,,NY,43.000777,-78.406933,yes,yes
+osm:n10926790752,Love's,Love's,6201 Shortman Road,Ripley,NY,42.258862,-79.743233,no,yes
+osm:n10926790757,Love's,Love's,6201 Shortman Road,Ripley,NY,42.259094,-79.744182,yes,yes
+osm:n11343370864,Love's,Love's,,,NY,42.964407,-76.847364,no,yes
+osm:n11700067709,Love's,Love's,,,NY,44.002013,-75.921169,no,yes
+osm:n3859505576,Love's,Love's,,,NY,42.362494,-73.429598,no,yes
+osm:w217816928,Love's,Love's,,,NY,42.101542,-75.835346,no,yes
+osm:w217816933,Love's,Love's,,,NY,42.101667,-75.836232,no,yes
+osm:n2124257272,Petro,Petro (Diesel),,,NY,42.96666,-76.845074,yes,yes
+osm:n10170632752,Pilot,Pilot,,,NY,42.497624,-73.674739,yes,yes
+osm:n12128697874,Pilot,Pilot,,,NY,42.947293,-74.355797,no,yes
+osm:n1557832816,Pilot,Pilot,,,NY,42.781356,-74.028289,no,yes
+osm:n709064600,Pilot,Pilot,,,NY,42.497957,-73.674107,no,yes
+osm:w220505480,Pilot,Pilot,,,NY,41.521533,-74.112714,no,yes
+osm:w220520577,TA,TA,,,NY,41.504103,-74.220001,yes,yes
+osm:w220511738,,Travel Centers of America,,,NY,43.005318,-78.407117,yes,no
+osm:w221629010,BP,BP,,,OH,39.953125,-83.3796,yes,no
+osm:w225055426,BP,BP,,,OH,39.616898,-83.604364,yes,no
+osm:n12159238408,Circle K,Circle K,,,OH,41.497765,-83.7212,yes,no
+osm:w1195987447,Flying J,Flying J,175 Northwoods Boulevard,Vandalia,OH,39.901686,-84.192384,no,yes
+osm:w220780610,Flying J,Flying J,,,OH,41.790053,-80.855915,yes,yes
+osm:w220780613,Flying J,Flying J,2349 State Route 45,Austinburg,OH,41.789337,-80.855629,no,yes
+osm:w229322030,Flying J,Flying J,,,OH,39.94242,-82.599208,yes,yes
+osm:w229322031,Flying J,Flying J,,,OH,39.943122,-82.599481,no,yes
+osm:w229323376,Flying J,Flying J,,,OH,40.267244,-82.924963,no,yes
+osm:w229323378,Flying J,Flying J,,,OH,40.267388,-82.924058,yes,yes
+osm:w229321016,Flying J,Flying J #695,420 East Main Street,Beaverdam,OH,40.832287,-83.967314,yes,yes
+osm:w229321019,Flying J,Flying J #695,420 East Main Street,Beaverdam,OH,40.832556,-83.966414,no,yes
+osm:w764620302,Fuel Stop,Fuel Stop,,,OH,40.754053,-84.090041,yes,no
+osm:n11113139587,Love's,Love's,,,OH,41.17334,-83.651876,yes,yes
+osm:n11741967407,Love's,Love's,1601 Great Lakes Way,Madison,OH,41.756552,-81.046386,no,yes
+osm:n14017725770,Love's,Love's,,,OH,41.91439,-80.570368,yes,yes
+osm:n5827482088,Love's,Love's,1725 Ridge Road,Springfield,OH,39.893882,-83.722253,no,yes
+osm:n6760425826,,Love's,,,OH,38.875383,-82.296368,yes,yes
+osm:n8082089658,Love's,Love's,2 Loves Drive,Conneaut,OH,41.913885,-80.57016,no,yes
+osm:n9779834417,Love's,Love's,,,OH,41.107615,-81.050169,no,yes
+osm:w1017955731,Love's,Love's,,,OH,40.652451,-82.546073,no,yes
+osm:w1028201586,Love's,Love's,9901 Schuster Way,Etna,OH,39.944623,-82.679708,no,yes
+osm:w1236321435,Love's,Love's,9901 Schuster Way,Etna,OH,39.944695,-82.678543,yes,yes
+osm:w1380115089,Love's,Love's,,,OH,40.962621,-80.658476,no,yes
+osm:w1380115090,Love's,Love's,,,OH,40.963406,-80.65842,yes,yes
+osm:w1495894413,Love's,Love's,,,OH,41.321236,-82.614245,no,yes
+osm:w220778962,Love's,Love's,605 Sonora Road,Zanesville,OH,39.968571,-81.902935,no,yes
+osm:w223010493,Love's,Love's,,,OH,41.537126,-83.466615,no,yes
+osm:w223010495,Love's,Love's,,,OH,41.53747,-83.465944,no,yes
+osm:w225055026,Love's,Love's,10145 Avon Lake Road,Burbank,OH,40.996286,-81.99565,no,yes
+osm:w225055027,Love's,Love's,10145 Avon Lake Road,Burbank,OH,40.996546,-81.994378,yes,yes
+osm:w225055311,Love's,Love's,,,OH,39.621063,-83.612507,no,yes
+osm:w225055314,Love's,Love's,,,OH,39.621102,-83.613286,yes,yes
+osm:w298511931,Love's,Love's,,,OH,39.732976,-84.20905,no,yes
+osm:w298511934,Love's,Love's,,,OH,39.733778,-84.209072,yes,yes
+osm:w987240262,Love's,Love's,,,OH,39.845007,-82.938237,yes,yes
+osm:w987240263,Love's,Love's,,,OH,39.844804,-82.937192,no,yes
+osm:w1017955890,Love's,Love's (Trucks),976 State Route 97,Bellville,OH,40.65328,-82.546559,no,yes
+osm:w708117770,Kentuckiana Fuel,M&M Cartage,2453 Commerce Boulevard,Sharonville,OH,39.289715,-84.425691,yes,no
+osm:w236632054,ONE9,ONE9,,,OH,39.52289,-83.845794,yes,yes
+osm:n1231936477,Petro,Petro,,,OH,39.835556,-84.809678,yes,yes
+osm:n12125481416,Pilot,Pilot,,,OH,39.557942,-82.957773,no,yes
+osm:n9421654611,Pilot,Pilot,,,OH,41.522398,-83.462237,no,yes
+osm:w1127365366,Pilot,Pilot,,,OH,40.750231,-81.403395,no,yes
+osm:w1127365367,Pilot,Pilot,,,OH,40.749503,-81.403362,yes,yes
+osm:w1178084818,Pilot,Pilot,,,OH,39.997152,-81.576996,yes,yes
+osm:w1178084819,Pilot,Pilot,,,OH,39.996851,-81.577424,no,yes
+osm:w205877916,Pilot,Pilot,,,OH,39.542186,-84.291188,no,yes
+osm:w220265675,Pilot,Pilot,,,OH,41.416546,-84.10422,yes,yes
+osm:w220778072,Pilot,Pilot,,,OH,39.737755,-81.527451,no,yes
+osm:w220778074,Pilot,Pilot,,,OH,39.737527,-81.527976,yes,yes
+osm:w220782794,Pilot,Pilot,,,OH,41.128731,-80.769027,no,yes
+osm:w220782795,Pilot,Pilot,,,OH,41.128642,-80.770009,yes,yes
+osm:w220785756,Pilot,Pilot,,,OH,40.959055,-80.660069,no,yes
+osm:w220785758,Pilot,Pilot,,,OH,40.959792,-80.660274,yes,yes
+osm:w221392146,Pilot,Pilot,,,OH,39.945196,-82.53616,yes,yes
+osm:w221392147,Pilot,Pilot,,,OH,39.9457,-82.535964,no,yes
+osm:w221628742,Pilot,Pilot,,,OH,39.959439,-83.370161,no,yes
+osm:w221628744,Pilot,Pilot,,,OH,39.958759,-83.370188,yes,yes
+osm:w225055247,Pilot,Pilot,,,OH,40.99913,-81.996785,no,yes
+osm:w225804448,Pilot,Pilot,,,OH,41.27626,-81.62685,no,yes
+osm:w225804450,Pilot,Pilot,,,OH,41.27611,-81.625959,yes,yes
+osm:w229319025,Pilot,Pilot,,,OH,39.831632,-84.629956,no,yes
+osm:w229321289,Pilot,Pilot,,,OH,40.834015,-83.244958,no,yes
+osm:w229321788,Pilot,Pilot,488 State Route 61,Marengo,OH,40.370835,-82.830336,no,yes
+osm:w229322738,Pilot,Pilot,,,OH,40.265931,-82.92408,no,yes
+osm:w229324194,Pilot,Pilot,,,OH,39.973767,-83.100081,yes,yes
+osm:w229324197,Pilot,Pilot,,,OH,39.97308,-83.099553,no,yes
+osm:w539930435,Pilot,Pilot,,,OH,39.411108,-84.15035,no,yes
+osm:w539930436,Pilot,Pilot,,,OH,39.411874,-84.150056,yes,yes
+osm:w608260434,Pilot,Pilot,,,OH,40.265443,-82.924023,yes,yes
+osm:w220781342,Pilot,Pilot - Cars,2246 State Route 45,Austinburg,OH,41.78549,-80.854354,no,yes
+osm:w220781341,Pilot,Pilot - Trucks,,,OH,41.785538,-80.853195,yes,yes
+osm:w225055246,,Pilot Travel Center #287,,,OH,40.999193,-81.99775,yes,yes
+osm:w229320512,Pilot,Pilot Travel Center #457,427 East Main Street,Beaverdam,OH,40.833566,-83.964455,no,yes
+osm:w229320513,Pilot,Pilot Travel Center #457,427 East Main Street,Beaverdam,OH,40.833836,-83.965247,yes,yes
+osm:w1052089326,Speedway,Speedway,,,OH,40.961299,-80.658281,yes,no
+osm:w836094224,Speedway,Speedway,64279 Wintergreen Road,Lore City,OH,40.030961,-81.449654,yes,no
+osm:n3763094722,,Sunoco,,,OH,40.93833,-80.586146,yes,no
+osm:n3763228152,Sunoco,Sunoco,,,OH,41.290959,-81.675413,yes,no
+osm:n3763228155,Sunoco,Sunoco,,,OH,41.293078,-81.671664,yes,no
+osm:w372760237,Sunoco,Sunoco,,,OH,40.940871,-80.586951,yes,no
+osm:w372763340,Sunoco,Sunoco,,,OH,41.242234,-81.176665,yes,no
+osm:w372763343,Sunoco,Sunoco,,,OH,41.244862,-81.176972,yes,no
+osm:n8715460627,TA,TA,5551 State Route 193,Kingsville,OH,41.876966,-80.667305,yes,yes
+osm:w220781615,TA,Travel Centers of America,,,OH,41.122461,-80.766193,yes,yes
+osm:w221391766,TA,Travel Centers of America,,,OH,39.938595,-82.53548,yes,yes
+osm:w220784539,,Truck Fuel,,,OH,41.173145,-80.570593,yes,no
+osm:w220784541,Love's,Unleaded & Diesel,2586 North Main Street,Hubbard,OH,41.173198,-80.569315,no,yes
+osm:w239829489,Valero,Cherokee Travel Plaza,,,OK,35.406783,-94.530374,yes,no
+osm:w1111226861,,Choctaw,,,OK,33.938108,-95.525243,yes,no
+osm:r18800939,,Choctaw Travel Plaza,,,OK,33.952774,-96.41848,yes,no
+osm:w260635889,Conoco,Conoco,,,OK,36.116604,-97.336531,yes,no
+osm:w995453955,Domino,Domino,,,OK,36.432629,-99.42807,yes,no
+osm:n12327624251,Flying J,Flying J,,,OK,35.475956,-95.53863,no,yes
+osm:n12327624252,Flying J,Flying J,,,OK,35.475966,-95.539149,no,yes
+osm:n12327624253,Flying J,Flying J,,,OK,35.475721,-95.538413,no,yes
+osm:n1608318101,Flying J,Flying J,,,OK,34.200294,-97.167705,yes,yes
+osm:w99402458,Flying J,Flying J,,,OK,36.161925,-95.832574,no,yes
+osm:w99402478,Flying J,Flying J,,,OK,36.162533,-95.832363,yes,yes
+osm:w235554992,,Flying J - Sayre,,,OK,35.265898,-99.640846,yes,yes
+osm:n10802051166,Love's,Love's,"101 SE 2nd St, Guymon, OK 73942",,OK,36.677243,-101.481217,no,yes
+osm:n11050138528,Love's,Love's,,,OK,35.915374,-94.96871,no,yes
+osm:n11447971674,Love's,Love's,,,OK,35.636124,-95.962898,no,yes
+osm:n11612240675,Love's,Love's,,,OK,35.411876,-99.415848,no,yes
+osm:n11684356604,Love's,Love's,,,OK,35.420971,-96.30019,no,yes
+osm:n11684356605,Love's,Love's,,,OK,35.421008,-96.301161,yes,yes
+osm:n11687479398,Love's,Love's,,,OK,35.526595,-98.351264,no,yes
+osm:n11711407862,Love's,Love's,,,OK,35.422891,-99.372066,yes,yes
+osm:n11711407863,Love's,Love's,2703 East US 66 Historic,Elk City,OK,35.422748,-99.372297,no,yes
+osm:n11825075010,Love's,Love's,,,OK,34.368074,-97.963971,no,yes
+osm:n12026588938,Love's,Love's,,,OK,34.681934,-99.91475,no,yes
+osm:n12250925022,Love's,Love's,,,OK,35.636565,-95.963123,yes,yes
+osm:n12250930175,Love's,Love's,,,OK,35.381438,-96.670339,yes,yes
+osm:n12258472967,Love's,Love's,,,OK,34.65692,-97.958083,no,yes
+osm:n12281863180,Love's,Love's,,,OK,36.810026,-100.519335,no,yes
+osm:n12281897357,Love's,Love's,,,OK,36.272361,-98.480112,no,yes
+osm:n12282002224,Love's,Love's,,,OK,35.037219,-97.937072,no,yes
+osm:n12282006018,Love's,Love's,,,OK,35.439656,-95.976779,no,yes
+osm:n12299538264,Love's,Love's,,,OK,35.014986,-97.366248,no,yes
+osm:n12512526527,Love's,Love's,304 West Russworm Street,Watonga,OK,35.841405,-98.415789,no,yes
+osm:n12726420298,Love's,Love's,,,OK,34.004793,-95.101249,no,yes
+osm:n12760087525,Love's,Love's,309 West Grant Avenue,Pauls Valley,OK,34.739799,-97.222661,no,yes
+osm:n13160021110,Love's,Love's,,,OK,35.498953,-97.902259,no,yes
+osm:n13160121046,Love's,Love's,,,OK,35.381801,-97.089127,no,yes
+osm:n14017293023,Love's,Love's,,,OK,36.797373,-98.649989,no,yes
+osm:n1608318103,Love's,Love's,,,OK,34.188198,-97.171272,yes,yes
+osm:n1694541779,Love's,Love's,,,OK,33.992287,-96.381795,no,yes
+osm:n2084118446,Love's,Love's,,,OK,34.086505,-96.769958,no,yes
+osm:n2351384153,Love's,Love's,,,OK,34.187919,-97.170945,no,yes
+osm:n3408987912,Love's,Love's,,,OK,35.517976,-98.870961,yes,yes
+osm:n3432374920,Love's,Love's,,,OK,35.946394,-97.594912,no,yes
+osm:n3727990443,Love's,Love's,,,OK,35.37748,-97.573706,no,yes
+osm:n5161151923,Love's,Love's,,,OK,35.224036,-99.869374,no,yes
+osm:w1077589681,Love's,Love's,,,OK,33.998958,-96.428828,no,yes
+osm:w1077589682,Love's,Love's,,,OK,33.998544,-96.428643,no,yes
+osm:w1080391282,Love's,Love's,,,OK,34.173183,-98.498818,no,yes
+osm:w1080391283,Love's,Love's,,,OK,34.172645,-98.498669,yes,yes
+osm:w1101471544,Love's,Love's,106 Airport Drive,Nowata,OK,36.719665,-95.629052,no,yes
+osm:w1217664684,Love's,Love's,,,OK,36.291284,-97.325302,yes,yes
+osm:w1217664686,Love's,Love's,,,OK,36.290531,-97.325414,no,yes
+osm:w1254374135,Love's,Love's,214 South Highway 100,Webbers Falls,OK,35.486654,-95.148265,no,yes
+osm:w1255419624,Love's,Love's,,,OK,36.506866,-101.774567,yes,yes
+osm:w1255420462,Love's,Love's,,,OK,34.876505,-99.503001,no,yes
+osm:w1255420955,Love's,Love's,,,OK,34.50065,-97.947703,no,yes
+osm:w1255421843,Love's,Love's,,,OK,34.644204,-99.334328,no,yes
+osm:w1255423420,Love's,Love's,,,OK,34.174205,-97.141063,no,yes
+osm:w1256813848,Love's,Love's,,,OK,35.490852,-94.971343,no,yes
+osm:w1256813856,Love's,Love's,,,OK,35.490908,-94.971521,no,yes
+osm:w1257114858,Love's,Love's,,,OK,34.776927,-96.66961,no,yes
+osm:w1257618745,Love's,Love's,,,OK,34.640211,-97.958198,no,yes
+osm:w1258802993,Love's,Love's,,,OK,35.052042,-97.945793,no,yes
+osm:w1259752265,Love's,Love's,,,OK,35.497327,-97.90259,no,yes
+osm:w1259752266,Love's,Love's,,,OK,35.496944,-97.903299,no,yes
+osm:w1259756105,Love's,Love's,,,OK,35.341756,-96.92954,no,yes
+osm:w1323783553,Love's,Love's,,,OK,36.871364,-94.868044,no,yes
+osm:w159180850,Love's,Love's,,,OK,35.751796,-96.689916,no,yes
+osm:w159180886,Love's,Love's,,,OK,35.752052,-96.690017,no,yes
+osm:w159180916,Love's,Love's,,,OK,35.751524,-96.689882,no,yes
+osm:w192368922,Love's,Love's,,,OK,35.878684,-97.396156,no,yes
+osm:w226285319,Love's,Love's,,,OK,34.366784,-96.140767,no,yes
+osm:w226285320,Love's,Love's,,,OK,34.366734,-96.141237,yes,yes
+osm:w226285797,Love's,Love's,,,OK,36.729092,-102.500016,yes,yes
+osm:w226285798,Love's,Love's,,,OK,36.729349,-102.500469,no,yes
+osm:w226286188,,Love's,,,OK,36.163488,-95.343394,yes,yes
+osm:w226291360,Love's,Love's,,,OK,35.305632,-95.58811,no,yes
+osm:w226291362,Love's,Love's,,,OK,35.305554,-95.588635,no,yes
+osm:w226291693,Love's,Love's,,,OK,35.526273,-98.351995,yes,yes
+osm:w226292117,Love's,Love's,,,OK,34.713549,-98.401842,no,yes
+osm:w226296501,Love's,Love's,,,OK,35.381651,-96.670795,no,yes
+osm:w226297129,Love's,Love's,214 South Highway 100,Webbers Falls,OK,35.486387,-95.149212,no,yes
+osm:w229834795,Love's,Love's,,,OK,35.593823,-97.436614,yes,yes
+osm:w319313635,Love's,Love's,,,OK,34.708184,-97.242022,no,yes
+osm:w348753725,Love's,Love's,,,OK,35.579869,-97.549624,no,yes
+osm:w388498847,Love's,Love's,,,OK,35.865336,-97.425585,no,yes
+osm:w604785797,Love's,Love's,,,OK,35.879502,-97.392081,no,yes
+osm:w608126120,Love's,Love's,,,OK,34.002364,-96.373116,no,yes
+osm:w650426297,Love's,Love's,,,OK,36.175504,-94.573355,no,yes
+osm:w650426298,Love's,Love's,,,OK,36.175793,-94.573754,no,yes
+osm:w669010289,Love's,Love's,5317 Southeast 44th Street,Norman,OK,35.183396,-97.499214,no,yes
+osm:w819933271,Love's,Love's,1430 Highway 54 East,,OK,36.506029,-101.77433,no,yes
+osm:w854208361,Love's,Love's,,,OK,36.433217,-99.415167,no,yes
+osm:w935228073,Love's,Love's,,,OK,36.841562,-99.630195,no,yes
+osm:w971036495,Love's,Love's,,,OK,34.022536,-94.739739,no,yes
+osm:w971478233,Love's,Love's,,,OK,35.840531,-98.394652,no,yes
+osm:w971478234,Love's,Love's,,,OK,35.840229,-98.394148,yes,yes
+osm:w988170789,Love's,Love's,,,OK,33.881154,-96.499829,yes,yes
+osm:w988170790,Love's,Love's,,,OK,33.880987,-96.500309,no,yes
+osm:w996128752,Love's,Love's,,,OK,36.417693,-99.384742,no,yes
+osm:w1101471545,Love's,Loves,106 Airport Drive,Nowata,OK,36.719639,-95.628299,yes,yes
+osm:w111262493,Love's,Loves,,,OK,35.853267,-95.421535,no,yes
+osm:w111262504,Love's,Loves,,,OK,35.852727,-95.421686,no,yes
+osm:w111262509,Love's,Loves,,,OK,35.852995,-95.42161,no,yes
+osm:w516225999,Maverik,Maverik,,,OK,36.6241,-95.148439,yes,no
+osm:w516226022,Maverik,Maverik,,,OK,36.622352,-95.147421,yes,no
+osm:n11328479147,Pilot,Pilot,,,OK,36.696534,-97.349246,yes,yes
+osm:n11328498721,Pilot,Pilot,,,OK,36.695879,-97.349372,no,yes
+osm:n12165977781,Pilot,Pilot,,,OK,34.364758,-96.141006,no,yes
+osm:n2555053467,Pilot,Pilot,,,OK,35.784447,-95.401975,no,yes
+osm:n2555053468,Pilot,Pilot,,,OK,35.785001,-95.401634,yes,yes
+osm:w226295912,Pilot,Pilot,,,OK,35.596074,-97.436628,no,yes
+osm:w226295913,Pilot,Pilot,,,OK,35.595464,-97.436296,no,yes
+osm:w265529438,Pilot,Pilot,302 Ray Fine Boulevard,Roland,OK,35.404638,-94.52166,no,yes
+osm:w265529439,Pilot,Pilot,302 Ray Fine Boulevard,Roland,OK,35.403908,-94.521659,no,yes
+osm:w1002055416,QuikTrip,QuikTrip,16141 East Skelly Drive South,Tulsa,OK,36.164654,-95.795222,yes,no
+osm:w1112556485,QuikTrip,QuikTrip,,,OK,35.76835,-95.404319,yes,no
+osm:w220670655,QuikTrip,QuikTrip,9621 East Pine Street,Tulsa,OK,36.177645,-95.869865,yes,no
+osm:w389735609,,The Wood Shed,,,OK,36.566038,-95.220833,yes,no
+osm:n11328498943,Valero,Valero,,,OK,36.694343,-97.34332,yes,no
+osm:n11982526980,CFN,CFN,Highway 58,,OR,43.815379,-122.593365,yes,no
+osm:n571538027,,EZ,,,OR,44.55518,-123.057343,yes,no
+osm:n5048592723,Flying J,Flying J,,,OR,45.297397,-118.0435,no,yes
+osm:w261971113,Flying J,Flying J,800 John Long Road,Oakland,OR,43.539074,-123.288643,no,yes
+osm:w1018155713,Flying J,Flying J Diesel,,,OR,45.234056,-122.809476,yes,yes
+osm:w1018155712,Flying J,Flying J Gasoline,,,OR,45.23396,-122.810349,no,yes
+osm:n11674106934,Love's,Love's,,,OR,42.258092,-121.798851,yes,yes
+osm:n13208831054,Love's,Love's,,,OR,44.784665,-117.807814,no,yes
+osm:w1063414009,Love's,Love's,,,OR,44.612738,-121.137894,no,yes
+osm:w1063414011,Love's,Love's,,,OR,44.612733,-121.136815,no,yes
+osm:w225047274,Love's,Love's,,,OR,43.150876,-123.368071,no,yes
+osm:w225048018,Love's,Love's,Northwest Frontage Road,Troutdale,OR,45.543887,-122.392369,yes,yes
+osm:w225048020,Love's,Love's,Northwest Frontage Road,Troutdale,OR,45.544046,-122.391655,no,yes
+osm:w550546851,Love's,Love's,,,OR,45.824998,-119.799144,no,yes
+osm:w550546860,Love's,Love's,,,OR,45.825304,-119.798037,yes,yes
+osm:w953106011,Love's,Love's,,,OR,44.699406,-123.054726,no,yes
+osm:w1317725115,Love's,Love's RV,,Ontario,OR,44.044595,-116.975973,no,yes
+osm:w418645988,Pacific Pride,Pacific Pride,8100 Northeast Martin Luther King Junior Boulevard,Portland,OR,45.582404,-122.661192,yes,no
+osm:n2012534822,Petro,Petro,,,OR,42.280319,-122.811072,yes,yes
+osm:n1876207297,Pilot,Pilot,,,OR,42.378333,-122.899117,no,yes
+osm:n5047060121,Pilot,Pilot,,,OR,45.765973,-119.205267,no,yes
+osm:w261971331,Pilot,Pilot,,,OR,44.025401,-116.952471,no,yes
+osm:w261971683,Pilot,Pilot,3817 hwy 97,,OR,42.256126,-121.798727,no,yes
+osm:w261984078,Pilot,Pilot,,,OR,45.049092,-122.974991,no,yes
+osm:w1063418636,TA,TA,,,OR,44.292911,-117.224871,yes,yes
+osm:n334156887,TA,TA Diesel,,,OR,45.236486,-122.807638,yes,yes
+osm:w1354530257,Exxon,Exxon,,,PA,40.346476,-76.121688,yes,no
+osm:w525458143,,Exxon,,,PA,40.59077,-76.407432,yes,no
+osm:n10923121075,Flying J,Flying J,,,PA,41.019014,-76.796008,no,yes
+osm:w220548459,Flying J,Flying J,1623 Oliver Road,New Milford,PA,41.824289,-75.682385,no,yes
+osm:w220548462,Flying J,Flying J,1623 Oliver Road,New Milford,PA,41.824803,-75.682814,yes,yes
+osm:w220626590,Flying J,Flying J,,,PA,40.170023,-79.732189,no,yes
+osm:w220645843,Flying J,Flying J,,,PA,41.028425,-77.522407,no,yes
+osm:w220645845,Flying J,Flying J,,,PA,41.027957,-77.523182,yes,yes
+osm:w717770300,Flying J,Flying J,,,PA,40.234639,-77.123005,no,yes
+osm:w888021667,Flying J,Flying J,,,PA,40.235182,-77.122064,yes,yes
+osm:w1150067308,Love's,Love's,,,PA,41.036557,-80.127811,no,yes
+osm:w1150067310,Love's,Love's,1011 New Castle Road,Slippery Rock,PA,41.037055,-80.127489,yes,yes
+osm:w1324383526,Love's,Love's,,,PA,40.226135,-76.721024,yes,yes
+osm:w217788215,Love's,Love's,,,PA,40.230663,-77.144399,no,yes
+osm:w358223915,Love's,Love's,,,PA,40.225836,-76.720041,no,yes
+osm:w645515149,Love's,Love's,3700 Mountain Road,Hamburg,PA,40.517475,-76.111503,no,yes
+osm:w659716944,Love's,Love's,,,PA,40.230043,-77.143812,yes,yes
+osm:w220629019,ONE9,ONE9,,,PA,40.351431,-76.716791,yes,yes
+osm:w1524904451,,One9,21251 Route 322,Strattanville,PA,41.184068,-79.246302,yes,yes
+osm:n145130814,Pilot,Pilot,,,PA,41.027419,-76.079935,yes,yes
+osm:w220625680,Pilot,Pilot,,,PA,40.964433,-80.139977,no,yes
+osm:w220654390,Pilot,Pilot,,,PA,41.314352,-75.755362,no,yes
+osm:w220654394,Pilot,Pilot,,,PA,41.314005,-75.754561,yes,yes
+osm:w816556752,Pilot,Pilot,,,PA,42.069698,-80.038251,yes,yes
+osm:w816556753,Pilot,Pilot,,,PA,42.069299,-80.038809,no,yes
+osm:w1216052886,Pilot,Pilot Gas Station,,,PA,41.175489,-79.739522,yes,yes
+osm:w619013529,Pilot,Pilot Travel Center,473 Suedberg Road,Pine Grove,PA,40.533263,-76.43038,no,yes
+osm:w1284223981,Rutter's,Rutter's,,,PA,39.994224,-76.02798,yes,no
+osm:w1368395341,Rutter's,Rutter's,,,PA,40.439618,-75.947584,yes,no
+osm:n4762948563,Speedway,Speedway,3405 Pittsburgh Road,Perryopolis,PA,40.085718,-79.761022,yes,no
+osm:w904181138,Speedway,Speedway,50 Angelina Avenue,McKees Rocks,PA,40.472843,-80.060219,yes,no
+osm:w149297279,,Sunoco,,,PA,40.000638,-79.045557,yes,no
+osm:w149478838,Sunoco,Sunoco,,,PA,40.059529,-78.081854,yes,no
+osm:w149478868,Sunoco,Sunoco,,,PA,40.059161,-78.080931,yes,no
+osm:n7887487648,TA,TA,4050 Depot Road,Erie,PA,42.141591,-79.924474,yes,yes
+osm:n12673387763,,TA Express,,,PA,40.01958,-76.181891,yes,yes
+osm:n11785201433,,"Travel Center of America, Columbia",,,PA,40.931561,-75.096042,yes,no
+osm:n1657014410,TA,Travel Centers of America,,,PA,40.959524,-77.762264,yes,yes
+osm:n1657015262,TA,Travel Centers of America,,,PA,41.027097,-77.521311,yes,yes
+osm:n9611841078,TA,TA Diesel,,,RI,41.608527,-71.663366,yes,yes
+osm:n11087112606,Flying J,Flying J,,,SC,34.855452,-81.006107,no,yes
+osm:n12196955564,Flying J,Flying J,,,SC,34.855984,-81.005682,yes,yes
+osm:n3076780914,Flying J,Flying J,,,SC,34.064697,-81.023515,no,yes
+osm:w231125523,,Flying J,,,SC,35.14281,-81.509261,yes,yes
+osm:n10228325504,Love's,Love's,701 White Pond Road,Elgin,SC,34.139698,-80.748917,no,yes
+osm:n10293712741,Love's,Love's,,,SC,34.139673,-80.748252,no,yes
+osm:n10780957295,Love's,Love's,,,SC,33.923969,-81.290343,no,yes
+osm:n10842785603,Love's,Love's,,,SC,34.504705,-82.960751,yes,yes
+osm:n11670175018,Love's,Love's,,,SC,35.156855,-81.47889,no,yes
+osm:n11670175019,Love's,Love's,,,SC,35.156993,-81.47789,yes,yes
+osm:n11687451782,Love's,Love's,,,SC,33.458372,-80.735532,yes,yes
+osm:n11687451783,Love's,Love's,,,SC,33.457674,-80.73532,no,yes
+osm:n3413766312,Love's,Love's,,,SC,34.504708,-82.961513,no,yes
+osm:n8196434810,Love's,Love's,,,SC,33.923977,-81.291403,yes,yes
+osm:n8792673039,Love's,Love's,401 Buff Boulevard,Summerton,SC,33.591907,-80.355005,yes,yes
+osm:w1222602386,Love's,Love's,,,SC,34.675149,-82.539053,no,yes
+osm:w1259603796,Love's,Love's,,,SC,34.674665,-82.540028,no,yes
+osm:w225349683,Love's,Love's,,,SC,35.000431,-80.97827,no,yes
+osm:w225349684,Love's,Love's,,,SC,35.000765,-80.977488,no,yes
+osm:w585534949,Love's,Love's,409 Yemassee Highway,Yemassee,SC,32.705981,-80.874433,no,yes
+osm:w585535320,Love's,Love's Travel Stop,409 Yemassee Highway,Yemassee,SC,32.705238,-80.874958,yes,yes
+osm:n9965048105,Love's,Love's store 847,2210 Dove Sutton Road,Pageland,SC,34.798695,-80.405439,yes,yes
+osm:n12094829373,ONE9,ONE9,,,SC,34.509119,-81.858057,yes,yes
+osm:n9087731395,ONE9,ONE9,,,SC,34.913596,-80.979383,yes,yes
+osm:n10109748474,Pilot,Pilot,,,SC,33.604336,-81.840933,yes,yes
+osm:n7883068916,Pilot,Pilot,,,SC,34.192365,-80.283028,no,yes
+osm:n9385775212,Pilot,Pilot,,,SC,34.192656,-80.687193,no,yes
+osm:n9385811924,Pilot,Pilot,,,SC,34.192976,-80.686798,yes,yes
+osm:w1111675855,Pilot,Pilot,,,SC,34.240274,-81.459063,no,yes
+osm:w1111675875,Pilot,Pilot,,,SC,34.240674,-81.460028,yes,yes
+osm:w236635039,Pilot,Pilot,,,SC,35.07801,-81.703108,no,yes
+osm:w520939887,Pilot,Pilot,,,SC,33.417403,-80.666251,yes,yes
+osm:w520939889,Pilot,Pilot,,,SC,33.416727,-80.666548,no,yes
+osm:w565043844,Pilot,Pilot,,,SC,32.268862,-81.080709,no,yes
+osm:w565043845,Pilot,Pilot,,,SC,32.268873,-81.081913,yes,yes
+osm:n4782121832,Pilot,Pilot (Truck diesel station),1504 SC 38 West,Latta,SC,34.345329,-79.534435,yes,yes
+osm:n6394718385,Pilot,Pilot Travel Center,,,SC,33.269264,-80.567149,yes,yes
+osm:n651186894,Pilot,Pilot Travel Center,2768 East Cherokee Street,Blacksburg,SC,35.166014,-81.45097,yes,yes
+osm:n12649955526,QuikTrip,QuikTrip,,,SC,33.602762,-81.842681,yes,no
+osm:n12863459621,QuikTrip,QuikTrip,,,SC,34.175983,-80.968697,yes,no
+osm:n9087731394,QuikTrip,QuikTrip,,,SC,34.913475,-80.97816,yes,no
+osm:n9380573280,QuikTrip,QuikTrip,,,SC,33.960541,-81.230094,yes,no
+osm:w723898351,QuikTrip,QuikTrip,,,SC,35.079231,-81.705004,yes,no
+osm:n4782126523,Shell,Shell,3001 TV Road,Florence,SC,34.266304,-79.73191,yes,no
+osm:n10121730014,TA,TA,,,SC,34.074471,-80.996896,yes,yes
+osm:n11410928766,TA,TA,,,SC,34.236095,-79.805766,yes,yes
+osm:w225353624,TA,TA,1402 East Main Street,Duncan,SC,34.914287,-82.110365,yes,yes
+osm:w722980319,,Coffee Cup Travel Plaza,,,SD,45.310863,-97.046442,yes,no
+osm:n2449961873,Flying J,Flying J,,,SD,43.602927,-96.767045,no,yes
+osm:n2449961903,Flying J,Flying J,,,SD,43.603535,-96.767292,yes,yes
+osm:n1345443282,Love's,Love's,,,SD,43.603912,-96.7127,yes,yes
+osm:w1255422748,Love's,Love's,,,SD,43.73628,-98.957631,no,yes
+osm:w1255422749,Love's,Love's,,,SD,43.736566,-98.956538,yes,yes
+osm:w265138290,Pilot,Pilot,,,SD,43.88579,-100.705244,no,yes
+osm:w265138292,Pilot,Pilot,,,SD,43.886126,-100.70499,yes,yes
+osm:w254748371,Pilot Travel Centers,Pilot Travel Center,,,SD,44.112456,-103.272928,yes,yes
+osm:r21281135,Exxon,Exxon,3686 Sam Davis Highway,,TN,35.309634,-86.880473,yes,no
+osm:n11235481596,Love's,Love's,,,TN,35.419872,-86.015291,no,yes
+osm:n11261967725,Love's,Love's,,,TN,35.872207,-84.322691,yes,yes
+osm:n11701937119,Love's,Love's,,,TN,35.419154,-86.014819,no,yes
+osm:n11808068375,Love's,Love's,,,TN,35.733178,-84.399933,no,yes
+osm:n12167312036,Love's,Love's,,,TN,35.991892,-87.488674,no,yes
+osm:n12251212282,Love's,Love's,9155 Highway 321 North,Lenoir City,TN,35.872994,-84.323746,no,yes
+osm:n6616599585,Love's,Love's,,,TN,36.011541,-83.532289,no,yes
+osm:n6616599586,Love's,Love's,1058 Deep Springs Road,Dandridge,TN,36.011988,-83.532306,yes,yes
+osm:n9860692275,Love's,Love's,,,TN,35.83927,-88.084823,no,yes
+osm:w1189064745,Love's,Love's,,,TN,35.035912,-85.581683,no,yes
+osm:w1189064746,Love's,Love's,,,TN,35.036418,-85.582853,yes,yes
+osm:w1323940616,Love's,Love's,,,TN,36.067687,-86.428357,no,yes
+osm:w226609164,Love's,Love's,,,TN,35.291635,-84.817199,yes,yes
+osm:w226609376,Love's,Love's,,,TN,35.724045,-86.319098,no,yes
+osm:w226610044,Love's,Love's,1621 Bear Creek Pike,,TN,35.643637,-86.891396,no,yes
+osm:w226611047,Love's,Love's,,,TN,35.679291,-88.741952,yes,yes
+osm:w226611050,Love's,Love's,,,TN,35.67909,-88.742913,no,yes
+osm:w226612936,Love's,Love's,,,TN,36.205837,-86.771608,no,yes
+osm:w226612937,Love's,Love's,,,TN,36.205262,-86.771699,yes,yes
+osm:w964801723,Love's,Love's,,,TN,36.071191,-89.395934,no,yes
+osm:w965096282,Love's,Love's,,,TN,36.070714,-89.394627,yes,yes
+osm:n4438092874,ONE9,ONE9,,,TN,36.110825,-84.020401,yes,yes
+osm:n12323181649,Petro,Petro,,,TN,35.876465,-84.235024,yes,yes
+osm:n10147552809,Pilot,Pilot,,,TN,35.545349,-84.565152,no,yes
+osm:n10147552810,Pilot,Pilot,,,TN,35.544613,-84.565659,yes,yes
+osm:n10270375168,Pilot,Pilot,,,TN,35.99569,-83.921905,no,yes
+osm:n10742335870,Pilot,Pilot,,,TN,36.177263,-85.948239,no,yes
+osm:n11211834817,Pilot,Pilot,,,TN,35.232954,-85.826188,no,yes
+osm:n2683531552,Pilot,Pilot,,,TN,35.903496,-84.141069,no,yes
+osm:n2683531584,Pilot,Pilot,,,TN,35.903926,-84.141098,yes,yes
+osm:n2881918876,Pilot,Pilot,,,TN,35.882195,-87.80101,no,yes
+osm:n4332726190,Pilot,Pilot,,,TN,35.928149,-83.583185,no,yes
+osm:n4438809745,Pilot,Pilot,,,TN,36.007709,-83.976185,no,yes
+osm:n5813702473,Pilot,Pilot,,,TN,35.904639,-84.143658,no,yes
+osm:n9861448027,Pilot,Pilot,2320 TN-46,Dickson,TN,36.0229,-87.340852,no,yes
+osm:w1021207508,Pilot,Pilot,,,TN,35.960493,-83.823262,no,yes
+osm:w1021211488,Pilot,Pilot,,,TN,35.96039,-83.823707,yes,yes
+osm:w1155116129,Pilot,Pilot,,,TN,36.177245,-85.949032,yes,yes
+osm:w1253396934,Pilot,Pilot,535 Waldron Road,La Vergne,TN,35.997778,-86.594814,yes,yes
+osm:w1253396935,Pilot,Pilot,535 Waldron Road,La Vergne,TN,35.997754,-86.595373,no,yes
+osm:w223632511,Pilot,Pilot,,,TN,35.999712,-83.777468,no,yes
+osm:w268168665,Pilot,Pilot,,,TN,35.153146,-84.952998,no,yes
+osm:w291650441,Pilot,Pilot,,,TN,36.178647,-86.299413,yes,yes
+osm:w291650442,Pilot,Pilot,,,TN,36.179277,-86.299964,no,yes
+osm:w291651304,Pilot,Pilot,,,TN,35.807792,-86.396833,no,yes
+osm:w291653928,Pilot,Pilot,,,TN,35.390041,-89.411052,no,yes
+osm:w831405097,Pilot,Pilot,206 Walker Springs Road,Knoxville,TN,35.924953,-84.065792,no,yes
+osm:w890083793,Pilot,Pilot,,,TN,35.874263,-84.459086,no,yes
+osm:w911947409,Pilot,Pilot,,,TN,36.109165,-83.338468,no,yes
+osm:w926255824,Pilot,Pilot,,,TN,36.017174,-83.817433,no,yes
+osm:w930319365,Pilot,Pilot,,,TN,36.108649,-83.334179,no,yes
+osm:n5548112512,Pilot,Pilot Convenience Store,,,TN,35.98012,-84.017051,no,yes
+osm:w416311629,Pilot,Pilot Convenience Store,,,TN,35.841223,-83.571261,no,yes
+osm:n5580291030,Pilot,Pilot Travel Center,,,TN,36.133698,-85.503949,no,yes
+osm:n13031232891,Speedway,Speedway,,,TN,35.909312,-84.150227,yes,no
+osm:n2503437251,TA,TA,4400 Peytonsville Road,,TN,35.859933,-86.829718,yes,yes
+osm:n4337130646,,Travel Centers of America,305 Howard Baker Highway,Pioneer,TN,36.376708,-84.2465,yes,no
+osm:w829308891,AM Best,AM Best,,,TX,29.937962,-95.37322,yes,no
+osm:w1352351639,Alon,Alon,,,TX,32.206165,-98.234469,yes,no
+osm:w454984556,Alon,Alon,,,TX,32.224434,-98.233864,yes,no
+osm:w805534119,Alon,Alon,,,TX,32.211893,-98.194866,yes,no
+osm:w805537911,Alon,Alon,,,TX,32.22766,-98.191115,yes,no
+osm:n12194552417,,Ambest,,,TX,30.865153,-97.586649,yes,yes
+osm:n13783680885,,Ascent Travel Center,,,TX,31.283261,-97.259317,yes,no
+osm:w1080638611,CEFCO,CEFCO,,,TX,33.955133,-98.604396,yes,no
+osm:w1117063968,CEFCO,CEFCO,,,TX,31.138631,-97.33203,yes,no
+osm:w1228252428,CEFCO,CEFCO,,,TX,32.388124,-95.285095,yes,no
+osm:w1461345909,CEFCO,CEFCO,,,TX,31.60059,-97.086161,yes,no
+osm:w666188249,CEFCO,CEFCO,16242 US-271 N,Tyler,TX,32.439409,-95.135574,yes,no
+osm:w676820171,Chevron,Chevron,,,TX,29.532487,-95.857975,yes,no
+osm:w988470326,Chevron,Chevron,,,TX,29.859224,-95.400669,yes,no
+osm:w999863821,Chevron,Chevron,,,TX,29.828957,-94.804217,yes,no
+osm:n6273209052,Conoco,Conoco,,,TX,29.823598,-94.896896,yes,no
+osm:w930441937,,Diesel fuel pumps,,,TX,30.83833,-97.599577,yes,no
+osm:w1381157142,Exxon,Exxon,,,TX,32.388624,-95.274298,yes,no
+osm:w732501000,Exxon,Exxon,4020 South Lake Drive,Texarkana,TX,33.394936,-94.099633,yes,no
+osm:n12164999676,Flying J,Flying J,,,TX,29.771267,-95.124818,no,yes
+osm:n12164999677,Flying J,Flying J,,,TX,29.771231,-95.125605,yes,yes
+osm:n6324408991,Flying J,Flying J,,,TX,31.190873,-101.449748,no,yes
+osm:w1284777366,Flying J,Flying J,,,TX,31.853142,-103.067617,no,yes
+osm:w1284777367,Flying J,Flying J,,,TX,31.853868,-103.067723,yes,yes
+osm:w225720059,Flying J,Flying J,,,TX,29.794851,-95.032974,yes,yes
+osm:w225720064,Flying J,Flying J,,,TX,29.795519,-95.032678,no,yes
+osm:w229304828,Flying J,Flying J,,,TX,27.685833,-99.465611,yes,yes
+osm:w229304831,Flying J,Flying J,,,TX,27.685613,-99.464798,no,yes
+osm:w229315095,Flying J,Flying J,,,TX,29.446665,-98.362011,yes,yes
+osm:w229315097,Flying J,Flying J,,,TX,29.446072,-98.36127,no,yes
+osm:w236120078,Flying J,Flying J,,Amarillo,TX,35.193722,-101.724029,no,yes
+osm:w236125439,Flying J,Flying J,,,TX,29.780051,-95.951756,no,yes
+osm:w236128108,Flying J,Flying J,,,TX,26.336091,-98.143015,yes,yes
+osm:w236128110,Flying J,Flying J,,,TX,26.33591,-98.143679,no,yes
+osm:w236128750,Flying J,Flying J,,,TX,29.998805,-95.427837,yes,yes
+osm:w236128752,Flying J,Flying J,,,TX,29.998637,-95.42698,no,yes
+osm:w236129760,Flying J,Flying J,,,TX,33.592751,-101.841019,no,yes
+osm:w236129763,Flying J,Flying J,,,TX,33.593024,-101.841616,yes,yes
+osm:w236130697,Flying J,Flying J,,,TX,30.193039,-95.193112,yes,yes
+osm:w236130699,Flying J,Flying J,,,TX,30.192988,-95.192404,no,yes
+osm:w236133147,Flying J,Flying J,,,TX,30.117031,-93.819971,yes,yes
+osm:w236133148,Flying J,Flying J,,,TX,30.116349,-93.820163,no,yes
+osm:w236134091,Flying J,Flying J,,,TX,32.461696,-99.872548,yes,yes
+osm:w236134093,Flying J,Flying J,,,TX,32.460958,-99.872631,no,yes
+osm:w236134445,Flying J,Flying J,,,TX,31.507946,-97.145713,yes,yes
+osm:w236134447,Flying J,Flying J,,,TX,31.507847,-97.145011,no,yes
+osm:w236135484,Flying J,Flying J,,Wichita Falls,TX,33.890829,-98.48299,yes,yes
+osm:w236135485,Flying J,Flying J,,Wichita Falls,TX,33.890325,-98.483331,no,yes
+osm:w415836422,Flying J,Flying J,,,TX,31.864909,-102.301647,no,yes
+osm:w415836423,Flying J,Flying J,,,TX,31.864298,-102.302496,yes,yes
+osm:w837508329,Flying J,Flying J,,,TX,28.452259,-99.238217,no,yes
+osm:w837508331,Flying J,Flying J,,,TX,28.453106,-99.238315,yes,yes
+osm:n1580677199,Flying J,Flying J Travel Plaza,,,TX,31.400746,-103.486345,no,yes
+osm:w995987010,Gulf,Gulf,,,TX,29.831335,-94.384791,yes,no
+osm:n12141597455,Love's,Love's,,,TX,26.249177,-97.72668,no,yes
+osm:n12141597456,Love's,Love's,,,TX,26.249771,-97.72639,yes,yes
+osm:n12255426347,,Love's,,,TX,30.437727,-95.497539,yes,yes
+osm:n12263024033,Love's,Love's,,,TX,30.895509,-96.602303,no,yes
+osm:n12263024034,Love's,Love's,,,TX,30.894966,-96.602327,yes,yes
+osm:n12263311457,Love's,Love's,,,TX,36.076336,-102.536969,no,yes
+osm:n3613030734,Love's,Love's,107 Old Cold Spring Road,,TX,30.354264,-95.091254,yes,yes
+osm:n5554526823,Love's,Love's,,,TX,34.809411,-102.407579,yes,yes
+osm:n7724941761,Love's,Love's,1021 Dale Evans Drive,Italy,TX,32.194558,-96.898951,no,yes
+osm:n7724941762,Love's,Love's,901 Dale Evans Drive,Italy,TX,32.193458,-96.898708,yes,yes
+osm:w1012538956,Love's,Love's,,,TX,29.562134,-98.034275,no,yes
+osm:w1012538957,Love's,Love's,,,TX,29.562305,-98.034906,yes,yes
+osm:w1054505828,Love's,Love's,,,TX,33.221194,-97.738367,yes,yes
+osm:w1054505830,Love's,Love's,,,TX,33.221449,-97.737812,no,yes
+osm:w1117057024,Love's,Love's,,,TX,31.191502,-97.312758,yes,yes
+osm:w1117057025,Love's,Love's,,,TX,31.191292,-97.311763,no,yes
+osm:w1125955118,Love's,Love's,,,TX,32.403358,-99.384666,no,yes
+osm:w1125955119,Love's,Love's,,,TX,32.403068,-99.383843,yes,yes
+osm:w1149476618,Love's,Love's,,,TX,32.742828,-97.742486,yes,yes
+osm:w1228047570,Love's,Love's,,,TX,28.011287,-97.532923,no,yes
+osm:w1228047571,Love's,Love's,,,TX,28.011608,-97.532322,yes,yes
+osm:w1257611845,Love's,Love's,,,TX,32.161577,-94.319307,no,yes
+osm:w1257611846,Love's,Love's,,,TX,32.160832,-94.318991,no,yes
+osm:w1259614187,Love's,Love's,,,TX,30.893165,-102.85245,no,yes
+osm:w1259614188,Love's,Love's,,,TX,30.893921,-102.852487,no,yes
+osm:w1259765560,Love's,Love's,,,TX,29.690203,-96.777489,yes,yes
+osm:w1259765561,Love's,Love's,,,TX,29.690331,-96.776599,no,yes
+osm:w1284777363,Love's,Love's,,,TX,31.852655,-103.070758,no,yes
+osm:w1284777364,Love's,Love's,,,TX,31.852725,-103.070069,yes,yes
+osm:w1310637933,Love's,Love's,,,TX,29.708158,-95.092516,yes,yes
+osm:w1310637934,Love's,Love's,,,TX,29.707613,-95.092531,no,yes
+osm:w1324215643,Love's,Love's,,,TX,33.472185,-94.461676,no,yes
+osm:w1324215644,Love's,Love's,,,TX,33.472276,-94.460415,no,yes
+osm:w202119693,Love's,Love's,,,TX,32.508206,-95.642883,no,yes
+osm:w211532665,Love's,Love's,,,TX,31.817345,-102.38129,no,yes
+osm:w211532667,Love's,Love's,,,TX,31.816938,-102.380688,yes,yes
+osm:w221639649,Love's,Love's,,Amarillo,TX,35.191599,-101.760844,yes,yes
+osm:w221639653,Love's,Love's,,Amarillo,TX,35.19194,-101.76052,no,yes
+osm:w225718482,Love's,Love's,,Amarillo,TX,35.117422,-101.907283,no,yes
+osm:w225718668,Love's,Love's,,,TX,33.344729,-96.584173,yes,yes
+osm:w225718671,Love's,Love's,,,TX,33.344991,-96.5846,no,yes
+osm:w225718776,Love's,Love's,,Anthony,TX,31.998197,-106.581222,no,yes
+osm:w225718777,Love's,Love's,,,TX,31.999012,-106.581151,yes,yes
+osm:w225720247,Love's,Love's,,,TX,29.798715,-95.032988,yes,yes
+osm:w225720538,Love's,Love's,,,TX,35.218792,-101.381972,no,yes
+osm:w225721294,Love's,Love's,8800 South Polk Street,Dallas,TX,32.640772,-96.839676,no,yes
+osm:w225725165,Love's,Love's,,,TX,31.728544,-96.182757,no,yes
+osm:w225725168,Love's,Love's,,,TX,31.728243,-96.182374,no,yes
+osm:w225725249,Love's,Love's,10801 South Freeway,,TX,32.598679,-97.317936,no,yes
+osm:w225725927,Love's,Love's,,,TX,29.798808,-95.269396,no,yes
+osm:w225725928,Love's,Love's,,,TX,29.798316,-95.268763,yes,yes
+osm:w225726412,Love's,Love's,,Houston,TX,29.79782,-95.369858,no,yes
+osm:w225726413,Love's,Love's,,Houston,TX,29.797018,-95.369557,yes,yes
+osm:w225727153,Love's,Love's,,,TX,27.52987,-97.841801,no,yes
+osm:w225727156,Love's,Love's,,,TX,27.529826,-97.842595,yes,yes
+osm:w225727435,Love's,Love's,,,TX,28.045544,-99.349201,no,yes
+osm:w225727437,Love's,Love's,,,TX,28.045544,-99.348487,yes,yes
+osm:w225729184,Love's,Love's,,,TX,32.483266,-97.01126,yes,yes
+osm:w225729185,Love's,Love's,,,TX,32.482605,-97.011085,no,yes
+osm:w225729421,Love's,Love's,,,TX,33.163942,-95.21765,no,yes
+osm:w225729423,Love's,Love's,,,TX,33.164004,-95.218414,yes,yes
+osm:w225729682,Love's,Love's,,,TX,32.441526,-98.694731,no,yes
+osm:w225729683,Love's,Love's,,,TX,32.442225,-98.694292,yes,yes
+osm:w225730085,Love's,Love's,,,TX,32.918543,-96.419426,no,yes
+osm:w225730086,Love's,Love's,,,TX,32.917885,-96.419224,yes,yes
+osm:w225734266,Love's,Love's,,,TX,32.508362,-95.642147,no,yes
+osm:w225734716,Love's,Love's,,,TX,30.064597,-95.905224,yes,yes
+osm:w225734717,Love's,Love's,,,TX,30.064777,-95.905749,no,yes
+osm:w225734869,Love's,Love's,,,TX,32.742896,-97.74327,no,yes
+osm:w225735091,Love's,Love's,,Wichita Falls,TX,33.886657,-98.468473,no,yes
+osm:w241955599,Love's,Love's,,,TX,29.653596,-97.591965,yes,yes
+osm:w439602063,Love's,Love's,,,TX,32.009224,-97.093447,no,yes
+osm:w472419729,Love's,Love's,,,TX,33.64188,-101.837463,yes,yes
+osm:w472419731,Love's,Love's,,,TX,33.642666,-101.837274,no,yes
+osm:w509072595,Love's,Love's,10801 South Freeway,,TX,32.598461,-97.317623,yes,yes
+osm:w607517061,Love's,Love's,,,TX,33.262265,-94.151897,no,yes
+osm:w607517062,Love's,Love's,,,TX,33.261703,-94.151536,yes,yes
+osm:w622930650,Love's,Love's,,,TX,29.798077,-95.03262,no,yes
+osm:w708340707,Love's,Love's,,,TX,29.185002,-98.84615,no,yes
+osm:w708340708,Love's,Love's,,,TX,29.184315,-98.846745,yes,yes
+osm:w75445625,Love's,Love's,,,TX,29.653511,-97.592629,no,yes
+osm:w764072053,Love's,Love's,,,TX,33.695602,-95.555072,no,yes
+osm:w764072054,Love's,Love's,,,TX,33.696052,-95.555636,yes,yes
+osm:w798305127,Love's,Love's,,,TX,29.98209,-98.902982,no,yes
+osm:w829869340,Love's,Love's,,,TX,32.2873,-96.544277,no,yes
+osm:w837260551,Love's,Love's,,,TX,35.218631,-101.381578,no,yes
+osm:w843603842,Love's,Love's,,,TX,32.30562,-102.541726,no,yes
+osm:w843603843,Love's,Love's,,,TX,32.305418,-102.540982,yes,yes
+osm:w864708186,Love's,Love's,,,TX,33.263127,-97.178877,no,yes
+osm:w864708188,Love's,Love's,,,TX,33.263177,-97.179885,yes,yes
+osm:w895057544,Love's,Love's,,,TX,33.117454,-95.636296,no,yes
+osm:w895057545,Love's,Love's,,,TX,33.117533,-95.637338,yes,yes
+osm:w919952205,Love's,Love's,,,TX,29.391776,-96.077302,yes,yes
+osm:w919952207,Love's,Love's,,,TX,29.392583,-96.076947,no,yes
+osm:w940756098,Love's,Love's,,,TX,29.196842,-95.456734,no,yes
+osm:w940756099,Love's,Love's,,,TX,29.196076,-95.456432,no,yes
+osm:w965456749,Love's,Love's,,,TX,32.45059,-100.441172,no,yes
+osm:w965456750,Love's,Love's,,,TX,32.451386,-100.441201,yes,yes
+osm:w970498213,Love's,Love's,,,TX,31.946999,-102.141,no,yes
+osm:w974810335,Love's,Love's,,,TX,35.879477,-101.973904,no,yes
+osm:w974810336,Love's,Love's,,,TX,35.879183,-101.973418,yes,yes
+osm:w995061214,Love's,Love's,,,TX,31.040395,-104.819225,no,yes
+osm:w995061215,Love's,Love's,,,TX,31.040094,-104.81958,yes,yes
+osm:w997224843,Love's,Love's,,,TX,30.571202,-100.585127,no,yes
+osm:w997224844,Love's,Love's,,,TX,30.57101,-100.586127,yes,yes
+osm:w220362826,Petro,Petro,,Amarillo,TX,35.190535,-101.743628,yes,yes
+osm:w253458611,Petro,Petro,,,TX,28.899993,-99.11631,yes,yes
+osm:n12079620865,,Petro Truck Stops,,Beaumont,TX,30.036414,-94.154101,yes,yes
+osm:n10857087925,Pilot,Pilot,,,TX,32.516224,-96.821022,yes,yes
+osm:n11203970626,Pilot,Pilot,,,TX,31.784552,-102.477924,no,yes
+osm:n12141612156,Pilot,Pilot,,,TX,34.528887,-101.79772,yes,yes
+osm:n12670619541,Pilot,Pilot,,,TX,28.709793,-100.463691,yes,yes
+osm:n13099697573,Pilot,Pilot,6001 South US Highway 385,Odessa,TX,31.778495,-102.368894,no,yes
+osm:n6841989163,Pilot,Pilot,,,TX,31.825917,-103.908918,no,yes
+osm:r14196393,Pilot,Pilot,2400 Alliance Gateway Freeway,,TX,32.958071,-97.307655,no,yes
+osm:r14338463,Pilot,Pilot,,,TX,30.108254,-96.047376,no,yes
+osm:r19625685,Pilot,Pilot,,,TX,31.31745,-94.698767,yes,yes
+osm:w1007185330,Pilot,Pilot,,,TX,27.211954,-98.141785,no,yes
+osm:w1007185332,Pilot,Pilot,,,TX,27.211447,-98.141734,yes,yes
+osm:w1059829887,Pilot,Pilot,,,TX,35.23607,-102.428449,no,yes
+osm:w1059829888,Pilot,Pilot,,,TX,35.235364,-102.428586,yes,yes
+osm:w1083335206,Pilot,Pilot,,,TX,34.435711,-100.230327,no,yes
+osm:w1121963489,Pilot,Pilot,,Paige,TX,30.213585,-97.138928,no,yes
+osm:w1167601974,Pilot,Pilot,,,TX,33.801186,-98.195726,yes,yes
+osm:w1187729544,Pilot,Pilot,,,TX,31.967641,-102.251929,no,yes
+osm:w1187729545,Pilot,Pilot,,,TX,31.967351,-102.252569,yes,yes
+osm:w1280084991,Pilot,Pilot,,,TX,31.614353,-102.811217,no,yes
+osm:w1280084992,Pilot,Pilot,,,TX,31.614054,-102.811875,yes,yes
+osm:w1284680841,Pilot,Pilot,,,TX,31.843276,-103.103771,no,yes
+osm:w1284680842,Pilot,Pilot,,,TX,31.84386,-103.104155,yes,yes
+osm:w1365847076,Pilot,Pilot,,,TX,32.46352,-97.263039,yes,yes
+osm:w1506228112,Pilot,Pilot,,,TX,32.040466,-96.448249,no,yes
+osm:w220362345,Pilot,Pilot,,Amarillo,TX,35.196249,-101.741403,no,yes
+osm:w220362347,Pilot,Pilot,,Amarillo,TX,35.195585,-101.741072,yes,yes
+osm:w220380964,Pilot,Pilot,,,TX,29.439945,-98.38023,yes,yes
+osm:w220380966,Pilot,Pilot,,,TX,29.439841,-98.380844,no,yes
+osm:w225726027,Pilot,Pilot,,,TX,29.799845,-95.267779,yes,yes
+osm:w225726028,Pilot,Pilot,,,TX,29.800502,-95.267942,no,yes
+osm:w229303908,Pilot,Pilot,,,TX,27.683711,-99.461474,yes,yes
+osm:w229303911,Pilot,Pilot,,,TX,27.684426,-99.461331,no,yes
+osm:w236124449,Pilot,Pilot,2015 Antonio Street,Anthony,TX,31.997132,-106.586203,no,yes
+osm:w268086138,Pilot,Pilot,,,TX,33.116448,-95.633837,yes,yes
+osm:w268086140,Pilot,Pilot,,,TX,33.11664,-95.634595,no,yes
+osm:w268165555,Pilot,Pilot,,,TX,33.043748,-96.177447,yes,yes
+osm:w268165556,Pilot,Pilot,,,TX,33.043469,-96.178252,no,yes
+osm:w268167133,Pilot,Pilot,,,TX,31.035999,-104.829532,yes,yes
+osm:w268167135,Pilot,Pilot,,,TX,31.035971,-104.830323,no,yes
+osm:w292983166,Pilot,Pilot,2400 Alliance Gateway Freeway,,TX,32.95775,-97.306798,yes,yes
+osm:w292983422,Pilot,Pilot,,,TX,31.915264,-102.215161,yes,yes
+osm:w292983423,Pilot,Pilot,,,TX,31.914777,-102.215951,no,yes
+osm:w292983817,Pilot,Pilot,,,TX,32.450425,-95.283796,yes,yes
+osm:w292983820,Pilot,Pilot,,,TX,32.450927,-95.283303,no,yes
+osm:w320321661,,Pilot,,,TX,32.727253,-97.825123,yes,yes
+osm:w346232661,Pilot,Pilot,,,TX,31.448369,-96.078815,no,yes
+osm:w346232664,Pilot,Pilot,,,TX,31.448713,-96.079596,yes,yes
+osm:w729223748,Pilot,Pilot,,,TX,32.705221,-100.865633,yes,yes
+osm:w730955703,Pilot,Pilot,1908 Avenue E,Ozona,TX,30.700451,-101.206947,no,yes
+osm:w75464985,Pilot,Pilot,709 North Kessler Avenue,Schulenburg,TX,29.695101,-96.902193,no,yes
+osm:w832951694,Pilot,Pilot,,,TX,33.102457,-97.470723,no,yes
+osm:w832951695,Pilot,Pilot,,,TX,33.101869,-97.470378,yes,yes
+osm:w840617964,Pilot,Pilot,,,TX,29.219254,-98.415123,no,yes
+osm:w840617965,Pilot,Pilot,,,TX,29.220033,-98.415048,yes,yes
+osm:w843566165,Pilot,Pilot,1103 South Main Street,Andrews,TX,32.307126,-102.542273,no,yes
+osm:w856570785,Pilot,Pilot,,,TX,31.87606,-102.422191,no,yes
+osm:w907858195,Pilot,Pilot,,,TX,29.495267,-95.91164,no,yes
+osm:w908975969,Pilot,Pilot,,,TX,32.265553,-101.47529,yes,yes
+osm:w908975970,Pilot,Pilot,,,TX,32.265724,-101.474326,no,yes
+osm:w919942962,Pilot,Pilot,,,TX,29.495867,-95.911075,yes,yes
+osm:w943963040,Pilot,Pilot,1955 North Kings Highway,Nash,TX,33.453014,-94.132616,yes,yes
+osm:w995768099,Pilot,Pilot,,,TX,30.506061,-99.776745,no,yes
+osm:w995768100,Pilot,Pilot,,,TX,30.505516,-99.776925,yes,yes
+osm:n2966950532,Pilot,Pilot Travel Plaza,,,TX,31.455829,-97.171988,yes,yes
+osm:n2176631290,Pilot,Pilot Truck Stop,,,TX,30.737979,-95.594006,yes,yes
+osm:w1033220916,QuikTrip,QuikTrip,,,TX,32.826201,-96.88585,yes,no
+osm:w1087081050,QuikTrip,QuikTrip,,,TX,32.489245,-99.745883,yes,no
+osm:w1106952467,QuikTrip,QuikTrip,,,TX,31.5102,-97.144915,yes,no
+osm:w1123047315,QuikTrip,QuikTrip,,,TX,30.327063,-95.474283,yes,no
+osm:w1160011618,QuikTrip,QuikTrip,,,TX,29.21705,-98.414468,yes,no
+osm:w1178210136,QuikTrip,QuikTrip,305 Jackson Street,Bastrop,TX,30.103854,-97.30638,yes,no
+osm:w1242102440,QuikTrip,QuikTrip,,,TX,29.930059,-95.297687,yes,no
+osm:w1324181510,QuikTrip,QuikTrip,1108 Robert S Light Boulevard,Buda,TX,30.060608,-97.835442,yes,no
+osm:w691694510,QuikTrip,QuikTrip,,,TX,33.024935,-97.272225,yes,no
+osm:w916891566,QuikTrip,QuikTrip,,,TX,29.44714,-98.359594,yes,no
+osm:w1185428711,Road Ranger,Road Ranger,,,TX,29.029457,-99.050409,yes,no
+osm:w1328088694,Road Ranger,Road Ranger,,,TX,26.093506,-98.202093,yes,no
+osm:w1333272883,Road Ranger,Road Ranger,,,TX,29.571339,-98.011317,yes,no
+osm:w525507183,Road Ranger,Road Ranger,,,TX,28.047392,-99.348606,yes,no
+osm:w998218719,Road Ranger,Road Ranger,,,TX,30.580838,-100.645871,yes,no
+osm:w1071415467,Shell,Shell,4610 Interstate 35 Frontage Road,Georgetown,TX,30.711305,-97.645893,yes,no
+osm:w1228252416,Shell,Shell,,,TX,32.390259,-95.286896,yes,no
+osm:w229301330,Shell,Shell,,,TX,32.265219,-101.490029,yes,no
+osm:w229314760,Shell,Shell,,,TX,29.442702,-98.36216,yes,no
+osm:w587967125,Shell,Shell,,,TX,32.441084,-95.137023,yes,no
+osm:w662540346,Shell,Shell,,,TX,33.151561,-94.154912,yes,no
+osm:w669887528,Shell,Shell,,,TX,32.424502,-95.205724,yes,no
+osm:w877404704,Shell,Shell,,,TX,33.161239,-95.215849,yes,no
+osm:w923730803,Shell,Shell,,,TX,28.778564,-96.966587,yes,no
+osm:n12672432184,,Swift,,,TX,29.936347,-95.433029,yes,no
+osm:w221640035,TA,TA,,Amarillo,TX,35.191051,-101.758261,yes,yes
+osm:n11179682221,TA,TA Express,,,TX,31.725353,-96.176955,yes,yes
+osm:w1054098576,Texaco,Texaco,,,TX,33.473399,-94.290154,yes,no
+osm:w1461448991,Texaco,Texaco,,,TX,30.45729,-96.781971,yes,no
+osm:w933046617,,Truck fueling,,,TX,30.774889,-97.627814,yes,no
+osm:n12361785551,,Valero,,,TX,30.454558,-95.494046,yes,no
+osm:w1020246138,Valero,Valero,,,TX,29.082802,-97.356317,yes,no
+osm:w1059983932,Valero,Valero,,,TX,35.207907,-101.654793,yes,no
+osm:w467872767,Valero,Valero,,,TX,33.528463,-101.808509,yes,no
+osm:w722797377,Valero,Valero,,,TX,32.451047,-95.186086,yes,no
+osm:w931108857,Valero,Valero,,,TX,35.847384,-101.972783,yes,no
+osm:w225736502,Flying J,flying j,,,TX,33.344742,-96.588932,yes,yes
+osm:w544250303,Flying J,flying j,,,TX,33.3452,-96.588661,no,yes
+osm:w1311245103,Conoco,Conoco,875 South Highway 99,Fillmore,UT,38.95056,-112.342451,yes,no
+osm:w235915986,Flying J,Eagles Landing Flying J Diesel Lanes,810 N 800 West,Scipio,UT,39.255665,-112.116115,no,yes
+osm:n10923316992,Flying J,Flying J,,,UT,41.231215,-112.007325,yes,yes
+osm:n12142985739,Flying J,Flying J,,,UT,41.230716,-112.007074,no,yes
+osm:n12197868154,Flying J,Flying J,885 West North Point Circle,North Salt Lake,UT,40.836435,-111.934102,no,yes
+osm:n12197868155,Flying J,Flying J,885 West North Point Circle,North Salt Lake,UT,40.836374,-111.933625,yes,yes
+osm:n13953887861,Flying J,Flying J,1597 South Main Street,Nephi,UT,39.685247,-111.837124,no,yes
+osm:w1176017369,Flying J,Flying J,810 North 800 West,Scipio,UT,39.255442,-112.117102,no,yes
+osm:w1524706692,Flying J,Flying J,,,UT,38.293145,-112.65371,no,yes
+osm:w160558029,Flying J,Flying J,600 West 750 North,Willard,UT,41.42341,-112.051618,no,yes
+osm:w229595012,Flying J,Flying J,,,UT,40.685837,-112.266939,no,yes
+osm:w229595013,Flying J,Flying J,,,UT,40.685759,-112.266127,yes,yes
+osm:w229730979,Flying J,Flying J,2025 South 900 West,Salt Lake City,UT,40.727133,-111.915986,yes,yes
+osm:w229730980,Flying J,Flying J,2025 South 900 West,Salt Lake City,UT,40.726514,-111.916196,no,yes
+osm:w235915020,Flying J,Flying J,,Beaver,UT,38.29259,-112.653215,no,yes
+osm:w235915022,Flying J,Flying J,653 West 1400 North,Beaver,UT,38.293309,-112.653347,no,yes
+osm:w241716670,Flying J,Flying J,1460 North 1750 West,Springville,UT,40.187249,-111.641964,no,yes
+osm:w34196745,Flying J,Flying J,,,UT,41.072172,-111.979033,no,yes
+osm:w235915876,Flying J,Flying J Travel Plaza,35 E Flying J Drive,Richfield,UT,38.7885,-112.082042,no,yes
+osm:w235915879,Flying J,Flying J Travel Plaza,35 E Flying J Drive,Richfield,UT,38.78876,-112.081746,yes,yes
+osm:w160558018,Flying J,Flying J Truck Lanes,600 West 750 North,Willard,UT,41.423973,-112.05168,yes,yes
+osm:w235915348,Flying J,Flying J Truck Lanes,1597 South Main Street,Nephi,UT,39.68569,-111.836679,yes,yes
+osm:w241716672,Flying J,Flying J Truck Lanes,1460 North 1750 West,Springville,UT,40.187151,-111.641262,yes,yes
+osm:w1038853917,Love's,Love's,915 South 1100 West Street,Fillmore,UT,38.948904,-112.352733,yes,yes
+osm:w225054740,Love's,Love's,2645 North Canyon Ranch Drive,Cedar City,UT,37.726008,-113.051025,no,yes
+osm:w225054893,Love's,Love's,25 North Redwood Road,Salt Lake City,UT,40.769855,-111.940788,yes,yes
+osm:w225054895,Love's,Love's,25 North Redwood Road,Salt Lake City,UT,40.769972,-111.939797,no,yes
+osm:w325139235,Love's,Love's,969 West Main Street,Green River,UT,38.994518,-110.183961,no,yes
+osm:w494917451,Love's,Love's,1915 South State Street,Salina,UT,38.931968,-111.853897,no,yes
+osm:w923227497,Love's,Love's,358 South 2200 West,Springville,UT,40.162164,-111.651517,no,yes
+osm:w942931982,Love's,Love's,,,UT,41.509015,-112.054751,yes,yes
+osm:w923227496,Love's,Love's Diesel Lanes,358 South 2200 West,Springville,UT,40.162973,-111.651855,yes,yes
+osm:w1092683302,Love's,Love's Travel Stop,915 South 1100 West Street,Fillmore,UT,38.947835,-112.352524,no,yes
+osm:w325139236,Love's,Love's Travel Stop,1080 West Main Street,Green River,UT,38.994841,-110.184919,no,yes
+osm:w325139238,Love's,Love's Travel Stop,1080 West Main Street,Green River,UT,38.995163,-110.184656,yes,yes
+osm:w225054742,Love's,Love's Truck Lanes,2645 North Canyon Ranch Drive,Cedar City,UT,37.725775,-113.051955,yes,yes
+osm:w942931981,Love's,Loves Travel Stop,20,Brigham City,UT,41.509248,-112.053789,no,yes
+osm:n12645975668,Maverik,Maverik,2435 South 8000 West,Magna,UT,40.717563,-112.080562,yes,no
+osm:n12646008410,Maverik,Maverik,,,UT,41.218241,-112.026512,yes,no
+osm:w1057889540,Maverik,Maverik,3330 South 500 West,South Salt Lake,UT,40.698811,-111.90625,yes,no
+osm:w1088156229,Maverik,Maverik,1445 South Gustin Road,Salt Lake City,UT,40.740184,-111.982686,yes,no
+osm:w1300938501,Maverik,Maverik,,,UT,40.762859,-112.023636,yes,no
+osm:w822070675,Maverik,Maverik,1033 West 200 North,Logan,UT,41.736114,-111.861704,yes,no
+osm:w995722604,Maverik,Maverik,,,UT,41.643602,-111.913938,yes,no
+osm:w480784568,Maverik,Maverik RV Lanes,980 Hoodoo Way,Washington,UT,37.144827,-113.486875,yes,no
+osm:w220298964,ONE9,ONE9,,,UT,41.245695,-112.019405,yes,yes
+osm:n11463484429,Pilot,Pilot,,,UT,40.294452,-109.989171,no,yes
+osm:n12248045406,Pilot,Pilot,,,UT,40.293977,-109.989742,yes,yes
+osm:w1433596005,Pilot,Pilot,142 South Pleasant Grove Boulevard,Pleasant Grove,UT,40.36528,-111.752829,no,yes
+osm:w231141237,Pilot,Pilot,90 S Stone Road,Snowville,UT,41.963569,-112.71002,no,yes
+osm:w241717704,Pilot,Pilot,1085 East Main Street,Green River,UT,38.995552,-110.148447,yes,yes
+osm:w241718232,Pilot,Pilot,2841 South 60 East,Saint George,UT,37.059704,-113.581953,no,yes
+osm:w1102235116,Pilot,Pilot Naples 24 Hour Pay At Pump,1521 S 1500 E,Naples,UT,40.433883,-109.499136,no,yes
+osm:w241718233,Pilot,Pilot Truck Lanes,2841 South 60 East,Saint George,UT,37.060607,-113.582146,yes,yes
+osm:w229594879,TravelCenters of America,Salt Lake City Travel Center,8836 North Clinton Landing Road,Lake Point,UT,40.689465,-112.263262,yes,yes
+osm:w221885760,Sapp Bros.,Sapp Bros.,1953 West California Avenue,Salt Lake City,UT,40.739955,-111.946925,yes,yes
+osm:w221885762,Sapp Bros.,Sapp Bros.,1953 West California Avenue,Salt Lake City,UT,40.740216,-111.946298,no,yes
+osm:w739471494,Shell,Shell Truck Lanes,1063 East Highway 54,Mona,UT,39.822276,-111.835969,yes,no
+osm:w229593418,TA,TA,1100 North 130 West,Parowan,UT,37.860817,-112.82969,yes,yes
+osm:w1176514632,TA,TA Express Trucks,2055 South State Street,Salina,UT,38.930008,-111.853318,yes,yes
+osm:n12646003013,Texaco,Texaco,5175 West 9600 North,Elwood,UT,41.682615,-112.13982,yes,no
+osm:w613161713,Exxon,Exxon,,,VA,36.664958,-77.553762,yes,no
+osm:n11004530277,Flying J,Flying J,,,VA,36.944884,-80.946739,no,yes
+osm:n12245925364,Flying J,Flying J,,,VA,36.944558,-80.945745,yes,yes
+osm:w220739938,Flying J,Flying J,,,VA,39.290605,-78.086593,no,yes
+osm:w220794341,Flying J,Flying J,23840 Rogers Clark Boulevard,Ruther Glen,VA,37.938736,-77.46706,no,yes
+osm:w220795018,Flying J,Flying J,24279 Rogers Clark Boulevard,Ruther Glen,VA,37.933361,-77.473731,no,yes
+osm:w220888560,Flying J,Flying J,,,VA,36.93596,-80.992864,no,yes
+osm:n11403825514,Love's,Love's,,,VA,38.965956,-78.439237,no,yes
+osm:n11712125861,Love's,Love's,,,VA,36.756506,-81.856006,yes,yes
+osm:n5224098300,Love's,Love's,6840 Jimmy Burrell Lane,,VA,37.501187,-77.090253,no,yes
+osm:n5225548348,Love's,Love's,2307 South Street,Franklin,VA,36.662352,-76.939474,no,yes
+osm:n6212093822,Love's,Love's,,,VA,36.579118,-80.74051,no,yes
+osm:n6224489101,Love's,Love's,,,VA,36.951579,-80.882667,no,yes
+osm:n6594802098,Love's,Love's,,,VA,36.748467,-78.098953,no,yes
+osm:n7516177088,Love's,Love's,,,VA,37.177917,-81.140068,no,yes
+osm:n7556562928,Love's,Love's,13365 Glenbrook Avenue,Meadowview,VA,36.755978,-81.856445,no,yes
+osm:w1021489856,Love's,Love's,,,VA,38.022062,-79.141821,no,yes
+osm:w1021489859,Love's,Love's,3499 Lee Jackson Highway,Staunton,VA,38.021905,-79.143177,yes,yes
+osm:w1061161519,Love's,Love's,9104 Winterberry Avenue,Covington,VA,37.794092,-79.884653,no,yes
+osm:w1117027718,Love's,Love's,7200 County Drive,Disputanta,VA,37.156379,-77.27443,no,yes
+osm:w224605259,Love's,Love's,,,VA,36.605724,-77.560954,no,yes
+osm:w224605260,Love's,Love's,,,VA,36.605232,-77.560277,yes,yes
+osm:w781067019,Love's,Love's,23845 Rogers Clark Boulevard,Ruther Glen,VA,37.937598,-77.466307,yes,yes
+osm:w842802842,Love's,Love's,,,VA,37.179136,-81.139796,yes,yes
+osm:w781066444,Pilot,Mr. Fuel Travel Center,23818 Rogers Clark Boulevard,Ruther Glen,VA,37.939285,-77.465751,no,yes
+osm:w1073690493,ONE9,ONE9,,,VA,37.388704,-79.900513,yes,yes
+osm:n1294042514,Petro,Petro Dealer,,,VA,37.9296,-79.228879,yes,yes
+osm:n11403825520,Pilot,Pilot,,,VA,38.966478,-78.438515,no,yes
+osm:n12165022612,Pilot,Pilot,,,VA,37.184855,-77.31784,yes,yes
+osm:n12165022613,Pilot,Pilot,,,VA,37.18442,-77.318517,no,yes
+osm:n5224067414,Pilot,Pilot,6721 Emmans Church Road,,VA,37.500132,-77.089756,no,yes
+osm:n5497869217,Pilot,Pilot,2190 Philpott Road,South Boston,VA,36.675107,-78.926771,no,yes
+osm:n6224489913,Pilot,Pilot,,,VA,36.938618,-80.993024,no,yes
+osm:r12929994,Pilot,Pilot,2400 Holland Road,Suffolk,VA,36.714354,-76.66942,no,yes
+osm:w1058576872,Hess,Pilot,,,VA,36.607334,-77.560715,yes,yes
+osm:w220906168,Pilot,Pilot,,,VA,38.019887,-79.142849,yes,yes
+osm:w220906405,Pilot,Pilot,110 Riverpoint Drive,Danville,VA,36.582416,-79.353897,no,yes
+osm:w220909444,Pilot,Pilot,,,VA,37.310675,-77.391841,yes,yes
+osm:n4609317831,Pilot,Pilot Travel Center,3541 Lee Jackson Highway,Staunton,VA,38.019923,-79.140978,no,yes
+osm:n4933720061,Pilot,Pilot Travel Center,,,VA,37.93193,-79.231658,no,yes
+osm:w1147235921,Pilot,Pilot Travel Center,3634 North Valley Pike,Harrisonburg,VA,38.480159,-78.818433,no,yes
+osm:w220797084,Shell,Shell,10114 Lewistown Road,Ashland,VA,37.72405,-77.447521,yes,no
+osm:n6595821186,,Simmons,,,VA,36.599592,-78.15047,yes,no
+osm:n11381430094,TA,ta,,,VA,37.832278,-79.377706,yes,yes
+osm:n5047006423,,Ameristar,,,WA,46.309042,-119.979563,yes,no
+osm:n4151896423,,CFN,,,WA,46.607128,-122.905707,yes,no
+osm:n12300433387,Flying J,Flying J,,,WA,47.663354,-117.315544,yes,yes
+osm:w1148694683,Flying J,Flying J,,,WA,46.951425,-122.940865,yes,yes
+osm:w974517700,Flying J,Flying J,,,WA,46.952173,-122.940682,no,yes
+osm:n11687476869,Love's,Love's,,,WA,46.264463,-119.082439,no,yes
+osm:w225046490,Love's,Love's,,,WA,47.00792,-120.586213,yes,yes
+osm:w225046491,Love's,Love's,,,WA,47.007544,-120.586169,no,yes
+osm:w225046866,Love's,Love's,,,WA,47.244943,-122.384588,yes,yes
+osm:w225046867,Love's,Love's,,,WA,47.245336,-122.385068,no,yes
+osm:w705008098,Love's,Love's,1276 Rush Road,Napavine,WA,46.60423,-122.907754,no,yes
+osm:w705008099,Love's,Love's,,,WA,46.603419,-122.907264,yes,yes
+osm:w722961167,Love's,Love's,,,WA,47.113238,-118.367419,yes,yes
+osm:w722961169,Love's,Love's,,,WA,47.113186,-118.36626,no,yes
+osm:n11254003235,Love's,Loves,700 Wine Country Road,Prosser,WA,46.21972,-119.792881,no,yes
+osm:n12142719866,Pilot,Pilot,,,WA,48.187624,-122.196615,no,yes
+osm:n2100738508,Pilot,Pilot,,,WA,46.954162,-122.935328,yes,yes
+osm:n2338730114,Pilot,Pilot,,,WA,46.953126,-122.93499,no,yes
+osm:w1213093011,Pilot,Pilot,,,WA,47.005946,-120.587174,no,yes
+osm:w1250249428,Pilot,Pilot,,,WA,47.005524,-120.587937,yes,yes
+osm:w387276215,Pilot,Pilot,,,WA,45.669569,-120.834279,no,yes
+osm:w1033370988,Pilot,Pilot Express,1440 Puyallup Avenue,Tacoma,WA,47.242023,-122.412019,no,yes
+osm:w226329065,Pilot,Pilot Truck Stop,Biggs-Rufus Highway,,WA,45.669077,-120.835728,yes,yes
+osm:w1033371018,,Pyramid Gold Diesel,,,WA,47.241813,-122.412668,yes,no
+osm:n12647506902,BP,BP,,,WI,43.948309,-88.584733,yes,no
+osm:n599066739,BP,BP,1500 Planeview Drive,Oshkosh,WI,43.94776,-88.584512,yes,no
+osm:w422968112,BP,BP,11800 Burlington Road,Kenosha,WI,42.615244,-87.950101,yes,no
+osm:n12244394866,,Flying J,,,WI,44.962974,-92.561102,yes,yes
+osm:n2395415489,Flying J,Flying J,,,WI,44.295016,-90.83024,no,yes
+osm:n597551581,Flying J,Flying J,,,WI,44.295438,-90.829355,yes,yes
+osm:w1084546229,Kwik Trip,Kwik Trip,,,WI,42.615881,-87.94604,yes,no
+osm:w1163707671,Kwik Trip,Kwik Trip,,,WI,43.797921,-90.061804,yes,no
+osm:w1420487105,Kwik Trip,Kwik Trip,,,WI,44.904398,-91.933802,yes,no
+osm:w848469130,Kwik Trip,Kwik Trip,,,WI,44.4269,-89.515412,yes,no
+osm:w982057632,Kwik Trip,Kwik Trip,,,WI,43.674122,-87.758281,yes,no
+osm:n11687461335,Love's,Love's,,,WI,43.961214,-90.378312,yes,yes
+osm:n11691932934,Love's,Love's,,,WI,42.87056,-87.941303,no,yes
+osm:n4108451495,Love's,Love's,,,WI,43.749017,-88.465393,yes,yes
+osm:n4108451498,Love's,Love's,,,WI,43.748878,-88.464194,no,yes
+osm:n993718581,Love's,Love's,,,WI,43.960908,-90.377236,yes,yes
+osm:w1058435665,Love's,Love's,,,WI,43.389532,-89.470282,no,yes
+osm:w1058435666,Love's,Love's,,,WI,43.389168,-89.46954,yes,yes
+osm:w1076995595,Love's,Love's,,,WI,42.652691,-88.543288,yes,yes
+osm:w1076995596,Love's,Love's,,,WI,42.652878,-88.542174,no,yes
+osm:w1256825583,Love's,Love's,,,WI,43.677259,-87.758213,yes,yes
+osm:w982057634,Love's,Love's,,,WI,43.676926,-87.757258,no,yes
+osm:n635243687,Love's,Love's Travel Stop,9650 South 20th Street,Oak Creek,WI,42.871257,-87.941522,no,yes
+osm:w220282566,Petro,Petro,,,WI,42.72502,-87.955391,yes,yes
+osm:n2726222856,Pilot,Pilot,,,WI,42.779212,-87.952134,yes,yes
+osm:n635241801,Pilot,Pilot,,,WI,42.77882,-87.951684,no,yes
+osm:w267159049,Pilot,Pilot,3001 Milwaukee Road,Beloit,WI,42.527205,-88.980014,yes,yes
+osm:w267159050,Pilot,Pilot,3001 Milwaukee Road,Beloit,WI,42.526674,-88.979538,no,yes
+osm:n635243078,Pilot,Pilot Travel Center,2031 West Ryan Road,Oak Creek,WI,42.871485,-87.944417,yes,yes
+osm:w267159234,Road Ranger,Road Ranger,1946 Energy Drive,East Troy,WI,42.790365,-88.389315,yes,no
+osm:w1023123841,Pilot,Pilot,,,WV,38.443664,-81.83112,no,yes
+osm:w689772830,Pilot,Pilot,,,WV,38.70522,-80.664197,no,yes
+osm:w689772833,Pilot,Pilot,,,WV,38.704933,-80.663606,yes,yes
+osm:w220734028,TA,TA Travel Authority,,,WV,38.454515,-81.93515,yes,yes
+osm:w1075813609,Exxon,Exxon,,,WY,41.160089,-104.521449,yes,no
+osm:n12167548978,Flying J,Flying J,,,WY,41.609084,-109.231101,yes,yes
+osm:n3931967108,Flying J,Flying J,,,WY,41.609442,-109.230572,no,yes
+osm:n6556592496,Flying J,Flying J,10501 US Highway 30,Cokeville,WY,42.086753,-110.947979,no,yes
+osm:n9199725897,Flying J,Flying J,10501 US Highway 30,Cokeville,WY,42.087296,-110.947872,yes,yes
+osm:w226827097,Flying J,Flying J,,,WY,44.277369,-105.494884,no,yes
+osm:w226827099,Flying J,Flying J,,,WY,44.277076,-105.495299,yes,yes
+osm:w235560503,Flying J,Flying J,,,WY,41.778385,-107.309025,yes,yes
+osm:w235560504,Flying J,Flying J,,,WY,41.778095,-107.309798,no,yes
+osm:n10219971318,Love's,Love's,1770 McCue Street,,WY,41.328625,-105.610902,no,yes
+osm:n1038018936,Love's,Love's,,,WY,41.675632,-107.982929,yes,yes
+osm:n11691971429,Love's,Love's,,,WY,41.675672,-107.982183,no,yes
+osm:w225052649,Love's,Love's,,,WY,41.097718,-104.8487,yes,yes
+osm:w225052650,Love's,Love's,,,WY,41.098535,-104.848512,no,yes
+osm:n2441943128,Pilot,Pilot,,,WY,41.136114,-104.707299,yes,yes
+osm:w235560248,,Pilot,289 Bear River Drive,,WY,41.269126,-110.941366,yes,yes
+osm:n1002844680,Pilot,Pilot Travel Center,8020 Campstool Road,Cheyenne,WY,41.136566,-104.706379,no,yes

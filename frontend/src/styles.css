@@ -1,0 +1,504 @@
+/* One stylesheet, plain CSS with custom properties. No utility framework: the UI
+   is four pages, and a build plugin would add more risk than it removes. */
+
+:root {
+  --bg: #f6f7f9;
+  --panel: #ffffff;
+  --ink: #17202a;
+  --muted: #667085;
+  --line: #dfe3e8;
+  --accent: #2563eb;
+  --accent-ink: #ffffff;
+  --positive: #067647;
+  --negative: #b42318;
+  --warn-bg: #fff8e6;
+  --warn-line: #f0c36d;
+  --error-bg: #fef3f2;
+  --error-line: #f3a29b;
+  --basis-bg: #eef4ff;
+  --radius: 10px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181f;
+    --panel: #1b2129;
+    --ink: #e8ecf1;
+    --muted: #97a2b0;
+    --line: #2c3540;
+    --accent: #4c8dff;
+    --accent-ink: #0b1017;
+    --positive: #4ade80;
+    --negative: #f98080;
+    --warn-bg: #2c2617;
+    --warn-line: #6b5620;
+    --error-bg: #2d1a19;
+    --error-line: #7a3330;
+    --basis-bg: #1e2836;
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 14px/1.5 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ---------- layout ---------- */
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  padding: 12px 20px;
+  background: var(--panel);
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  z-index: 500; /* above Leaflet's panes */
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.brand small {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.topbar nav {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.topbar nav a {
+  padding: 6px 12px;
+  border-radius: 999px;
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.topbar nav a:hover {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.topbar nav a.active {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+
+.lang {
+  margin-left: auto;
+}
+
+main {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 20px 16px 56px;
+}
+
+.planner {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+.panel h2 {
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .two-col {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- forms ---------- */
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-end;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 130px;
+}
+
+.field.grow {
+  flex: 1 1 220px;
+}
+
+.field.narrow {
+  width: 150px;
+}
+
+.field label,
+.field legend {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+input,
+select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px 10px;
+  min-height: 38px;
+}
+
+input:focus-visible,
+select:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+fieldset.basis-switch {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 4px 10px 8px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  min-width: 300px;
+}
+
+fieldset.basis-switch label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  color: var(--ink);
+  font-weight: 400;
+}
+
+button {
+  font: inherit;
+  border-radius: 8px;
+  padding: 9px 16px;
+  min-height: 38px;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+}
+
+button.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 600;
+}
+
+button.primary:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+button.ghost {
+  background: transparent;
+}
+
+button.ghost.danger {
+  color: var(--negative);
+  border-color: transparent;
+  padding: 4px 8px;
+}
+
+button.swap {
+  align-self: flex-end;
+  padding: 9px 12px;
+}
+
+/* ---------- banners and hints ---------- */
+
+.banner {
+  margin: 0;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.banner-warn {
+  background: var(--warn-bg);
+  border-color: var(--warn-line);
+}
+
+.banner-error {
+  background: var(--error-bg);
+  border-color: var(--error-line);
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 0;
+}
+
+.hint.indent {
+  padding: 0 4px;
+}
+
+.empty {
+  color: var(--muted);
+  padding: 28px;
+  text-align: center;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+}
+
+.breadcrumbs {
+  margin: 0;
+}
+
+.breadcrumbs a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ---------- summary strip ---------- */
+
+.summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.summary > div {
+  background: var(--panel);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.summary span {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.summary strong {
+  font-size: 18px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- savings ---------- */
+
+.savings {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+.savings h2 {
+  margin: 0;
+  font-size: 14px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.savings-amount {
+  margin: 6px 0 14px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.05;
+  font-variant-numeric: tabular-nums;
+  display: flex;
+  flex-direction: column;
+}
+
+.savings-positive .savings-amount {
+  color: var(--positive);
+}
+
+.savings-amount small {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.savings-compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 0 0 10px;
+}
+
+.savings-compare dt {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.savings-compare dd {
+  margin: 2px 0 0;
+  font-size: 17px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- tables ---------- */
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+
+th,
+td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+th {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+  background: var(--panel);
+}
+
+td.num,
+th.num {
+  text-align: right;
+}
+
+/* The price column the plan was optimized on. */
+.basis {
+  background: var(--basis-bg);
+  font-weight: 600;
+}
+
+.strong {
+  font-weight: 600;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.positive {
+  color: var(--positive);
+}
+
+.negative {
+  color: var(--negative);
+}
+
+tr.row-warn td {
+  background: var(--warn-bg);
+}
+
+td a {
+  color: var(--accent);
+}
+
+.totals {
+  display: flex;
+  gap: 26px;
+  flex-wrap: wrap;
+  margin: 14px 0 6px;
+}
+
+.totals dt {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.totals dd {
+  margin: 2px 0 0;
+  font-size: 17px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- map ---------- */
+
+.map-panel {
+  padding: 0;
+  overflow: hidden;
+}
+
+.map {
+  height: 460px;
+  width: 100%;
+}
+
+.stop-pin,
+.endpoint-pin {
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  font: 600 12px/1 system-ui, sans-serif;
+  color: #fff;
+  background: var(--accent);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.4);
+}
+
+.endpoint-start {
+  background: #067647;
+}
+
+.endpoint-end {
+  background: #b42318;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

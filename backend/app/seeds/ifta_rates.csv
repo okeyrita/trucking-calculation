@@ -1,0 +1,62 @@
+# IFTA diesel tax rates, USD per gallon.
+#
+# !!! PLACEHOLDER DATA — VERIFY BEFORE USING THESE NUMBERS FOR MONEY !!!
+# These are approximate figures in the right ballpark, seeded so the IFTA
+# calculation can be exercised end to end. The authoritative source is the
+# quarterly IFTA Inc. tax matrix: https://www.iftach.org/ (Tax Rate Matrix).
+# Rates change quarterly; re-seed from the matrix each quarter.
+#
+# Oregon is 0 on purpose: it taxes heavy trucks through a weight-mile tax
+# rather than a per-gallon fuel tax, so there is no IFTA fuel-tax credit there.
+state_code,fuel_type,tax_per_gallon,effective_from
+AL,diesel,0.2900,2024-07-01
+AK,diesel,0.0895,2024-07-01
+AZ,diesel,0.2700,2024-07-01
+AR,diesel,0.2850,2024-07-01
+CA,diesel,0.8090,2024-07-01
+CO,diesel,0.2050,2024-07-01
+CT,diesel,0.4920,2024-07-01
+DE,diesel,0.2200,2024-07-01
+DC,diesel,0.2870,2024-07-01
+FL,diesel,0.3770,2024-07-01
+GA,diesel,0.3260,2024-07-01
+HI,diesel,0.1700,2024-07-01
+ID,diesel,0.3200,2024-07-01
+IL,diesel,0.6280,2024-07-01
+IN,diesel,0.5700,2024-07-01
+IA,diesel,0.3250,2024-07-01
+KS,diesel,0.2600,2024-07-01
+KY,diesel,0.2870,2024-07-01
+LA,diesel,0.2000,2024-07-01
+ME,diesel,0.3120,2024-07-01
+MD,diesel,0.4470,2024-07-01
+MA,diesel,0.2400,2024-07-01
+MI,diesel,0.4700,2024-07-01
+MN,diesel,0.2850,2024-07-01
+MS,diesel,0.1840,2024-07-01
+MO,diesel,0.2450,2024-07-01
+MT,diesel,0.2975,2024-07-01
+NE,diesel,0.2480,2024-07-01
+NV,diesel,0.2700,2024-07-01
+NH,diesel,0.2220,2024-07-01
+NJ,diesel,0.4930,2024-07-01
+NM,diesel,0.2100,2024-07-01
+NY,diesel,0.4025,2024-07-01
+NC,diesel,0.4050,2024-07-01
+ND,diesel,0.2300,2024-07-01
+OH,diesel,0.4700,2024-07-01
+OK,diesel,0.2000,2024-07-01
+OR,diesel,0.0000,2024-07-01
+PA,diesel,0.7410,2024-07-01
+RI,diesel,0.3700,2024-07-01
+SC,diesel,0.2800,2024-07-01
+SD,diesel,0.2800,2024-07-01
+TN,diesel,0.2700,2024-07-01
+TX,diesel,0.2000,2024-07-01
+UT,diesel,0.3650,2024-07-01
+VT,diesel,0.3200,2024-07-01
+VA,diesel,0.2720,2024-07-01
+WA,diesel,0.4940,2024-07-01
+WV,diesel,0.3720,2024-07-01
+WI,diesel,0.3290,2024-07-01
+WY,diesel,0.2400,2024-07-01
